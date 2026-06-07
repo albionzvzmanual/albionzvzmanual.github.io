@@ -1,0 +1,77 @@
+site_name: Albion ZvZ Manual
+site_description: The Field Manual for Large-Scale Albion Warfare
+site_author: Albion ZvZ Manual Project
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.prune
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: deep orange
+extra_css:
+  - assets/stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - attr_list
+nav:
+  - Home: index.md
+  - Start Here:
+      - Overview: start-here/index.md
+      - New to ZvZ: start-here/new-to-zvz.md
+      - Ten Rules Before CTA: start-here/ten-rules-before-cta.md
+      - Pick Your First Role: start-here/pick-your-first-role.md
+      - How to Read Calls: start-here/how-to-read-calls.md
+      - First CTA Checklist: start-here/first-cta-checklist.md
+  - Role Guides:
+      - Overview: roles/index.md
+      - All Players: roles/all-players.md
+      - DPS Overview: roles/dps-overview.md
+      - Ranged DPS: roles/ranged-dps.md
+      - Melee Pressure / Execute DPS: roles/melee-pressure-dps.md
+      - Support DPS: roles/support-dps.md
+      - Holy Healers: roles/holy-healers.md
+      - Nature Healers: roles/nature-healers.md
+      - Supports: roles/supports.md
+      - Engage Tanks: roles/engage-tanks.md
+      - Stopper Tanks: roles/stopper-tanks.md
+      - Caller / Officers: roles/caller-officers.md
+      - Scouts / Info: roles/scouts-info.md
+  - Fight Concepts:
+      - Overview: fight-concepts/index.md
+      - Movement and Positioning: fight-concepts/movement-positioning.md
+      - Counter-Engage Windows: fight-concepts/counter-engage-windows.md
+      - Pressure Types: fight-concepts/pressure-types.md
+      - Defensive Layering: fight-concepts/defensive-layering.md
+      - Terrain and Geometry: fight-concepts/terrain-geometry.md
+      - DPS Timing: fight-concepts/dps-timing.md
+      - Q/W Pressure Floor: fight-concepts/qw-pressure.md
+      - High-Value Targets: fight-concepts/high-value-targets.md
+      - Mechanics Overview: mechanics/index.md
+      - Fight Style Literacy: playstyles/index.md
+  - Field Tools:
+      - Weapon and Ability Notes: weapon-notes/index.md
+      - Role and Tool Library: weapon-notes/role-tool-library.md
+      - Calling Styles: calling-styles/index.md
+      - Practical Examples: practical-examples/index.md
+      - Training: training/index.md
+  - Formation Ledger: workbooks/index.md
+  - Project Info:
+      - Sources / Credit: sources-credit/index.md
+      - Current Scope: sources-credit/current-scope.md
+      - Contribute / Corrections: sources/contribution-correction-policy.md
+extra:
+  version: Live public manual v3.1.5
