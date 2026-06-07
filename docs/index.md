@@ -36,7 +36,7 @@ The guide is built through strong role material - especially Khelron teachings -
 </div>
 <div class="ao-card accent">
 <h3>Using the Formation Ledger</h3>
-<p>The Formation Ledger is optional tooling for signups, party assignment, coverage, builds, and drills.</p>
+<p>The Formation Ledger is reusable tooling for signups, party assignment, coverage, builds, drills, and future comp packages.</p>
 <p><a href="workbooks/">Open Formation Ledger Hub</a></p>
 </div>
 </div>
@@ -50,16 +50,20 @@ The guide is built through strong role material - especially Khelron teachings -
 | Fight Concepts | positioning, movement, timing, pressure, terrain, and defensive layers |
 | Weapon and Ability Notes | how tools create value, not a fixed list of what everyone must play |
 | Training and VOD Review | how to turn mistakes into drills and role feedback |
-| Formation Ledger | optional operating tool for signups, party assignment, coverage checks, builds, and drills |
+| Formation Ledger | reusable operating structure for signups, party assignment, coverage checks, builds, and comp-package examples |
 
 ## Manual first, ledger second
 
 The manual is general Albion ZvZ education. The **Albion ZvZ Formation Ledger** is optional tooling for groups that want a shared sheet for signups, party assignment, role coverage, build references, and training notes.
 
-The current public ledger is the **Control Comp Public Copy** and currently supports the **Great Fire Control Formation**. Treat it as an applied example and operating tool, not as a claim that every group should play that formation.
+The ledger should be read as a reusable structure first. The current public sheet includes the **Great Fire Control Formation** as the first filled example package, not as a claim that every group should play that comp or chase that meta.
 
 <div class="ao-callout blue">
-<strong>Live Formation Ledger:</strong> <a href="https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing">Open the Albion ZvZ Formation Ledger - Control Comp Public Copy</a>. Make your own copy before editing.
+<strong>Live Formation Ledger:</strong> <a href="https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing">Open the Albion ZvZ Formation Ledger</a>. Make your own copy before editing.
+</div>
+
+<div class="ao-callout orange">
+<strong>Want another comp represented?</strong> The project needs reliable package data: role lists, builds, scaling order, healer/support requirements, call notes, and source or testing context. See <a href="workbooks/comp-package-intake/">Submit a Comp Package</a>.
 </div>
 
 ## How to read weapon examples

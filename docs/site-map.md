@@ -10,6 +10,7 @@ Use this page when you want the full public structure at a glance.
 - [Fight Concepts](fight-concepts/index.md)
 - [Field Tools](weapon-notes/index.md)
 - [Formation Ledger](workbooks/index.md)
+- [Submit a Comp Package](workbooks/comp-package-intake.md)
 - [Sources / Credit](sources-credit/index.md)
 
 ## Recommended route
@@ -20,6 +21,7 @@ Use this page when you want the full public structure at a glance.
 4. [Movement and Positioning](fight-concepts/movement-positioning.md)
 5. [Counter-Engage Windows](fight-concepts/counter-engage-windows.md)
 6. [Weapon and Ability Notes](weapon-notes/index.md)
-7. [Training](training/index.md)
+7. [Formation Ledger](workbooks/index.md)
+8. [Training](training/index.md)
 
 The sidebar shows the public learning path and core reference sections.

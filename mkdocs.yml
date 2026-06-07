@@ -69,10 +69,12 @@ nav:
       - Calling Styles: calling-styles/index.md
       - Practical Examples: practical-examples/index.md
       - Training: training/index.md
-  - Formation Ledger: workbooks/index.md
+  - Formation Ledger:
+      - Overview: workbooks/index.md
+      - Submit a Comp Package: workbooks/comp-package-intake.md
   - Project Info:
       - Sources / Credit: sources-credit/index.md
       - Current Scope: sources-credit/current-scope.md
       - Contribute / Corrections: sources/contribution-correction-policy.md
 extra:
-  version: Live public manual v3.1.6
+  version: Live public manual v3.2

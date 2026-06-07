@@ -1,13 +1,13 @@
-Albion ZvZ Manual - Organization URL Migration v3.1.6
+Albion ZvZ Manual - Review Notes
 
-Official live site:
+Official site:
 https://albionzvzmanual.github.io/
 
-This package records the move from the personal GitHub Pages URL to the organization-owned URL.
-
 Review focus:
-- homepage loads on the organization URL
-- Formation Ledger link works
-- navigation/search work
-- old personal URL is no longer the primary public link
-- no doctrine/content expansion was added in this pass
+- Can readers understand the manual without project context?
+- Does the Formation Ledger read as a reusable tool, not a forced comp?
+- Does the Great Fire Control Formation read as an example package, not a meta claim?
+- Is the Submit a Comp Package page clear enough for community data collection?
+- Are there broken links, confusing pages, or awkward public wording?
+
+Do not review this as a doctrine-validity vote on AO University/Khelron material. Review usability, clarity, and public presentation.

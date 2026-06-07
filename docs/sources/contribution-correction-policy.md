@@ -13,4 +13,20 @@ Useful corrections include:
 
 Please include the page, the issue, and the suggested fix.
 
+## Comp-package submissions
+
+The Formation Ledger can support additional packages when enough reliable data exists. Useful submissions include:
+
+- role list
+- party structure
+- build list
+- scaling order
+- healer/support requirements
+- caller notes
+- common mistakes
+- VOD/source/testing context
+- review or drill ideas
+
+Start with the [Submit a Comp Package](../workbooks/comp-package-intake.md) page.
+
 Do not submit private player callouts, guild drama, unlisted VOD identifiers, or unsupported claims that one comp package should become universal doctrine.

@@ -1,30 +1,27 @@
-# Albion ZvZ Manual Publication Checklist
+# Publication Checklist
 
-Official live site:
+Official site: https://albionzvzmanual.github.io/
 
-https://albionzvzmanual.github.io/
+## Before sharing broadly
 
-## Organization URL migration
+- [ ] Homepage loads.
+- [ ] Start Here route is clear.
+- [ ] Role Guides open correctly.
+- [ ] Fight Concepts open correctly.
+- [ ] Formation Ledger link works.
+- [ ] Submit a Comp Package page opens.
+- [ ] Sources / Credit page is concise and public-safe.
+- [ ] Google Sheets ledger is view-only / copy-first.
+- [ ] No private VOD names or private player callouts are visible.
 
-- [x] GitHub organization created: `albionzvzmanual`.
-- [x] Organization Pages repository created: `albionzvzmanual.github.io`.
-- [x] MkDocs workflow deployed successfully through GitHub Actions.
-- [x] Official live URL confirmed: https://albionzvzmanual.github.io/
-- [ ] Live homepage checked after v3.1.6 update.
-- [ ] Formation Ledger link checked after v3.1.6 update.
-- [ ] Sidebar/top navigation checked after v3.1.6 update.
-- [ ] Search checked after v3.1.6 update.
-- [ ] Mobile layout checked after v3.1.6 update.
+## Feedback request
 
-## Public sharing readiness
+Ask reviewers for usability feedback first:
 
-- [ ] Use the organization URL, not the old personal GitHub Pages URL.
-- [ ] Keep the old personal repo/site as backup until the organization site is stable.
-- [ ] Share privately or in a small Discord first before Reddit/forums.
-- [ ] Collect usability feedback, not doctrine re-validation.
+- What is confusing?
+- What feels too internal?
+- What is broken?
+- What would help a newer player understand where to start?
+- If submitting a comp package, what data can they provide?
 
-## Do not add before first public share
-
-- [ ] No new transcript expansion unless it fixes a real public blocker.
-- [ ] No new comp package promises.
-- [ ] No diagram expansion unless diagrams are clearer than text.
+Do not treat early feedback as a mandate to chase every current meta claim.
