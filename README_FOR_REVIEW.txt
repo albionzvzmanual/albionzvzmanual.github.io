@@ -1,12 +1,13 @@
-Albion ZvZ Manual - Public Reader Cleanup v3.1.5
+Albion ZvZ Manual - Organization URL Migration v3.1.6
 
-This package cleans the live public reader path:
-- removes leftover source-process wording from normal pages
-- keeps source and privacy standards concise on the Sources / Credit page
-- uses a public Current Scope page
-- removes public diagram pages until visuals are clear enough to help
-- improves First CTA Checklist with field-behavior habits
-- removes an unclear defensive ordering note
-- integrates useful role-family notes into their proper role pages without duplicating them
+Official live site:
+https://albionzvzmanual.github.io/
 
-This is a public-readability update, not a doctrine expansion.
+This package records the move from the personal GitHub Pages URL to the organization-owned URL.
+
+Review focus:
+- homepage loads on the organization URL
+- Formation Ledger link works
+- navigation/search work
+- old personal URL is no longer the primary public link
+- no doctrine/content expansion was added in this pass

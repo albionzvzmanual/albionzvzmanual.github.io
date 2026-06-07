@@ -1,5 +1,7 @@
 # Current Scope
 
+Official site: **https://albionzvzmanual.github.io/**
+
 This site is a live public manual. It is useful now, but it is not trying to contain every possible Albion comp, weapon branch, or meta argument.
 
 ## What this site focuses on

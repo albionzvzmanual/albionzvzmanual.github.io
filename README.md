@@ -2,6 +2,10 @@
 
 *The Field Manual for Large-Scale Albion Warfare*
 
+Official live site:
+
+https://albionzvzmanual.github.io/
+
 This repository contains the public website source for the Albion ZvZ Manual.
 
 Current public names:
@@ -13,6 +17,12 @@ Current public names:
 
 ## Publishing
 
-This repository is prepared for GitHub Pages through GitHub Actions.
+This repository is the organization-owned GitHub Pages home for the public manual. It publishes through GitHub Actions and serves the MkDocs build at:
 
-The public site is currently published from this repository's Pages deployment. The v3.1.5 update focuses on public-scope cleanup: removing comp-specific branches from the manual nav, keeping the Formation Ledger as optional tooling, and integrating useful framework material into doctrine pages.
+https://albionzvzmanual.github.io/
+
+The v3.1.6 update records the organization URL migration and release cleanup. It does not add doctrine, transcript material, or new comp packages.
+
+## Formation Ledger
+
+The live Formation Ledger is linked from the public site. Readers should open the sheet as a viewer and use **File -> Make a copy** before editing.

@@ -1,6 +1,7 @@
 site_name: Albion ZvZ Manual
 site_description: The Field Manual for Large-Scale Albion Warfare
 site_author: Albion ZvZ Manual Project
+site_url: https://albionzvzmanual.github.io/
 theme:
   name: material
   features:
@@ -74,4 +75,4 @@ nav:
       - Current Scope: sources-credit/current-scope.md
       - Contribute / Corrections: sources/contribution-correction-policy.md
 extra:
-  version: Live public manual v3.1.5
+  version: Live public manual v3.1.6

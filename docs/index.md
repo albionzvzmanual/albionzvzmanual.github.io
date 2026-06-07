@@ -76,4 +76,4 @@ Core educational credit belongs to **Khelron and AO University**. Their teaching
 
 ## Current state
 
-The manual is live and actively maintained. For current scope boundaries and future improvements, see [Current Scope](sources-credit/current-scope.md).
+The manual is live at **https://albionzvzmanual.github.io/** and actively maintained. For current scope boundaries and future improvements, see [Current Scope](sources-credit/current-scope.md).
