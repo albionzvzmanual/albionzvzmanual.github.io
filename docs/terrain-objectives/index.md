@@ -13,3 +13,9 @@ A fight around a castle, territory, wall, gate, bridge, chest room, mage, or tow
 <div class="ao-card blue"><h3>Castles and Territories</h3><p>Objectives change geometry, risk, and pressure; they do not remove basic discipline.</p><p><a href="castles-territories-objectives/">Read</a></p></div>
 <div class="ao-card blue"><h3>One-Angle Simplification</h3><p>If you do not need to contest multiple angles, do not give the enemy multiple angles.</p><p><a href="one-angle-simplification/">Read</a></p></div>
 </div>
+
+## Related Library references
+
+- [Terrain and Geometry](../fight-concepts/terrain-geometry.md) for older terrain notes.
+- [Movement and Positioning](../fight-concepts/movement-positioning.md) for positioning context.
+- [Objective Door Fights](../practical-examples/objective-door-fights.md) for practical objective examples.

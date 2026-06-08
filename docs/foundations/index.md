@@ -25,3 +25,9 @@ Do not ask only, "what weapon is good?" Ask:
 > What battlefield problem does this role, call, or tool solve?
 
 That question keeps the manual comp-neutral and helps players adapt when patches, metas, or rosters change.
+
+## Related Library references
+
+- [Mechanics](../mechanics/index.md) for underlying game rules.
+- [Playstyles](../playstyles/index.md) for older style-reference pages.
+- [Fight Concepts](../fight-concepts/index.md) for supporting concept notes.

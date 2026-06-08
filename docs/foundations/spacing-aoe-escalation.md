@@ -51,3 +51,9 @@ When the caller says "spread," pause the VOD and ask:
 - [Spread Does Not Mean Leave the Fight](../fight-execution/spread-does-not-mean-leave.md)
 - [AoE Escalation](../mechanics/aoe-escalation.md)
 - [Chokes, Bridges, Gates](../terrain-objectives/chokes-bridges-gates.md)
+
+## Related Library references
+
+- [AoE Escalation](../mechanics/aoe-escalation.md)
+- [Defensive Layering](../fight-concepts/defensive-layering.md)
+- [Movement and Positioning](../fight-concepts/movement-positioning.md)

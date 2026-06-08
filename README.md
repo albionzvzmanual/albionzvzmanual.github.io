@@ -6,7 +6,7 @@ This repository contains the GitHub Pages source for the Albion ZvZ Manual.
 
 ## Current package
 
-**v3.3.2 Curriculum Expansion Patch**
+**v3.3.3 Curriculum Expansion Patch**
 
 This update restructures the site around a manual-first ZvZ curriculum:
 

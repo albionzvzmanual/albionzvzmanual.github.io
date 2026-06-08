@@ -48,3 +48,9 @@ After a fight, answer:
 - [Pressure](pressure.md)
 - [Style Counters](../playstyles/style-counters.md)
 - [Using the Formation Ledger](../workbooks/index.md)
+
+## Related Library references
+
+- [Playstyles](../playstyles/index.md)
+- [Style Counters](../playstyles/style-counters.md)
+- [Calling Styles](../calling-styles/index.md)

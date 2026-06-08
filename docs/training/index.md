@@ -15,3 +15,9 @@ Improvement requires more than rereading doctrine. Players need review prompts, 
 > A mistake is useful only if it becomes a clearer next action.
 
 Do not review only to blame. Review to identify the next drill, role correction, or calling adjustment.
+
+## Related Library references
+
+- [Learning Paths](../learning-paths/index.md) for older role-based reading paths.
+- [Concept to Drill Map](concept-to-drill-map.md) for training translation.
+- [Practical Examples](../practical-examples/index.md) for review examples.

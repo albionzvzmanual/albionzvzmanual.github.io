@@ -58,3 +58,9 @@ After a fight, compare comms to reality:
 - [Caller Decision Framework](caller-decision-framework.md)
 - [Scouts / Info](../roles/scouts-info.md)
 - [Outcome-Independent Review](../training/outcome-independent-review.md)
+
+## Related Library references
+
+- [Calling Styles](../calling-styles/index.md)
+- [High-Value Targets](../fight-concepts/high-value-targets.md)
+- [Scouts / Info](../roles/scouts-info.md)

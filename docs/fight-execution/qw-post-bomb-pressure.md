@@ -60,3 +60,9 @@ Find a fight where enemies survived at low HP. Ask:
 - [Pressure](../foundations/pressure.md)
 - [Enemy Cooldowns Are Spent](spent-cooldowns.md)
 - [DPS Overview](../roles/dps-overview.md)
+
+## Related Library references
+
+- [Q/W Pressure](../fight-concepts/qw-pressure.md)
+- [Counter Window Example](../practical-examples/counter-window.md)
+- [Pressure Types](../fight-concepts/pressure-types.md)

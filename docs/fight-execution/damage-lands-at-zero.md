@@ -52,3 +52,9 @@ For each engage, ask:
 - [Timing and Tempo](../foundations/timing-tempo.md)
 - [DPS Timing](../fight-concepts/dps-timing.md)
 - [Clump Before Zero](../roles/engage-tanks.md)
+
+## Related Library references
+
+- [DPS Timing](../fight-concepts/dps-timing.md)
+- [Counter-Engage Windows](../fight-concepts/counter-engage-windows.md)
+- [DPS Timing Example](../practical-examples/dps-timing-example.md)

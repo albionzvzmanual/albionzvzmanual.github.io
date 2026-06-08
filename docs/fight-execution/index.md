@@ -11,3 +11,9 @@ This section focuses on repeatable fight rules that apply across many comps.
 <div class="ao-card blue"><h3>Spent Cooldowns</h3><p>After enemy cooldowns are spent, red name tags may be opportunity, not danger.</p><p><a href="spent-cooldowns/">Read</a></p></div>
 <div class="ao-card blue"><h3>First-Engage Survival</h3><p>Many comps win if they survive the first enemy hit without feeding a clump.</p><p><a href="first-engage-survival/">Read</a></p></div>
 </div>
+
+## Related Library references
+
+- [DPS Timing](../fight-concepts/dps-timing.md) for older timing notes.
+- [Q/W Pressure](../fight-concepts/qw-pressure.md) for pressure-floor examples.
+- [Defensive Layering](../fight-concepts/defensive-layering.md) for support timing context.

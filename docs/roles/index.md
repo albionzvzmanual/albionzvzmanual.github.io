@@ -33,3 +33,9 @@ For any role, review with these questions:
 ## Specialized role pages
 
 The manual also keeps specialized pages for ranged DPS, melee pressure, support DPS, Holy, Nature, and other role families. Read them after the general role principle is clear.
+
+## Related Library references
+
+- [Role and Tool Library](../weapon-notes/role-tool-library.md) for matching tools to jobs.
+- [Weapon and Ability Notes](../weapon-notes/index.md) for tool-function context.
+- [Practical Examples](../practical-examples/index.md) for role behavior examples.

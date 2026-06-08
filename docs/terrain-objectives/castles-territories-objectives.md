@@ -67,3 +67,9 @@ For an objective fight, ask:
 - [Chokes, Bridges, Gates](chokes-bridges-gates.md)
 - [One-Angle Simplification](one-angle-simplification.md)
 - [Objective Door Fight Example](../practical-examples/objective-door-fights.md)
+
+## Related Library references
+
+- [Objective Door Fights](../practical-examples/objective-door-fights.md)
+- [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
+- [Defensive Layering](../fight-concepts/defensive-layering.md)

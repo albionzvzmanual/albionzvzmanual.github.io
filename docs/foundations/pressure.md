@@ -52,3 +52,9 @@ In VOD review, find one enemy player who survived at low HP. Ask:
 - [Q/W Pressure Floor](../fight-concepts/qw-pressure.md)
 - [Q/W and Post-Bomb Pressure](../fight-execution/qw-post-bomb-pressure.md)
 - [Supports Own the Danger Lane](../roles/supports.md)
+
+## Related Library references
+
+- [Pressure Types](../fight-concepts/pressure-types.md)
+- [Q/W Pressure](../fight-concepts/qw-pressure.md)
+- [Practical Examples](../practical-examples/index.md)

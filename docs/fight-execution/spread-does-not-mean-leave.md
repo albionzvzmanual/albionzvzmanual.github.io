@@ -53,3 +53,9 @@ During VOD review, every time "spread" is called, freeze three seconds later. Ma
 - [Spacing and AoE Escalation](../foundations/spacing-aoe-escalation.md)
 - [Chokes, Bridges, Gates](../terrain-objectives/chokes-bridges-gates.md)
 - [Healers Heal Danger](../roles/healers.md)
+
+## Related Library references
+
+- [Movement and Positioning](../fight-concepts/movement-positioning.md)
+- [AoE Escalation](../mechanics/aoe-escalation.md)
+- [Kite as Unit](../practical-examples/kite-as-unit.md)

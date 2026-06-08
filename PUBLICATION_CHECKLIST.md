@@ -1,4 +1,4 @@
-# Publication Checklist - v3.3.2 Curriculum Expansion Patch
+# Publication Checklist - v3.3.3 Curriculum Expansion Patch
 
 Before publishing:
 
@@ -15,4 +15,4 @@ Before publishing:
 
 Recommended announcement framing:
 
-> Albion ZvZ Manual v3.3.2 refines the manual into a structured ZvZ curriculum: foundations, fight execution, role guides, calling/information, terrain/objectives, training/VOD review, and a companion Formation Ledger for comp documentation.
+> Albion ZvZ Manual v3.3.3 refines the manual into a structured ZvZ curriculum: foundations, fight execution, role guides, calling/information, terrain/objectives, training/VOD review, and a companion Formation Ledger for comp documentation.

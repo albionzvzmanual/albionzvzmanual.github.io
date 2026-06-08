@@ -60,3 +60,9 @@ Review one failed call and ask:
 - [How to Read Calls](../start-here/how-to-read-calls.md)
 - [Line Members Must Still Read](line-member-reading.md)
 - [Bridge and Choke Push-Through](../terrain-objectives/chokes-bridges-gates.md)
+
+## Related Library references
+
+- [Direction Calls Example](../practical-examples/direction-calls.md)
+- [Calling Styles](../calling-styles/index.md)
+- [Movement and Positioning](../fight-concepts/movement-positioning.md)

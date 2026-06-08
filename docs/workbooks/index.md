@@ -53,3 +53,9 @@ The current public sheet includes **Great Fire Control Formation** as a filled e
 ## Version note
 
 The downloadable file uses a stable public filename so existing links can keep working when the workbook is updated. The visible release note above records the current workbook version.
+
+## Related Library references
+
+- [Role and Tool Library](../weapon-notes/role-tool-library.md) for tool-function planning.
+- [Playstyles](../playstyles/index.md) for style vocabulary.
+- [Build Evaluation Framework](../weapon-notes/build-evaluation-framework.md) for comp-package review.

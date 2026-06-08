@@ -17,3 +17,9 @@ A caller makes decisions from terrain, enemy movement, cooldowns, kill feed, sco
 Better information produces better calls, better role decisions, and cleaner VOD review.
 
 Bad information makes good players late and makes callers guess.
+
+## Related Library references
+
+- [Calling Styles](../calling-styles/index.md) for older calling-pattern references.
+- [Direction Calls Example](../practical-examples/direction-calls.md) for practical interpretation examples.
+- [High-Value Targets](../fight-concepts/high-value-targets.md) for information-priority context.

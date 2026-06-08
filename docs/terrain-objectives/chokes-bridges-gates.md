@@ -59,3 +59,9 @@ On every choke death, ask:
 - [Spread Does Not Mean Leave the Fight](../fight-execution/spread-does-not-mean-leave.md)
 - [Healer Guide](../roles/healers.md)
 - [Defensive / Stopper Tanks](../roles/stopper-tanks.md)
+
+## Related Library references
+
+- [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
+- [Objective Door Fights](../practical-examples/objective-door-fights.md)
+- [Movement and Positioning](../fight-concepts/movement-positioning.md)
