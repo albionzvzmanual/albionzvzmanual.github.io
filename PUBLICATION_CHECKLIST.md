@@ -1,4 +1,4 @@
-# Publication Checklist - v3.4.2 Curriculum Expansion Patch
+# Publication Checklist - v3.4.1 Spacing and Mechanics Clarification
 
 Before publishing:
 
@@ -15,7 +15,7 @@ Before publishing:
 
 Recommended announcement framing:
 
-> Albion ZvZ Manual v3.4.2 refines the manual into a structured ZvZ curriculum: foundations, fight execution, role guides, calling/information, terrain/objectives, training/VOD review, and a companion Formation Ledger for comp documentation.
+> Albion ZvZ Manual v3.4.1 keeps the role guide expansion and adds small clarifications for focus fire protection / resilience and intent-based spacing without turning the manual into a meta guide.
 
 
 ## Role guide expansion checks
@@ -24,3 +24,10 @@ Recommended announcement framing:
 - Role pages explain function before tools or weapons.
 - DPS, healer, support, tank, caller, and scout pages all include VOD-review prompts.
 - Great Fire Control remains only an example package in the Ledger, not a public doctrine identity.
+
+
+## v3.4.1 clarification checks
+
+- Spacing clarification avoids rigid playstyle labels.
+- Focus fire / resilience is explained conceptually, not with hard-coded current numbers.
+- No analytics script or tracking change is included in this patch.

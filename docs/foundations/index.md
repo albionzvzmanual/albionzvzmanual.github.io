@@ -15,7 +15,7 @@ A player who understands foundations can watch a fight and ask useful questions:
 <div class="ao-card blue"><h3>Fight Flow</h3><p>Understand contact, engage, counter, reset, chase, and objective pressure.</p><p><a href="fight-flow/">Read</a></p></div>
 <div class="ao-card blue"><h3>Timing and Tempo</h3><p>Learn cooldown windows, engage rhythm, and why tempo is a group property.</p><p><a href="timing-tempo/">Read</a></p></div>
 <div class="ao-card blue"><h3>Pressure</h3><p>Damage is only one pressure type. Position, timing, information, and disruption also win fights.</p><p><a href="pressure/">Read</a></p></div>
-<div class="ao-card blue"><h3>Spacing and AoE Escalation</h3><p>Spacing is a defensive tool, not a cosmetic formation idea.</p><p><a href="spacing-aoe-escalation/">Read</a></p></div>
+<div class="ao-card blue"><h3>Spacing and AoE Escalation</h3><p>Spacing explains AoE escalation, resilience, and why useful spread depends on intent.</p><p><a href="spacing-aoe-escalation/">Read</a></p></div>
 </div>
 
 ## Foundation rule

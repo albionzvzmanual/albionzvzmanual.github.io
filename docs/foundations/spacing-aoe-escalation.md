@@ -27,6 +27,14 @@ Large clumps create multiple problems at once:
 - DPS lose angles and block each other
 - panic movement spreads the problem late instead of preventing it early
 
+## Focus Fire Protection / Resilience
+
+AoE escalation explains why clumps die so quickly. Focus fire protection, often called resilience, explains why one player does not always die instantly just because many players hit them.
+
+In ZvZ, good damage is not only "everyone hit one target." Good damage comes from timing, clump quality, pierce, heal cut, pressure, and choosing targets that can actually be killed.
+
+This is why spacing matters in both directions: clumping too tightly gives the enemy AoE value, but spreading your damage with no timing or pressure can also fail to kill anything.
+
 ## Role application
 
 | Role | Good spacing means |
@@ -50,10 +58,12 @@ When the caller says "spread," pause the VOD and ask:
 
 - [Spread Does Not Mean Leave the Fight](../fight-execution/spread-does-not-mean-leave.md)
 - [AoE Escalation](../mechanics/aoe-escalation.md)
+- [Focus Fire and Resilience](../mechanics/focus-fire-resilience.md)
 - [Chokes, Bridges, Gates](../terrain-objectives/chokes-bridges-gates.md)
 
 ## Related Library references
 
 - [AoE Escalation](../mechanics/aoe-escalation.md)
+- [Focus Fire and Resilience](../mechanics/focus-fire-resilience.md)
 - [Defensive Layering](../fight-concepts/defensive-layering.md)
 - [Movement and Positioning](../fight-concepts/movement-positioning.md)

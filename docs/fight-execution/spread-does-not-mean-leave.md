@@ -22,6 +22,20 @@ It does not mean abandon the fight, stop healing, stop supporting, or stop press
 - Tanks stop the counter path and are last out when needed.
 - Players spread in multiple useful directions, including forward when safe.
 
+## Spacing depends on intent
+
+"Spread" does not always mean move as far away as possible, and "group" does not always mean stack on one tile. Good spacing depends on what the group is trying to do in that moment.
+
+- If the group is crossing, players need to create room for the next wave while staying close enough to support it.
+- If the group is pressuring, players need angles that let them deal damage without giving the enemy a free clump.
+- If the group is resetting, players may need to move as a unit so healers, supports, and tanks do not get separated.
+- If the group is committing, players need to enter enemy space without all stacking on the same body.
+- If the group is baiting, players may briefly show pressure without fully giving the enemy a real clump.
+
+The important question is not only "are we spread or stacked?" The important question is:
+
+> Does our spacing help our current job, or does it give the enemy free value?
+
 ## The key mental shift
 
 Red name tags are information. They are not automatic danger.

@@ -76,4 +76,4 @@ The current public Ledger includes the **Great Fire Control Formation** as a fil
 
 ## Current version
 
-This repo package is prepared as **v3.4 Role Guide Expansion**. It expands the role pages around universal role responsibilities, fight-phase execution, VOD prompts, and common failure patterns while keeping weapon/build recommendations in the Library, Ledger, or patch-sensitive archive.
+This repo package is prepared as **v3.4.1 Spacing and Mechanics Clarification**. It keeps the v3.4 role guide expansion and adds two targeted public-safe clarifications: focus fire protection / resilience inside spacing mechanics, and intent-based spacing for spread behavior.
