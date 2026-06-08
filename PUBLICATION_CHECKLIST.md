@@ -1,4 +1,4 @@
-# Publication Checklist - v3.3.3 Curriculum Expansion Patch
+# Publication Checklist - v3.4.2 Curriculum Expansion Patch
 
 Before publishing:
 
@@ -15,4 +15,12 @@ Before publishing:
 
 Recommended announcement framing:
 
-> Albion ZvZ Manual v3.3.3 refines the manual into a structured ZvZ curriculum: foundations, fight execution, role guides, calling/information, terrain/objectives, training/VOD review, and a companion Formation Ledger for comp documentation.
+> Albion ZvZ Manual v3.4.2 refines the manual into a structured ZvZ curriculum: foundations, fight execution, role guides, calling/information, terrain/objectives, training/VOD review, and a companion Formation Ledger for comp documentation.
+
+
+## Role guide expansion checks
+
+- Role pages remain general and non-meta-prescriptive.
+- Role pages explain function before tools or weapons.
+- DPS, healer, support, tank, caller, and scout pages all include VOD-review prompts.
+- Great Fire Control remains only an example package in the Ledger, not a public doctrine identity.

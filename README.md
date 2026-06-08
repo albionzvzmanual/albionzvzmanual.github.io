@@ -6,19 +6,19 @@ This repository contains the GitHub Pages source for the Albion ZvZ Manual.
 
 ## Current package
 
-**v3.3.3 Curriculum Expansion Patch**
+**v3.4 Role Guide Expansion**
 
 This update restructures the site around a manual-first ZvZ curriculum:
 
 - Foundations
 - Fight Execution
-- Role Guides
+- Expanded Role Guides
 - Calling & Information
 - Terrain & Objectives
 - Training & VOD Review
 - Formation Ledger as companion tooling
 
-The manual is a general learning tool. It does not advocate one comp, weapon package, or current meta.
+The manual is a general learning tool. It does not advocate one comp, weapon package, or current meta. v3.4 expands the role guides around role-principle education instead of weapon prescriptions.
 
 ## Local preview
 

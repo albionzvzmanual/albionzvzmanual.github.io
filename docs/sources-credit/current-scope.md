@@ -2,13 +2,13 @@
 
 ## Current public version
 
-**Albion ZvZ Manual v3.3.2 Curriculum Expansion Patch**
+**Albion ZvZ Manual v3.4 Role Guide Expansion**
 
-This version restructures the site around a manual-first curriculum:
+This version keeps the manual-first curriculum and expands the Role Guides section into a deeper role-principle teaching layer:
 
 - Foundations
 - Fight Execution
-- Role Guides
+- Expanded Role Guides
 - Calling & Information
 - Terrain & Objectives
 - Training & VOD Review

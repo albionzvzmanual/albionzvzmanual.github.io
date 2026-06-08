@@ -1,19 +1,5 @@
 # Albion ZvZ Manual v3.3.2 Curriculum Expansion Patch - Change Log
 
-## v3.3.3 Library Discoverability Patch
-
-Purpose: keep the manual curriculum clean while making the Reference Library easier to discover.
-
-Changes:
-
-- Renamed the Library landing-page heading to **Reference Library**.
-- Added a stronger explanation of how the Library supports the main curriculum.
-- Added featured reference cards for Mechanics, Playstyles, Fight Concepts, Weapon and Ability Notes, Calling Styles, and Practical Examples.
-- Added a curriculum-to-library connection table.
-- Added Related Library references to major curriculum overview pages and selected doctrine pages.
-- Kept Library material as supporting reference, not the primary learning path.
-
-
 ## Purpose
 
 This update shifts the site from a collection of useful pages into a clearer ZvZ curriculum. The manual remains the main learning tool. The Formation Ledger remains a companion for applying doctrine to comp documentation.
@@ -54,3 +40,10 @@ The repository was structurally checked for nav paths and internal markdown link
 - Renamed the public Ledger download to a stable filename: `Albion_ZvZ_Formation_Ledger_Public_Template.xlsx`.
 - Kept the Ledger version visible as page text instead of making it part of the public URL.
 - Added Discord contact `saadvii` for comp-package submissions and corrections.
+
+
+## v3.4 role guide expansion
+
+- Expanded the Role Guides section into a deeper public teaching layer.
+- Added clearer role-phase responsibilities, VOD prompts, common failure patterns, and role-principle guidance.
+- Kept the expansion non-meta-prescriptive and weapon-neutral.

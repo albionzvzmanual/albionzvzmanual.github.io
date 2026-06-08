@@ -31,7 +31,7 @@ The manual is built from a large doctrine archive, including AO University and K
 </div>
 <div class="ao-card blue">
 <h3>Improving your role</h3>
-<p>Use role guides to understand what your job is before, during, and after engage calls.</p>
+<p>Use the expanded role guides to understand your job before contact, during engage windows, after enemy cooldowns, and in VOD review.</p>
 <p><a href="roles/">Open Role Guides</a></p>
 </div>
 <div class="ao-card blue">
@@ -76,4 +76,4 @@ The current public Ledger includes the **Great Fire Control Formation** as a fil
 
 ## Current version
 
-This repo package is prepared as **v3.3.2 Curriculum Expansion Patch**. It deepens the manual around universal fight doctrine, role responsibility, calling information, terrain, objectives, and VOD review while keeping comp-specific material in the Ledger or archive.
+This repo package is prepared as **v3.4 Role Guide Expansion**. It expands the role pages around universal role responsibilities, fight-phase execution, VOD prompts, and common failure patterns while keeping weapon/build recommendations in the Library, Ledger, or patch-sensitive archive.

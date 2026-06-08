@@ -26,3 +26,8 @@
 ## Project boundaries
 
 This manual is general ZvZ education. It does not publish private VOD notes, named-player critique, current-meta claims without verification, or one-comp advocacy.
+
+
+## Version note
+
+The v3.4 package expands the Role Guides section with deeper role-principle pages and VOD-review prompts.

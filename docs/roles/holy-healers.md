@@ -16,44 +16,72 @@ Holy healers must be close enough to reach the real danger area.
 
 The danger area is not always the safest group of friendly players. It is the group the enemy is about to hit, the players crossing a choke, the tanks holding a front, or the people trapped near terrain.
 
+If you are alive but two screens away, you are not meaningfully healing the fight.
+
 ## What you watch
 
-- enemy bomb direction
-- friendly tanks/frontline
-- players crossing terrain
-- caller movement
-- your own escape path
-- Nature zones and defensive layers
+- enemy engage direction
+- where the next damage will land
+- front tanks who are making space
+- supports using defensive tools in danger
+- callers/clump tanks stepping forward
+- players returning through enemy damage
+- whether your movement is interrupting your own healing
 
-## During enemy engage
+## Single-target awareness
 
-Use healing where damage is actually landing or about to land.
+Even in large fights, some saves are individual. A player doing the correct dangerous job may need direct attention before a safe low-HP player.
 
-Do not waste major healing on safe space while the front or choke dies.
+Good Holy play often requires:
 
-## Between engages
-
-Holy healers should reposition early. If the zerg is about to rotate, you should already be moving with the plan.
+- selecting the correct danger player quickly
+- healing through terrain/choke movement when possible
+- not losing the fight view completely to party frames
+- understanding when a non-party player is more important than a party member
 
 ## Common failures
 
-- standing alive but out of range
-- healing the safest backline while the front dies
-- trying to cover two danger areas poorly instead of one well
-- leaving the last players through a choke
-- ignoring Nature zones and defensive layers
+| Failure | Why it matters |
+|---|---|
+| Healing only frames | You miss the actual danger lane. |
+| Standing too far back | Your best spells land after the fight has moved. |
+| Walking during critical heal windows | You reduce output when output matters most. |
+| Placing big heals on safe retreaters | You reward leaving instead of enabling pressure. |
+| Ignoring front tanks | The formation loses the players creating safety. |
+| Chasing every low HP target | You abandon the side that decides the fight. |
 
-## Practice drill
+## Phase responsibilities
 
-Pause one second before enemy damage lands. Ask:
+Before enemy engage:
 
-> Can this Holy healer reach the real danger area right now?
+- move into range of likely impact
+- avoid stacking with other healers
+- identify the danger lane
 
-If not, the failure happened before the healing button was needed.
+During impact:
+
+- heal the real clump or key danger players
+- coordinate with support zones rather than drifting away from them
+- keep casting unless movement is required to survive
+
+After impact:
+
+- support Q/W pressure if the enemy spent cooldowns
+- heal players returning through danger
+- do not leave tanks/supports last out with no coverage
+
+## VOD prompt
+
+For every major death near your view, ask:
+
+- Could I see the danger before HP dropped?
+- Was I in range?
+- Did I choose the player/area that kept the zerg functional?
+- Did my movement stop my casting?
+- Did I heal the forward player who was doing the correct job?
 
 ## Related pages
 
-- [Nature Healers](nature-healers.md)
-- [Defensive Layering](../fight-concepts/defensive-layering.md)
-- [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
+- [Healers](healers.md)
 - [Healer Learning Path](../learning-paths/healer.md)
+- [Outcome-Independent Review](../training/outcome-independent-review.md)
