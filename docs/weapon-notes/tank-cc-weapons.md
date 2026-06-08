@@ -56,7 +56,7 @@ Common mistakes:
 ### Incubus / support tank concept
 
 **Role family:** support tank / engage-control  
-**General value:** In the current Albion ZvZ Formation Ledger, Incubus belongs to the engage/control tank family rather than being framed as a passive defensive support.
+**General value:** Incubus-style tools are best understood by function: they can contribute to engage control, enemy damage reduction, and space denial depending on the package. Treat the role as a comp-specific support-tank decision, not a universal requirement.
 
 ## Role framing
 

@@ -1,52 +1,48 @@
-# Submit a Comp Package
+# Submit or Build a Comp Package
 
-The Formation Ledger can support more than one comp, but new packages should be built from reliable data, not hype or a single weapon list.
+A comp package is more than a weapon list.
 
-The goal is to help players learn and run content. If a package cannot teach role purpose, coverage, scaling, and failure patterns, it should stay as a draft or archive note until more evidence exists.
+A useful package explains what the formation is trying to do, what roles it needs, what assumptions it makes, and what kind of roster can execute it.
 
-## What to submit
+## Minimum useful package data
 
-A useful comp-package submission should include:
-
-| Data | Why it matters |
+| Area | Needed information |
 |---|---|
-| Package name | gives the comp a clear public label |
-| Playstyle identity | explains whether the comp is kite/control, ranged pressure, melee clap, melee pressure, bomb squad, objective defense, or hybrid |
-| Role list | shows party slots, core roles, flex roles, and what cannot be skipped |
-| Build list | records weapons, armor, capes, food, potions, and important abilities |
-| Scaling order | shows what to add at 5/10/15/20+ players instead of dumping a full roster on small groups |
-| Healer/support requirements | explains how the comp survives pressure and what defensive tools are mandatory |
-| Caller notes | explains engage rhythm, kite/turn logic, terrain preferences, and counter windows |
-| VOD/source/testing context | helps separate a tested package from theorycraft |
-| Common mistakes | lets role leads review the package in real fights |
-| Drill/review ideas | turns the package into something players can practice |
+| Formation identity | brawl, bomb, kite, control, ranged pressure, hybrid, or other |
+| Role list | slots, role names, party layout, scaling order |
+| Builds | weapon, armor, helmet, boots, cape, food, potion, important abilities |
+| Support structure | healers, Locus/cleanse/shield/resistance, defensive tank coverage |
+| Timing model | engage cycle, clump timing, damage timing, pressure windows |
+| Terrain preference | open field, choke, gate, castle, territory, objective, kite route, etc. |
+| Weaknesses | what counters it, what it struggles to execute, what happens when tools are missing |
+| Training notes | common mistakes, VOD prompts, readiness requirements |
+| Source context | VODs, testing, caller notes, patch date, or other evidence |
 
-## Package depth model
+## Public-package standard
 
-| Depth | Meaning | Public output |
-|---|---|---|
-| Full Doctrine Package | enough data to teach identity, roles, builds, scaling, mistakes, and review | full Formation Ledger package plus a short website overview |
-| Lite Comp Package | runnable role/build structure, but limited doctrine or review context | lighter ledger package with clear limitations |
-| Build Sheet Only | builds and role slots are reliable, but the doctrine is not complete | reference sheet only, not a full guide |
-| Research / Placeholder | interesting idea, incomplete data, or untested claim | archive only until stronger support exists |
+A package should not be added publicly just because it is popular or sounds strong. It needs enough context to avoid misleading readers.
 
-## What not to submit
+The public manual should teach principles. The Ledger can document packages when the data is reliable enough.
 
-Do not submit:
+## Package depth levels
 
-- private player callouts
-- guild drama
-- unlisted VOD identifiers without permission
-- claims that one comp should become universal doctrine
-- unsupported current-meta declarations
-- isolated weapon lists with no role, scaling, or review context
+| Level | Meaning |
+|---|---|
+| Full Doctrine Package | roles, builds, scaling, timing, terrain, support needs, weaknesses, drills, source context |
+| Lite Comp Package | roles and builds with basic notes, not full doctrine |
+| Build Sheet Only | builds listed without enough strategic context |
+| Research / Placeholder | interesting idea that needs verification or testing |
 
-## How this protects the manual
+## Avoid these submissions
 
-The manual stays general. The Formation Ledger can hold applied packages.
+- "top guild plays it" with no role explanation
+- weapon lists without support/healer assumptions
+- patch-sensitive claims with no verification date
+- private drama or named-player criticism
+- one-fight examples presented as universal doctrine
 
-That separation lets the project learn from current comps without making the public guide depend on whatever people call meta this month.
+## Related pages
 
-## Current example package
-
-The current public ledger includes **Great Fire Control Formation** as the first filled example. It shows what a package can look like, but it is not the only possible package and not a demand that every group play it.
+- [Formation Ledger](index.md)
+- [Fight Style Spectrum](../foundations/fight-style-spectrum.md)
+- [Training a New Roster](../training/training-new-roster.md)

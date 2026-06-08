@@ -1,77 +1,76 @@
 # Supports
 
-Supports keep the zerg alive, maintain space, and make the caller's risk manageable.
+Supports make the zerg playable.
 
-A support player is not a spectator with one big cooldown. Good support reads danger before it becomes visible.
+They do not only press E when someone yells for help. Good supports read danger before impact, place tools on the active lane, and use the full kit to help the formation move, survive, and punish.
 
-## Purpose
+## Core rule
 
-Supports protect the real danger area and help the zerg keep fighting after enemy pressure.
+Supports own the danger lane.
 
-Depending on build, support may provide:
+The danger lane is the path where enemy damage, enemy movement, friendly crossing, friendly push, or friendly extraction will happen next.
 
-- cleanse
-- resistance
-- displacement
-- defensive zones
-- purge
-- interrupts
-- path denial
-- protection for tanks/frontline
-- protection for healers/DPS during movement
+## What support value looks like
 
-## Support families
+Support value can be visible or invisible.
 
-Support is not one vague job. Most support tools fit one or more of these functions:
+Visible value:
 
-| Support family | Main purpose |
+- cleansed players survive
+- shielded players live through engage
+- enemy bomb is stopped
+- enemy path is blocked
+
+Invisible value:
+
+- the enemy never gets the clump
+- a bomb squad never reaches the backline
+- a choke crossing happens cleanly
+- a counter-engage window never becomes lethal
+
+## Full-kit support
+
+Average support waits for one big cooldown. Good support uses:
+
+- Q/W value
+- armor value
+- boots/sprint positioning
+- cleanse, shield, resistance, purge, slow, root, silence, or knockback where appropriate
+- body position
+- terrain extension
+- reset timing
+
+## Common mistakes
+
+- standing too far back to affect the danger lane
+- placing support on empty ground or old danger
+- using defensive tools only on the friendly offensive moment, not the enemy counter moment
+- holding Locus/cleanse through silence or CC until it is useless
+- saving personal cooldowns while the zerg dies
+- adding AoE escalation by standing inside the clump after support value is placed
+
+## Role responsibilities by phase
+
+| Phase | Support job |
 |---|---|
-| Damage mitigation | absorb or reduce incoming damage |
-| Mobility support | keep the zerg moving, crossing, rotating, or speeding up |
-| Enemy disruptor | delay, interrupt, purge, slow, or stop enemy plans |
+| Before impact | read enemy posture, pre-position, prepare the likely lane |
+| Friendly engage | enable the push, but expect immediate counter-engage |
+| Enemy engage | cleanse, shield, block, interrupt, or slow the real threat |
+| Crossing / exit | help the next wave through and be late enough to protect the tail |
+| Post-bomb | protect forward Q/W pressure and prevent collapse |
 
-Good support play means reading which problem is about to happen, then using the right tool on the real danger area.
+## VOD prompt
 
-## Where you stand
+For every major friendly death clump, ask:
 
-Support positioning should follow the enemy threat, not only the caller's literal movement direction.
-
-If enemy center mass is pushing into the front, support that front.  
-If enemy bomb squad is cutting a flank, support that flank.  
-If the zerg is crossing a choke, support the players still exposed.
-
-## What you watch
-
-- enemy engage path
-- enemy bomb weapons
-- friendly clumps forming by accident
-- tanks holding danger
-- healers who need protection
-- the route the zerg is actually taking
-
-## Timing
-
-Support tools should land before or during real pressure.
-
-A perfect defensive after the enemy damage is finished is often just decoration.
-
-## Common failures
-
-- saving cooldowns until after damage lands
-- following the caller while ignoring enemy center mass
-- placing defensives on safe backline instead of endangered front
-- using Locus or major support tools into no real pressure
-- standing inside the clump they were supposed to save
-
-## Practice drill
-
-Pause before enemy engage. Ask:
-
-> Which group is about to become the danger area, and can the support reach it before damage lands?
+- Was there a support tool on the real danger lane?
+- Was it early enough?
+- Was it the right tool for the threat?
+- Did support leave after value or add more clump danger?
+- Did another support layer need to pair with it?
 
 ## Related pages
 
 - [Defensive Layering](../fight-concepts/defensive-layering.md)
-- [Support DPS](support-dps.md)
-- [Support Utility Before Damage](../practical-examples/support-utility.md)
-- [Tank / Support Learning Path](../learning-paths/tank-support.md)
+- [First-Engage Survival](../fight-execution/first-engage-survival.md)
+- [Gate and Door Defense](../terrain-objectives/chokes-bridges-gates.md)

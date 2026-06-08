@@ -37,6 +37,20 @@ nav:
       - Pick Your First Role: start-here/pick-your-first-role.md
       - How to Read Calls: start-here/how-to-read-calls.md
       - First CTA Checklist: start-here/first-cta-checklist.md
+  - Foundations:
+      - Overview: foundations/index.md
+      - Fight Style Spectrum: foundations/fight-style-spectrum.md
+      - Fight Flow: foundations/fight-flow.md
+      - Timing and Tempo: foundations/timing-tempo.md
+      - Pressure: foundations/pressure.md
+      - Spacing and AoE Escalation: foundations/spacing-aoe-escalation.md
+  - Fight Execution:
+      - Overview: fight-execution/index.md
+      - Damage Lands at Zero: fight-execution/damage-lands-at-zero.md
+      - Spread Does Not Mean Leave: fight-execution/spread-does-not-mean-leave.md
+      - Q/W and Post-Bomb Pressure: fight-execution/qw-post-bomb-pressure.md
+      - Enemy Cooldowns Are Spent: fight-execution/spent-cooldowns.md
+      - First-Engage Survival: fight-execution/first-engage-survival.md
   - Role Guides:
       - Overview: roles/index.md
       - All Players: roles/all-players.md
@@ -44,37 +58,54 @@ nav:
       - Ranged DPS: roles/ranged-dps.md
       - Melee Pressure / Execute DPS: roles/melee-pressure-dps.md
       - Support DPS: roles/support-dps.md
+      - Healers: roles/healers.md
       - Holy Healers: roles/holy-healers.md
       - Nature Healers: roles/nature-healers.md
       - Supports: roles/supports.md
-      - Engage Tanks: roles/engage-tanks.md
-      - Stopper Tanks: roles/stopper-tanks.md
+      - Engage / Clump Tanks: roles/engage-tanks.md
+      - Defensive / Stopper Tanks: roles/stopper-tanks.md
       - Caller / Officers: roles/caller-officers.md
       - Scouts / Info: roles/scouts-info.md
-  - Fight Concepts:
-      - Overview: fight-concepts/index.md
-      - Movement and Positioning: fight-concepts/movement-positioning.md
-      - Counter-Engage Windows: fight-concepts/counter-engage-windows.md
-      - Pressure Types: fight-concepts/pressure-types.md
-      - Defensive Layering: fight-concepts/defensive-layering.md
-      - Terrain and Geometry: fight-concepts/terrain-geometry.md
-      - DPS Timing: fight-concepts/dps-timing.md
-      - Q/W Pressure Floor: fight-concepts/qw-pressure.md
-      - High-Value Targets: fight-concepts/high-value-targets.md
-      - Mechanics Overview: mechanics/index.md
-      - Fight Style Literacy: playstyles/index.md
-  - Field Tools:
+  - Calling & Information:
+      - Overview: calling-info/index.md
+      - Direction Calls Are Tactical Intent: calling-info/tactical-intent.md
+      - Threat + Location + Action: calling-info/callout-format.md
+      - Information Discipline: calling-info/information-discipline.md
+      - Caller Decision Framework: calling-info/caller-decision-framework.md
+      - Line Members Still Read: calling-info/line-member-reading.md
+  - Terrain & Objectives:
+      - Overview: terrain-objectives/index.md
+      - Terrain Decides Calls: terrain-objectives/terrain-decides-calls.md
+      - Chokes, Bridges, Gates: terrain-objectives/chokes-bridges-gates.md
+      - Angle Control and Line Weight: terrain-objectives/angle-control-line-weight.md
+      - Castles, Territories, Objectives: terrain-objectives/castles-territories-objectives.md
+      - One-Angle Simplification: terrain-objectives/one-angle-simplification.md
+  - Training:
+      - Overview: training/index.md
+      - VOD Review Method: training/vod-review-method.md
+      - Review Before Death: training/review-before-death.md
+      - Outcome-Independent Review: training/outcome-independent-review.md
+      - Role Review Questions: training/role-review-questions.md
+      - Training a New Roster: training/training-new-roster.md
+      - Micro Drills: training/micro-drills.md
+      - Player Development Ladder: training/player-development-ladder.md
+      - Concept to Drill Map: training/concept-to-drill-map.md
+  - Library:
+      - Fight Concepts: fight-concepts/index.md
+      - Mechanics: mechanics/index.md
+      - Playstyles: playstyles/index.md
       - Weapon and Ability Notes: weapon-notes/index.md
       - Role and Tool Library: weapon-notes/role-tool-library.md
       - Calling Styles: calling-styles/index.md
       - Practical Examples: practical-examples/index.md
-      - Training: training/index.md
+      - Learning Paths: learning-paths/index.md
   - Formation Ledger:
       - Overview: workbooks/index.md
       - Submit a Comp Package: workbooks/comp-package-intake.md
   - Project Info:
+      - Site Map: site-map.md
       - Sources / Credit: sources-credit/index.md
       - Current Scope: sources-credit/current-scope.md
       - Contribute / Corrections: sources/contribution-correction-policy.md
 extra:
-  version: Live public manual v3.2
+  version: Live public manual v3.3 Curriculum Expansion

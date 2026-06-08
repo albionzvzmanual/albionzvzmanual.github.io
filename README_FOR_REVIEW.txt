@@ -1,13 +1,14 @@
-Albion ZvZ Manual - Review Notes
+Albion ZvZ Manual v3.3 Curriculum Expansion
 
-Official site:
-https://albionzvzmanual.github.io/
+This repo package is prepared for review before publishing to GitHub Pages.
 
-Review focus:
-- Can readers understand the manual without project context?
-- Does the Formation Ledger read as a reusable tool, not a forced comp?
-- Does the Great Fire Control Formation read as an example package, not a meta claim?
-- Is the Submit a Comp Package page clear enough for community data collection?
-- Are there broken links, confusing pages, or awkward public wording?
+Main changes:
+- Manual-first curriculum structure.
+- New Foundations section.
+- New Fight Execution section.
+- New Calling & Information section.
+- New Terrain & Objectives section.
+- Expanded Training/VOD Review section.
+- Formation Ledger reframed as companion tooling only.
 
-Do not review this as a doctrine-validity vote on AO University/Khelron material. Review usability, clarity, and public presentation.
+No private VOD notes, named-player critique, or one-comp advocacy should appear in public pages.

@@ -1,46 +1,57 @@
 # VOD Review Method
 
-A good VOD review turns a fight into one or two practical habits.
+VOD review should produce better next actions, not just longer arguments.
 
-## Core questions
+## Review order
 
-Ask:
+1. **Macro / caller layer**: movement, terrain, objective, style match, next call.
+2. **Role execution layer**: DPS, healers, supports, tanks, callers, scouts.
+3. **Build / comp layer**: did the formation have tools for the problem?
+4. **Roster readiness layer**: was the plan executable by this roster?
+5. **Training layer**: what drill or habit should change next?
 
-1. What was the call trying to accomplish?
-2. Where was the danger area?
-3. Who was safe and should have pressured?
-4. Did DPS damage land on time?
-5. Did support utility create the kill window?
-6. Did healers and defensive supports cover the actual danger area?
-7. Did players kite as a unit?
-8. What one drill should we do next?
+Do not start with blame. Start with the system.
 
-## The pause-before-failure method
+## What to review first
 
-Most mistakes happen before the wipe.
+Review repeated patterns before rare accidents.
 
-Instead of pausing only when players die, pause:
+High-value patterns:
 
-- five seconds before enemy engage
-- two seconds before friendly engage
-- as the zerg enters a choke
-- as players start spreading or stacking
-- right after enemy cooldowns are spent
+- late damage
+- clump after spread call
+- supports on wrong lane
+- healers too far from danger
+- tanks backing up while full HP
+- players leaving the active fight
+- direction calls followed literally but incorrectly
+- no Q/W pressure after enemy cooldowns are spent
 
-This teaches preparation instead of only reaction.
+## Review before impact
 
-## What not to do
+Most useful mistakes happen before the visible death. Use the 15/10/5/impact method from [Review Before Death](review-before-death.md).
 
-- do not review every mistake
-- do not name-and-shame private players in public material
-- do not turn every loss into comp blame
-- do not ignore bad habits just because the fight was won
+## Separate private criticism from public doctrine
 
-## Output of a review
+Public educational material should generalize mistakes:
 
-A review should produce:
+- say "full-HP plate one screen behind front"
+- do not publish player names or private guild criticism
+- say "the roster could not support the forward group"
+- do not publish private morale/drama context
 
-- one repeated mistake
-- one affected role group
-- one practice drill
-- one next-content focus
+## Output of a good review
+
+A good review ends with:
+
+- one doctrine lesson
+- one role correction
+- one drill
+- one thing to keep doing
+- one thing to verify if mechanics are uncertain
+
+## Related pages
+
+- [Role Review Questions](role-review-questions.md)
+- [Outcome-Independent Review](outcome-independent-review.md)
+- [Training a New Roster](training-new-roster.md)

@@ -1,61 +1,46 @@
-# Stopper / Defensive Tanks
+# Defensive / Stopper Tanks
 
-Stopper tanks and defensive tanks mitigate the risk of the caller's decision.
+Defensive tanks create safety by denying enemy movement, buying time, and staying useful until the zerg is safe.
 
-## Purpose
+## Core rule
 
-When the zerg pushes a choke, holds a door, kites around terrain, or prepares to bomb, the enemy will look for an obvious damage path.
+Stop the enemy path that threatens your zerg, not the nearest red name tag.
 
-Your job is to be there before the damage lands.
+## What good stopper play looks like
 
-## Better positioning rule
+- You stand where you can affect the enemy DPS path.
+- You cover flank, choke, wall, bridge, door, or counter paths before damage lands.
+- You use terrain as part of your tool.
+- You save major cooldowns for real danger, not random tanks.
+- You stay until the zerg is safe, then leave.
+- You are willing to be last out when your job requires it.
 
-"Stand between enemy and zerg" is too vague.
+## Between enemy and our zerg
 
-Better rule:
+"Between enemy and our zerg" does not mean a random midpoint. It means between the **enemy's dangerous path** and the **friendly formation's vulnerable path**.
 
-> Stand between the enemy DPS engage path and your zerg's DPS/healer path.
+Sometimes that is in front. Sometimes it is on a side angle. Sometimes it is inside a broken gate. Sometimes it is behind the friendly DPS because the enemy is wrapping.
 
-That means you must read both sides of the fight: where the enemy wants to hit, and where your group is about to step.
+## Common mistakes
 
-## What you stop
+- chasing one low target while the enemy counter path is open
+- standing inside the friendly clump with no stop value
+- stopping enemy tanks while enemy DPS walks through
+- using cooldowns because they are available, not because they solve danger
+- leaving before the zerg has crossed or stabilized
+- playing one screen behind as full-HP plate
 
-- bomb squad paths
-- clump tank approaches
-- enemy frontliners walking into your backline
-- obvious choke/flood paths
-- beams/channels enabling damage
-- enemy DPS who are about to free-cast into friendly clumps
+## VOD prompt
 
-## During movement calls
+On every enemy engage, ask:
 
-If the zerg crosses a dangerous gate, bridge, or choke, tanks/supports are often last out, not first out. Your job may be to hold the danger path until the group is safe.
-
-## Common failures
-
-- standing inside friendly clumps
-- chasing the caught target instead of blocking enemy follow-up
-- using major CC on low-value tanks
-- reacting after enemy damage starts
-- leaving a choke after only one cooldown
-- backing into DPS as healthy plate
-
-## Practice drill
-
-Pause when enemy name tags first turn toward your zerg and ask:
-
-> Which tank should already be moving?
-
-If the answer is obvious only after damage lands, the stopper was late.
+- Did a tank see the path before damage landed?
+- Did a tank stop enemy DPS/backline follow-through?
+- Did tanks cover the next counter path after a catch?
+- Did any tank add clump danger to the backline?
 
 ## Related pages
 
-- [Engage Tanks](engage-tanks.md)
-- [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
-- [Defensive Layering](../fight-concepts/defensive-layering.md)
-- [Healthy Plate Must Front](../practical-examples/plate-frontline.md)
-- [Tank / Support Learning Path](../learning-paths/tank-support.md)
-
-## Defensive read standard
-
-A good disengage or stopper tank reads enemy danger before damage lands. Stop only the real threat, cycle cooldowns, hold walls or angles when they matter, and clean the backline when enemies have already entered.
+- [Chokes, Bridges, Gates](../terrain-objectives/chokes-bridges-gates.md)
+- [Terrain Decides Calls](../terrain-objectives/terrain-decides-calls.md)
+- [Support Utility Example](../practical-examples/support-utility.md)

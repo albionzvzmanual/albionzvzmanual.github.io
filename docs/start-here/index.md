@@ -1,24 +1,26 @@
 # Start Here
 
-This section is the shortest path into the project.
+This section is for players who want to become useful in ZvZ quickly without getting buried in every advanced concept.
 
-Read these pages before diving into the full manual.
+Start with these pages:
 
-| Step | Page | Why it matters |
-|---:|---|---|
-| 1 | [New to ZvZ](new-to-zvz.md) | basic mindset and first mistakes to avoid |
-| 2 | [Ten Rules Before CTA](ten-rules-before-cta.md) | blunt rules that prevent common fight losses |
-| 3 | [Pick Your First Role](pick-your-first-role.md) | choose a stable learning lane |
-| 4 | [How to Read Calls](how-to-read-calls.md) | understand tactical intent, not only direction words |
-| 5 | [First CTA Checklist](first-cta-checklist.md) | quick preparation before content |
+1. [New to ZvZ](new-to-zvz.md)
+2. [Ten Rules Before CTA](ten-rules-before-cta.md)
+3. [Pick Your First Role](pick-your-first-role.md)
+4. [How to Read Calls](how-to-read-calls.md)
+5. [First CTA Checklist](first-cta-checklist.md)
 
-## First goal
+## The first mindset
 
-Do not try to memorize everything.
+Your caller gives direction, but you still play your character.
 
-Enter your next fight with one or two correct habits:
+Your job is to:
 
-- stay useful without clumping
-- stay close enough to turn
-- understand what your role is protecting or creating
-- review one mistake without ego
+- stay connected to the zerg
+- understand your role
+- avoid creating clumps
+- listen to calls without becoming blind
+- use defensives before you die
+- review mistakes without blaming only the enemy
+
+After this section, continue to [Foundations](../foundations/).

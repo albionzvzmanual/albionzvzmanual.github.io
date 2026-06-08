@@ -1,30 +1,37 @@
 # Albion ZvZ Manual
 
-*The Field Manual for Large-Scale Albion Warfare*
+**The Field Manual for Large-Scale Albion Warfare**
 
-Official live site:
+This repository contains the GitHub Pages source for the Albion ZvZ Manual.
 
-https://albionzvzmanual.github.io/
+## Current package
 
-This repository contains the public website source for the Albion ZvZ Manual.
+**v3.3 Curriculum Expansion**
 
-Current public names:
+This update restructures the site around a manual-first ZvZ curriculum:
 
-- **Website/manual:** Albion ZvZ Manual
-- **Subtitle:** The Field Manual for Large-Scale Albion Warfare
-- **Formation Ledger:** Albion ZvZ Formation Ledger
-- **Current example package:** Great Fire Control Formation
+- Foundations
+- Fight Execution
+- Role Guides
+- Calling & Information
+- Terrain & Objectives
+- Training & VOD Review
+- Formation Ledger as companion tooling
 
-## Publishing
+The manual is a general learning tool. It does not advocate one comp, weapon package, or current meta.
 
-This repository is the organization-owned GitHub Pages home for the public manual. It publishes through GitHub Actions and serves the MkDocs build at:
+## Local preview
 
-https://albionzvzmanual.github.io/
+```bash
+pip install -r requirements.txt
+mkdocs serve
+```
 
-The v3.2 update reframes the Formation Ledger as a reusable comp-neutral tool first, with Great Fire Control Formation kept as the current example package. It also adds a public comp-package intake path.
+## Publish
 
-## Formation Ledger
+Push to the GitHub Pages repository. The included workflow builds and deploys the site.
 
-The live Formation Ledger is linked from the public site. Readers should open the sheet as a viewer and use **File -> Make a copy** before editing.
 
-Future Formation Ledger packages should be added only when there is enough reliable role/build/scaling/source context to avoid shallow meta-chasing.
+## Included companion workbook
+
+This package includes the current downloadable Formation Ledger V6.3 workbook at `docs/assets/downloads/Albion_ZvZ_Formation_Ledger_V6_3_PublicTemplate_ManualCompanion.xlsx`. The Ledger remains a companion artifact, not the center of the manual.

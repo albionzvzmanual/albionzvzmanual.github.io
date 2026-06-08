@@ -4,80 +4,76 @@
 
 <p class="ao-subtitle">The Field Manual for Large-Scale Albion Warfare</p>
 
-The Albion ZvZ Manual helps Albion Online players learn large-scale PvP: how to read fights, play roles, move with a zerg, use terrain, create pressure, layer defensives, review mistakes, and improve in real CTAs.
+The Albion ZvZ Manual is a general learning tool for Albion Online large-scale PvP. It teaches how fights work, how roles think, how callers use information, how terrain changes decisions, and how players review mistakes after real CTAs.
 
 <div class="ao-button-row">
 <a class="ao-button" href="start-here/">Start Learning</a>
-<a class="ao-button secondary" href="roles/">Choose a Role</a>
-<a class="ao-button ghost" href="workbooks/">Open Formation Ledger</a>
+<a class="ao-button secondary" href="foundations/">Study the Curriculum</a>
+<a class="ao-button ghost" href="roles/">Choose a Role</a>
 </div>
 
 </div>
 
-The guide is built through strong role material - especially Khelron teachings - but its purpose is practical: **help the general Albion playerbase understand what to do in fights and why those decisions matter.**
+The manual is built from a large doctrine archive, including AO University and Khelron teaching material, but it is written as a **general ZvZ curriculum**. It does not exist to promote one comp, one caller style, one weapon package, or one current meta.
 
-## Start by what you need
+## How to use the manual
 
 <div class="ao-card-grid compact">
 <div class="ao-card blue">
-<h3>New to ZvZ</h3>
-<p>Start with CTA habits, call reading, and role choice before worrying about every weapon.</p>
-<p><a href="start-here/">Read Start Here</a></p>
+<h3>New player</h3>
+<p>Start with basic CTA habits, call reading, role choice, and the first rules that prevent avoidable deaths.</p>
+<p><a href="start-here/">Start Here</a></p>
 </div>
 <div class="ao-card blue">
-<h3>Learning a role</h3>
-<p>Understand what your role is responsible for before, during, and after engage calls.</p>
+<h3>Learning fights</h3>
+<p>Learn fight styles, tempo, pressure, spacing, engage windows, and what happens after cooldowns are spent.</p>
+<p><a href="foundations/">Open Foundations</a></p>
+</div>
+<div class="ao-card blue">
+<h3>Improving your role</h3>
+<p>Use role guides to understand what your job is before, during, and after engage calls.</p>
 <p><a href="roles/">Open Role Guides</a></p>
 </div>
 <div class="ao-card blue">
-<h3>Studying fights</h3>
-<p>Learn positioning, movement, counter windows, pressure, defensive layers, terrain, and target choice.</p>
-<p><a href="fight-concepts/">Study Fight Concepts</a></p>
+<h3>Officer / caller learning</h3>
+<p>Study information flow, callout quality, tactical intent, scout reports, and decision frameworks.</p>
+<p><a href="calling-info/">Open Calling & Information</a></p>
+</div>
+<div class="ao-card blue">
+<h3>Terrain and objectives</h3>
+<p>Learn chokes, bridges, gates, walls, angles, castles, territories, and objective geometry.</p>
+<p><a href="terrain-objectives/">Open Terrain & Objectives</a></p>
 </div>
 <div class="ao-card accent">
-<h3>Using the Formation Ledger</h3>
-<p>The Formation Ledger is reusable tooling for signups, party assignment, coverage, builds, drills, and future comp packages.</p>
-<p><a href="workbooks/">Open Formation Ledger Hub</a></p>
+<h3>Formation Ledger</h3>
+<p>The Ledger is a companion tool for documenting comps. The manual remains useful even if you never open a spreadsheet.</p>
+<p><a href="workbooks/">Open Ledger Companion</a></p>
 </div>
 </div>
 
-## What this manual teaches
+## Curriculum pillars
 
-| Area | What you should learn |
+| Pillar | What it teaches |
 |---|---|
-| Start Here | the first habits that prevent common CTA mistakes |
-| Role Guides | what each role is responsible for before, during, and after calls |
-| Fight Concepts | positioning, movement, timing, pressure, terrain, and defensive layers |
-| Weapon and Ability Notes | how tools create value, not a fixed list of what everyone must play |
-| Training and VOD Review | how to turn mistakes into drills and role feedback |
-| Formation Ledger | reusable operating structure for signups, party assignment, coverage checks, builds, and comp-package examples |
+| [Start Here](start-here/) | first CTA habits, role choice, and new-player safety |
+| [Foundations](foundations/) | fight styles, flow, tempo, pressure, spacing, and core mechanics |
+| [Fight Execution](fight-execution/) | damage timing, spreading, Q/W pressure, cooldown windows, and first-engage survival |
+| [Role Guides](roles/) | how DPS, healers, supports, tanks, callers, and scouts create value |
+| [Calling & Information](calling-info/) | tactical intent, useful callouts, information discipline, and decision quality |
+| [Terrain & Objectives](terrain-objectives/) | chokes, bridges, doors, gates, angle control, castles, territories, and objective geometry |
+| [Training & VOD Review](training/) | how to review mistakes, build drills, and improve without relying on outcome bias |
+| [Formation Ledger](workbooks/) | optional companion sheet for applying doctrine to a comp package |
 
 ## Manual first, ledger second
 
-The manual is general Albion ZvZ education. The **Albion ZvZ Formation Ledger** is optional tooling for groups that want a shared sheet for signups, party assignment, role coverage, build references, and training notes.
+The manual teaches general ZvZ. The **Albion ZvZ Formation Ledger** helps groups apply those ideas to their own roster, comp, builds, scaling, signups, and package notes.
 
-The ledger should be read as a reusable structure first. The current public sheet includes the **Great Fire Control Formation** as the first filled example package, not as a claim that every group should play that comp or chase that meta.
+The current public Ledger includes the **Great Fire Control Formation** as a filled example package. That example is not a universal recommendation and not the identity of the manual.
 
 <div class="ao-callout blue">
-<strong>Live Formation Ledger:</strong> <a href="https://docs.google.com/spreadsheets/d/1PUWdQZhzGr9Dtq-w4DQIFkUFD1rygAJf/edit?usp=sharing">Open the Albion ZvZ Formation Ledger</a>. Make your own copy before editing.
+<strong>Use weapon examples as function examples.</strong> A firewall example teaches space control. A stop-tank example teaches movement denial. A healer example teaches danger-area healing. These are not fixed meta orders.
 </div>
 
-<div class="ao-callout orange">
-<strong>Want another comp represented?</strong> The project needs reliable package data: role lists, builds, scaling order, healer/support requirements, call notes, and source or testing context. See <a href="workbooks/comp-package-intake/">Submit a Comp Package</a>.
-</div>
+## Current version
 
-## How to read weapon examples
-
-Weapon and item examples are used to teach function.
-
-A firewall example teaches space control. A stop-tank example teaches denying enemy movement. A healer example teaches coverage and timing. These examples should help you understand **how to use tools correctly**, not force you into a single current meta list.
-
-Exact values, cooldowns, item behavior, and current strength claims should still be checked against current Albion sources when they matter.
-
-## Credits
-
-Core educational credit belongs to **Khelron and AO University**. Their teachings are a major backbone for this project. This site organizes and applies those lessons into a public manual and optional Formation Ledger for the Albion community.
-
-## Current state
-
-The manual is live at **https://albionzvzmanual.github.io/** and actively maintained. For current scope boundaries and future improvements, see [Current Scope](sources-credit/current-scope.md).
+This repo package is prepared as **v3.3 Curriculum Expansion**. It deepens the manual around universal fight doctrine, role responsibility, calling information, terrain, objectives, and VOD review while keeping comp-specific material in the Ledger or archive.

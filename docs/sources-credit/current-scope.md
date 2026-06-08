@@ -1,30 +1,40 @@
 # Current Scope
 
-Official site: **https://albionzvzmanual.github.io/**
+## Current public version
 
-This site is a live public manual. It is useful now, but it is not trying to contain every possible Albion comp, weapon branch, or meta argument.
+**Albion ZvZ Manual v3.3 Curriculum Expansion**
 
-## What this site focuses on
+This version restructures the site around a manual-first curriculum:
 
-- role behavior
-- movement and positioning
-- pressure and counter-pressure
-- defensive timing and healer coverage
-- terrain, chokes, doors, and fight shape
-- practical review habits
-- the Formation Ledger as optional operating tooling
-- a public intake path for future comp packages
+- Foundations
+- Fight Execution
+- Role Guides
+- Calling & Information
+- Terrain & Objectives
+- Training & VOD Review
+- Formation Ledger as companion tooling
 
-## What stays limited
+## What the manual is
 
-- Build details stay inside the Formation Ledger instead of taking over the general manual.
-- Weapon examples teach function, not universal best-in-slot commands.
-- The Great Fire Control Formation is the current example package, not the whole project.
-- Additional Formation Ledger packages should only be added when enough reliable data exists.
-- Exact item values and current strength claims should be verified before they become build instructions.
+The manual is a general learning tool for Albion Online ZvZ players. It teaches principles, role thinking, fight flow, terrain, calling information, pressure, timing, and VOD review.
 
-## Later improvements
+## What the manual is not
 
-Future versions can add deeper examples, better visual polish, build-card presentation, and additional Formation Ledger packages.
+The manual is not:
 
-The manual does not need every possible branch before it can help players play better. New packages should come from reliable role/build/scaling data and practical context, not from chasing a shallow meta list.
+- a fixed meta list
+- a command to play one comp
+- a replacement for current patch verification
+- a public dump of private VOD notes
+- a Great Fire Control doctrine site
+- a spreadsheet manual
+
+## Source stance
+
+AO University and Khelron teaching material are major foundations for the project. Public pages generalize the lessons into neutral educational doctrine and remove private context, names, drama, and patch-sensitive overclaims.
+
+## Formation Ledger stance
+
+The Formation Ledger is a companion workbook for documenting comps and running roster workflows. It supports the manual but does not define the manual.
+
+The current Great Fire Control Formation remains an example package only.

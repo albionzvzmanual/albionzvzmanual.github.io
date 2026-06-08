@@ -1,37 +1,17 @@
 # Training and VOD Review
 
-Training turns doctrine into habits.
+Improvement requires more than rereading doctrine. Players need review prompts, drills, repetition, and honest separation between outcome and execution.
 
-The goal is not to shame players or prove that the caller was right. The goal is to make the next fight easier.
+<div class="ao-card-grid compact">
+<div class="ao-card blue"><h3>VOD Review Method</h3><p>How to review fights without getting lost in every mistake.</p><p><a href="vod-review-method/">Read</a></p></div>
+<div class="ao-card blue"><h3>Review Before Death</h3><p>The mistake usually starts 10–15 seconds before the death frame.</p><p><a href="review-before-death/">Read</a></p></div>
+<div class="ao-card blue"><h3>Outcome-Independent Review</h3><p>Winning does not prove good play. Losing does not prove every call was bad.</p><p><a href="outcome-independent-review/">Read</a></p></div>
+<div class="ao-card blue"><h3>Role Review Questions</h3><p>Use role-specific prompts to turn vague criticism into drillable problems.</p><p><a href="role-review-questions/">Read</a></p></div>
+<div class="ao-card blue"><h3>Training a New Roster</h3><p>Role lock-in, readiness, repetition, and strategy ceiling.</p><p><a href="training-new-roster/">Read</a></p></div>
+</div>
 
 ## Training principle
 
-One correction. One role group. One drill.
+> A mistake is useful only if it becomes a clearer next action.
 
-If a review produces ten unrelated corrections, players usually fix none of them.
-
-## Main training pages
-
-| Page | Use |
-|---|---|
-| [VOD Review Method](vod-review-method.md) | how to review fights without chaos |
-| [Micro-Drills](micro-drills.md) | small habits to practice |
-| [Player Development Ladder](player-development-ladder.md) | progression from survival to self-review |
-
-## Best first review targets
-
-- spacing / clumping
-- direction-call interpretation
-- healer danger-area positioning
-- support defensive layering
-- DPS timing
-- counter windows after enemy engage
-- plate/frontline discipline
-
-## Review culture
-
-Good review is direct but not humiliating. Review should turn a mistake into a teachable pattern and one next habit to practice.
-
-## Concept-to-drill map
-
-Use [Concept-to-Drill Map](concept-to-drill-map.md) to turn a reviewed mistake into one practical training focus.
+Do not review only to blame. Review to identify the next drill, role correction, or calling adjustment.

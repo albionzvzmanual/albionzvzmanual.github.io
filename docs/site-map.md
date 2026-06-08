@@ -1,27 +1,27 @@
 # Site Map
 
-Use this page when you want the full public structure at a glance.
+## Core learning path
 
-## Core reader path
+1. [Start Here](start-here/)
+2. [Foundations](foundations/)
+3. [Fight Execution](fight-execution/)
+4. [Role Guides](roles/)
+5. [Calling & Information](calling-info/)
+6. [Terrain & Objectives](terrain-objectives/)
+7. [Training & VOD Review](training/)
+8. [Formation Ledger](workbooks/)
 
-- [Home](index.md)
-- [Start Here](start-here/index.md)
-- [Role Guides](roles/index.md)
-- [Fight Concepts](fight-concepts/index.md)
-- [Field Tools](weapon-notes/index.md)
-- [Formation Ledger](workbooks/index.md)
-- [Submit a Comp Package](workbooks/comp-package-intake.md)
-- [Sources / Credit](sources-credit/index.md)
+## Supporting library
 
-## Recommended route
+- [Fight Concepts](fight-concepts/)
+- [Playstyles](playstyles/)
+- [Mechanics](mechanics/)
+- [Weapon and Ability Notes](weapon-notes/)
+- [Calling Styles](calling-styles/)
+- [Practical Examples](practical-examples/)
+- [Learning Paths](learning-paths/)
+- [Project Info](sources-credit/)
 
-1. [Start Here](start-here/index.md)
-2. [Pick Your First Role](start-here/pick-your-first-role.md)
-3. [Role Guides](roles/index.md)
-4. [Movement and Positioning](fight-concepts/movement-positioning.md)
-5. [Counter-Engage Windows](fight-concepts/counter-engage-windows.md)
-6. [Weapon and Ability Notes](weapon-notes/index.md)
-7. [Formation Ledger](workbooks/index.md)
-8. [Training](training/index.md)
+## Project boundaries
 
-The sidebar shows the public learning path and core reference sections.
+This manual is general ZvZ education. It does not publish private VOD notes, named-player critique, current-meta claims without verification, or one-comp advocacy.

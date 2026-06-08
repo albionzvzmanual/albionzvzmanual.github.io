@@ -1,27 +1,18 @@
-# Publication Checklist
+# Publication Checklist - v3.3 Curriculum Expansion
 
-Official site: https://albionzvzmanual.github.io/
+Before publishing:
 
-## Before sharing broadly
+- [ ] Confirm the manual-first homepage reads correctly.
+- [ ] Confirm Formation Ledger is presented as a companion, not the main product.
+- [ ] Confirm the downloadable V6.3 Ledger link works from the Formation Ledger page.
+- [ ] Confirm Great Fire Control is described only as an example package.
+- [ ] Confirm no private VOD names, guild drama, or direct player criticism appears.
+- [ ] Confirm calling/information pages are neutral and useful for all roles.
+- [ ] Confirm terrain/objective pages avoid unverified exact mechanics.
+- [ ] Confirm nav works on desktop and mobile.
+- [ ] Confirm search works.
+- [ ] Run `mkdocs build` locally if possible.
 
-- [ ] Homepage loads.
-- [ ] Start Here route is clear.
-- [ ] Role Guides open correctly.
-- [ ] Fight Concepts open correctly.
-- [ ] Formation Ledger link works.
-- [ ] Submit a Comp Package page opens.
-- [ ] Sources / Credit page is concise and public-safe.
-- [ ] Google Sheets ledger is view-only / copy-first.
-- [ ] No private VOD names or private player callouts are visible.
+Recommended announcement framing:
 
-## Feedback request
-
-Ask reviewers for usability feedback first:
-
-- What is confusing?
-- What feels too internal?
-- What is broken?
-- What would help a newer player understand where to start?
-- If submitting a comp package, what data can they provide?
-
-Do not treat early feedback as a mandate to chase every current meta claim.
+> Albion ZvZ Manual v3.3 expands the manual into a structured ZvZ curriculum: foundations, fight execution, role guides, calling/information, terrain/objectives, training/VOD review, and a companion Formation Ledger for comp documentation.
