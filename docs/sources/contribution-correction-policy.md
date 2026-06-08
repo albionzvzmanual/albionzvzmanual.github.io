@@ -11,7 +11,7 @@ Useful corrections include:
 - missing role-behavior explanations
 - examples that sound like forced meta recommendations
 
-Please include the page, the issue, and the suggested fix.
+Please include the page, the issue, and the suggested fix. You can send corrections on Discord to **`saadvii`**, or use GitHub issues if you are comfortable with GitHub.
 
 ## Comp-package submissions
 
@@ -27,6 +27,6 @@ The Formation Ledger can support additional packages when enough reliable data e
 - VOD/source/testing context
 - review or drill ideas
 
-Start with the [Submit a Comp Package](../workbooks/comp-package-intake.md) page.
+Start with the [Submit a Comp Package](../workbooks/comp-package-intake.md) page. Comp-package submissions can be sent on Discord to **`saadvii`**.
 
 Do not submit private player callouts, guild drama, unlisted VOD identifiers, or unsupported claims that one comp package should become universal doctrine.

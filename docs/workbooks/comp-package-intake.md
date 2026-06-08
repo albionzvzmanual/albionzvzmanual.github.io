@@ -4,6 +4,12 @@ A comp package is more than a weapon list.
 
 A useful package explains what the formation is trying to do, what roles it needs, what assumptions it makes, and what kind of roster can execute it.
 
+## How to submit
+
+Send comp-package submissions or questions on Discord: **`saadvii`**.
+
+For best results, include the package data in a clean document, sheet, or message using the categories below. If the package uses private VODs or private guild context, anonymize player names, guild drama, private comms, and exact political context before sending it.
+
 ## Minimum useful package data
 
 | Area | Needed information |

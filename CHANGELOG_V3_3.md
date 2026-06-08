@@ -1,4 +1,4 @@
-# Albion ZvZ Manual v3.3 Curriculum Expansion - Change Log
+# Albion ZvZ Manual v3.3.2 Curriculum Expansion Patch - Change Log
 
 ## Purpose
 
@@ -31,3 +31,12 @@ The repository was structurally checked for nav paths and internal markdown link
 ## QA patch note
 
 - Added the cleaned Formation Ledger V6.3 XLSX as a direct downloadable companion artifact and made it the primary Ledger link.
+
+
+## v3.3.2 patch
+
+- Added a dedicated Library landing page so the Library tab no longer opens on Fight Concepts.
+- Checked the Library section nav and kept Fight Concepts, Mechanics, Playstyles, Weapon and Ability Notes, Role and Tool Library, Calling Styles, Practical Examples, and Learning Paths as supporting reference sections.
+- Renamed the public Ledger download to a stable filename: `Albion_ZvZ_Formation_Ledger_Public_Template.xlsx`.
+- Kept the Ledger version visible as page text instead of making it part of the public URL.
+- Added Discord contact `saadvii` for comp-package submissions and corrections.

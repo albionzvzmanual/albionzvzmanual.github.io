@@ -76,4 +76,4 @@ The current public Ledger includes the **Great Fire Control Formation** as a fil
 
 ## Current version
 
-This repo package is prepared as **v3.3 Curriculum Expansion**. It deepens the manual around universal fight doctrine, role responsibility, calling information, terrain, objectives, and VOD review while keeping comp-specific material in the Ledger or archive.
+This repo package is prepared as **v3.3.2 Curriculum Expansion Patch**. It deepens the manual around universal fight doctrine, role responsibility, calling information, terrain, objectives, and VOD review while keeping comp-specific material in the Ledger or archive.

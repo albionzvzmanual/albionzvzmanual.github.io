@@ -2,7 +2,7 @@
 
 ## Current public version
 
-**Albion ZvZ Manual v3.3 Curriculum Expansion**
+**Albion ZvZ Manual v3.3.2 Curriculum Expansion Patch**
 
 This version restructures the site around a manual-first curriculum:
 

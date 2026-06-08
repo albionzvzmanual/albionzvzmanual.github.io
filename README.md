@@ -6,7 +6,7 @@ This repository contains the GitHub Pages source for the Albion ZvZ Manual.
 
 ## Current package
 
-**v3.3 Curriculum Expansion**
+**v3.3.2 Curriculum Expansion Patch**
 
 This update restructures the site around a manual-first ZvZ curriculum:
 
@@ -34,4 +34,4 @@ Push to the GitHub Pages repository. The included workflow builds and deploys th
 
 ## Included companion workbook
 
-This package includes the current downloadable Formation Ledger V6.3 workbook at `docs/assets/downloads/Albion_ZvZ_Formation_Ledger_V6_3_PublicTemplate_ManualCompanion.xlsx`. The Ledger remains a companion artifact, not the center of the manual.
+This package includes the current downloadable Formation Ledger workbook at `docs/assets/downloads/Albion_ZvZ_Formation_Ledger_Public_Template.xlsx`. The Ledger remains a companion artifact, not the center of the manual.

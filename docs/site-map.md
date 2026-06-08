@@ -13,6 +13,7 @@
 
 ## Supporting library
 
+- [Library Overview](library/)
 - [Fight Concepts](fight-concepts/)
 - [Playstyles](playstyles/)
 - [Mechanics](mechanics/)

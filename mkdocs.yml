@@ -91,6 +91,7 @@ nav:
       - Player Development Ladder: training/player-development-ladder.md
       - Concept to Drill Map: training/concept-to-drill-map.md
   - Library:
+      - Overview: library/index.md
       - Fight Concepts: fight-concepts/index.md
       - Mechanics: mechanics/index.md
       - Playstyles: playstyles/index.md
@@ -108,4 +109,4 @@ nav:
       - Current Scope: sources-credit/current-scope.md
       - Contribute / Corrections: sources/contribution-correction-policy.md
 extra:
-  version: Live public manual v3.3 Curriculum Expansion
+  version: Live public manual v3.3.2 Library and contribution patch

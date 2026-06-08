@@ -1,4 +1,4 @@
-Albion ZvZ Manual v3.3 Curriculum Expansion
+Albion ZvZ Manual v3.3.2 Curriculum Expansion Patch
 
 This repo package is prepared for review before publishing to GitHub Pages.
 
