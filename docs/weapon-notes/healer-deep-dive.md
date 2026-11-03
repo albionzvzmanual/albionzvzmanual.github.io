@@ -2,6 +2,8 @@
 
 Healer tools should be judged by whether they save the real danger area.
 
+These are common healing profiles, not exclusive weapon-tree assignments. Apply the advice only to functions your selected abilities provide. Check cast behavior, range, recovery timing, and movement constraints for the current kit; neither Holy nor Nature is mandatory in every composition.
+
 ## Healer functions
 
 | Function | What it solves |

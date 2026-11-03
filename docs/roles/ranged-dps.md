@@ -48,7 +48,9 @@ Bad angles:
 - pull you away from the main fight
 - make you chase a side that is not the actual kill window
 
-## Timing and casting
+## Timing
+
+The countdown guidance here applies to a synchronized hit with an agreed impact time. Continuous pressure and independent picks have their own useful windows; delayed casts and instant effects need different preparation. and casting
 
 Damage should land on the window. If your spell has cast time or travel time, starting at zero is often late.
 

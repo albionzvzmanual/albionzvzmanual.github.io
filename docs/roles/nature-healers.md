@@ -2,6 +2,8 @@
 
 Nature healers create sustain and movement stability.
 
+These are common healing profiles, not exclusive weapon-tree assignments. Apply the advice only to functions your selected abilities provide. Check cast behavior, range, recovery timing, and movement constraints for the current kit; neither Holy nor Nature is mandatory in every composition.
+
 ## Purpose
 
 Nature healing helps the zerg stay functional when fights do not end in one engage.

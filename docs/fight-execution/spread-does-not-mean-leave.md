@@ -36,6 +36,12 @@ The important question is not only "are we spread or stacked?" The important que
 
 > Does our spacing help our current job, or does it give the enemy free value?
 
+## Two different moments in the same fight
+
+After crossing a narrow gate, the first players through move away from the exit while remaining in reach to cover the tail. Running farther away can turn their survival into the next wave's isolation.
+
+Later, a threatened player may briefly move into a usable healing or defensive area, then leave the shared danger spot once supported. This is a response to the current threat and available tools, not a permanent instruction to stack. In both cases, preserve useful support reach while reducing avoidable overlap.
+
 ## The key mental shift
 
 Red name tags are information. They are not automatic danger.

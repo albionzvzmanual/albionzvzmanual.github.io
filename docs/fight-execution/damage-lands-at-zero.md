@@ -1,8 +1,10 @@
 # Damage Must Land at Zero
 
+This page addresses a coordinated hit with an agreed impact time. Continuous Q/W pressure, independent picks, and staggered follow-up use their own useful windows; do not hold them for a countdown unless that is the assigned job.
+
 ## Core rule
 
-When a caller counts down, your damage should land at zero. If you begin casting at zero, you are usually late.
+For a synchronized hit, zero means the agreed impact moment. Begin early enough for your spell to arrive in that window. An instant effect may be used at the moment itself; a delayed effect needs earlier preparation. Confirm whether the caller uses zero for impact or for the start of an action.
 
 ## Why it matters
 
@@ -16,11 +18,11 @@ A ZvZ engage is a timing puzzle. Clump, pierce, damage, disruption, and follow-u
 
 ## What good execution looks like
 
-- You know your cast time, travel time, stand time, and range.
+- You distinguish cast time and travel time (arrival) from stand time (when you can act or move again), and know your range.
 - You start moving before the countdown becomes urgent.
 - You are already in range or using mobility before zero.
 - You cast early enough that the spell lands on the called moment.
-- If the clump is visible before zero, you trust the timing.
+- If the target remains valid and reachable, execute the agreed timing; report or abort a lost target rather than force an unsafe cast.
 
 ## Common failure pattern
 
@@ -55,6 +57,5 @@ For each engage, ask:
 
 ## Related Library references
 
-- [DPS Timing](../fight-concepts/dps-timing.md)
 - [Counter-Engage Windows](../fight-concepts/counter-engage-windows.md)
 - [DPS Timing Example](../practical-examples/dps-timing-example.md)

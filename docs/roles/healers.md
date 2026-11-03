@@ -53,14 +53,19 @@ Good healing-zone placement:
 
 Line members also have responsibility: if a good healing zone is placed in useful space, step into it instead of expecting healers to fix bad positioning from far away.
 
-## Holy and Nature difference
+## Assign healing by the selected kit
 
-This manual keeps Holy and Nature separate because they often solve different problems:
+Plan for immediate recovery, sustained coverage, targeted saves, and healing during movement. Check which functions the selected abilities actually provide, their timing and reach, and who covers each threatened group.
 
-- [Holy Healers](holy-healers.md) stabilize sharp damage and targeted danger.
-- [Nature Healers](nature-healers.md) support movement, sustain, and longer fight continuity.
+The [Holy](holy-healers.md) and [Nature](nature-healers.md) guides discuss common profiles. They are not exclusive jobs, and a roster is not required to pair the two trees. A weapon name alone does not establish whether a healer can cover a particular save or route.
 
-The exact weapon choice is comp-specific. The principle is universal: heal the fight state, not only the UI frame color.
+Heal the fight state, not only the UI frame color.
+
+## Optional mobile controls check
+
+Dragonfire Patch 3 added mobile target filters and an option to disable double-tap self-casting. Before a CTA, test ally selection, party selection, and deliberate self-casting with the abilities you intend to use. A party-only filter can exclude a friendly player outside your party who needs help. Choose settings you can operate reliably; this is not a required preset. [Official update, 12 October 2026](https://albiononline.com/news/dragonfire-patch-3).
+
+Controller users can also check Target Selection Origin: Radiant Wilds Patch 4 added switching relative to the player rather than the current target. Practice selecting the intended ally with the chosen setting before the fight; this is separate from the later mobile filters and is not a required preset. [Final live changelog, 21 July 2026](https://albiononline.com/changelog/radiant-wilds-patch-4).
 
 ## Common mistakes
 

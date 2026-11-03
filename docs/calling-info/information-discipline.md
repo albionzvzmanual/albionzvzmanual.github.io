@@ -63,4 +63,3 @@ After a fight, compare comms to reality:
 
 - [Calling Styles](../calling-styles/index.md)
 - [High-Value Targets](../fight-concepts/high-value-targets.md)
-- [Scouts / Info](../roles/scouts-info.md)

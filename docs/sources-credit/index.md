@@ -27,6 +27,10 @@ Unless a page clearly says otherwise, examples are not universal current-meta re
 
 Private or unlisted review material should become anonymous teaching patterns. Do not publish private player names, guild criticism, unlisted VOD identifiers, or screenshots with names.
 
+## Historical context
+
+AO University and Khelron examples preserve useful decision logic. Their original roster, opponent, and patch can limit how a tactic transfers. Public examples should explain the conditions that made a decision useful; they do not establish universal composition requirements.
+
 ## Mechanics note
 
 Albion changes over time. Exact values, cooldowns, item behavior, and current strength claims should be checked against current Albion sources before being treated as build advice.

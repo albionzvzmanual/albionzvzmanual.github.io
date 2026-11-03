@@ -39,6 +39,8 @@ These are broad literacy labels, not fixed comp slots.
 
 ## Damage lands at zero
 
+The countdown guidance here applies to a synchronized hit with an agreed impact time. Continuous pressure and independent picks have their own useful windows; delayed casts and instant effects need different preparation.
+
 A DPS player must know their own cast time, travel time, stand time, and setup delay.
 
 If the caller says "bomb in three, two, one," the goal is not to begin thinking at one. The goal is for damage to **land** when the window opens. Some DPS tools start early. Some are instant. Some require pre-positioning. Some require the player to already be in range.
@@ -80,7 +82,7 @@ The caller helps, but DPS must still see value on screen.
 | Mistake | Result |
 |---|---|
 | Waiting for a perfect clump | Enemy walks away or resets. |
-| Starting cast at zero | Damage lands late. |
+| Starting delayed damage at the impact call | The intended overlap can be missed. |
 | Playing too far back | You miss the counter window. |
 | Clumping with other DPS | You feed AoE escalation and lose angles. |
 | Staring only at crown | You miss local kill potential. |

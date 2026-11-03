@@ -1,6 +1,6 @@
 <div class="ao-hero">
 
-# Albion ZvZ Manual
+<h1>Albion ZvZ Manual</h1>
 
 <p class="ao-subtitle">The Field Manual for Large-Scale Albion Warfare</p>
 
@@ -76,4 +76,4 @@ The current public Ledger includes the **Great Fire Control Formation** as a fil
 
 ## Current version
 
-This repo package is prepared as **v3.4.1 Spacing and Mechanics Clarification**. It keeps the v3.4 role guide expansion and adds two targeted public-safe clarifications: focus fire protection / resilience inside spacing mechanics, and intent-based spacing for spread behavior.
+**v3.4.2.** This revision clarifies coordinated damage, healing assignments, and objective decisions while preserving the manual-first curriculum. Mechanics review: 25 October 2026; coverage and remaining checks are described in [Current-Value Checks](weapon-notes/patch-sensitive-notes.md).

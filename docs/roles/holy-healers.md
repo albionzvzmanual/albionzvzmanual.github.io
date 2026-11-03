@@ -2,6 +2,8 @@
 
 Holy healers stabilize sharp damage and save players who make the zerg function.
 
+These are common healing profiles, not exclusive weapon-tree assignments. Apply the advice only to functions your selected abilities provide. Check cast behavior, range, recovery timing, and movement constraints for the current kit; neither Holy nor Nature is mandatory in every composition.
+
 ## Purpose
 
 Holy healing is often the direct recovery layer when enemy damage lands hard.

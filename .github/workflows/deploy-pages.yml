@@ -7,8 +7,6 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: "pages"
@@ -17,29 +15,37 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
-
-      - name: Install MkDocs dependencies
-        run: pip install -r requirements.txt
-
+          python-version: "3.12"
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Install locked MkDocs dependencies
+        run: python -m pip install -r requirements-lock.txt
+      - name: Verify approved Ledger bytes
+        run: sha256sum -c LEDGER_SHA256.txt
       - name: Build site
-        run: mkdocs build
-
+        run: python -m mkdocs build --strict
+      - name: Verify navigation and internal links
+        run: python tools/check_site_links.py
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./site
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

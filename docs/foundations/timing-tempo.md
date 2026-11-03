@@ -14,6 +14,10 @@ Tempo is not just your weapon cooldown. Tempo is the group's usable rhythm: clum
 
 A player may have a 15-second damage loop, but the zerg may not have a 15-second engage if supports, clumps, healers, and callers cannot cycle that fast.
 
+This page addresses a coordinated hit with an agreed impact time. Continuous Q/W pressure, independent picks, and staggered follow-up use their own useful windows; do not hold them for a countdown unless that is the assigned job.
+
+The 15-second loop above is an illustrative example, not a verified cooldown for a particular weapon.
+
 ## Good tempo looks like
 
 - clump or target is visible before zero
@@ -51,7 +55,7 @@ On every engage in a VOD, mark:
 4. When the last major damage lands.
 5. When enemy defensives appear.
 
-If damage starts at zero, it is usually late.
+For delayed damage assigned to a synchronized hit, starting the cast at zero usually misses the intended impact. Judge instant effects, pressure, and independent picks against their own assignments.
 
 ## Related pages
 
@@ -61,6 +65,5 @@ If damage starts at zero, it is usually late.
 
 ## Related Library references
 
-- [DPS Timing](../fight-concepts/dps-timing.md)
 - [Counter-Engage Windows](../fight-concepts/counter-engage-windows.md)
 - [Mechanics](../mechanics/index.md)

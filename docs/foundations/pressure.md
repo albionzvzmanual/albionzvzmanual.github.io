@@ -56,5 +56,4 @@ In VOD review, find one enemy player who survived at low HP. Ask:
 ## Related Library references
 
 - [Pressure Types](../fight-concepts/pressure-types.md)
-- [Q/W Pressure](../fight-concepts/qw-pressure.md)
 - [Practical Examples](../practical-examples/index.md)

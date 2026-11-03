@@ -1,5 +1,7 @@
 # DPS Timing and Clump Selection
 
+This page addresses a coordinated hit with an agreed impact time. Continuous Q/W pressure, independent picks, and staggered follow-up use their own useful windows; do not hold them for a countdown unless that is the assigned job.
+
 DPS timing is the difference between a real engage and fake pressure.
 
 ## Core idea
@@ -31,7 +33,7 @@ Do not wait forever for the perfect clump. Good DPS can hit:
 
 ## Common failures
 
-- starting cast at zero
+- starting a delayed cast at the assigned impact moment
 - walking into the target before casting
 - throwing E where the caller looked instead of where enemies are clumped
 - waiting for a perfect clump until the fight is over

@@ -30,7 +30,7 @@ Understanding style helps you avoid using the wrong response.
 | [Melee Clap Concepts](melee-clap.md) | short-window melee burst and exit discipline |
 | [Melee DoT / Pressure](melee-dot-pressure.md) | sustained damage, anti-heal, and healer strain |
 | [Hybrid / Mixed Zergs](hybrid-mixed.md) | how mixed styles combine pressure, control, and engage windows |
-| [Style Counters](style-counters.md) | how broad styles pressure or punish each other |
+| [Style Counters](style-counters.md) | how to respond to observed behavior and available routes |
 
 ## Important limitation
 

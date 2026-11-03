@@ -1,4 +1,4 @@
-# Review 10–15 Seconds Before Death
+# Review the Setup Before Death
 
 ## Core rule
 
@@ -24,7 +24,9 @@ That may be true, but incomplete. The useful review is often:
 
 ## Review method
 
-For each important death, pause at:
+As an entry drill, start 10–15 seconds before an important death and pause at the points below. This is a starting heuristic, not a fixed analytical window. Rewind farther for a route choice, angle loss, missed scout report, or setup error. Continue later to understand recovery and the next rotation.
+
+Suggested pauses:
 
 1. 15 seconds before death
 2. 10 seconds before death
@@ -44,7 +46,7 @@ Ask what changed at each point.
 - support tool placed too late or wrong lane
 - healer out of danger range
 - tank failing to stop enemy path
-- DPS starting damage at zero instead of landing at zero
+- delayed damage missing an assigned synchronized impact
 
 ## Training prompt
 
@@ -52,7 +54,7 @@ Write one sentence:
 
 > My death started when I ____.
 
-If the sentence begins with "when their damage landed," go earlier.
+If the sentence begins with "when their damage landed," inspect the earlier setup. If no avoidable earlier error is supported by the available view, record the uncertainty instead of inventing blame.
 
 ## Related pages
 

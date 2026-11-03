@@ -1,44 +1,31 @@
-# Albion ZvZ Manual
+# Albion ZvZ Manual v3.4.2
 
-**The Field Manual for Large-Scale Albion Warfare**
+A composition-neutral learning resource for large-scale Albion warfare. The Formation Ledger is an optional practical companion.
 
-This repository contains the GitHub Pages source for the Albion ZvZ Manual.
+Production address: https://albionzvzmanual.github.io/
 
-## Current package
+## Build and check
 
-**v3.4.1 Spacing and Mechanics Clarification**
+Use Python 3.12 in a virtual environment:
 
-This package keeps the manual-first ZvZ curriculum and the v3.4 role guide expansion:
-
-- Foundations
-- Fight Execution
-- Expanded Role Guides
-- Calling & Information
-- Terrain & Objectives
-- Training & VOD Review
-- Formation Ledger as companion tooling
-
-The manual is a general learning tool. It does not advocate one comp, weapon package, or current meta. v3.4 expanded the role guides around role-principle education instead of weapon prescriptions. v3.4.1 adds small clarifications for focus fire protection / resilience and intent-based spacing without adding meta-specific style prescriptions.
-
-## Local preview
-
-```bash
-pip install -r requirements.txt
-mkdocs serve
+```text
+python -m pip install -r requirements-lock.txt
+python -m mkdocs build --strict
+python tools/check_site_links.py
 ```
 
-## Publish
+The generated website is in `site/`; it is not committed. Only this directory is uploaded to GitHub Pages. Public curriculum and downloads are under `docs/`.
 
-Push to the GitHub Pages repository. The included workflow builds and deploys the site.
+## Publishing
 
+The repository's Pages publishing source must be **GitHub Actions**. The workflow `.github/workflows/deploy-pages.yml` runs on pushes to `main` and manual dispatch. Its build verifies the Ledger checksum, performs a strict MkDocs build, and checks all local links before uploading the generated site. Deployment uses the `github-pages` environment.
 
-## Included companion workbook
+The production address uses the repository's standard GitHub Pages hostname; no custom-domain `CNAME` is required. A push to `main` can publish the site, so prepare and review releases before that push.
 
-This package includes the current downloadable Formation Ledger workbook at `docs/assets/downloads/Albion_ZvZ_Formation_Ledger_Public_Template.xlsx`. The Ledger remains a companion artifact, not the center of the manual.
+## Formation Ledger
 
+The stable public filename is `Albion_ZvZ_Formation_Ledger_Public_Template.xlsx`. `LEDGER_SHA256.txt` identifies the approved workbook included in v3.4.2. Its embedded revision remains V6.3.1-dev.1 to preserve the tested file without modification.
 
-## Latest change log
+## Release
 
-- `CHANGELOG_V3_4_1.md`
-- `CHANGELOG_V3_4.md`
-- `CHANGELOG_V3_3.md`
+See [the v3.4.2 release notes](CHANGELOG_V3_4_2.md). Earlier public release notes are retained. Private source archives, research records, and internal review reports are not part of this repository.

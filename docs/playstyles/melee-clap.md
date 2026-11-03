@@ -17,7 +17,7 @@ It wants a clump, a fast engage path, and enough control to keep enemies inside 
 
 - predictable engage paths can be stopped
 - bad first engage can feed escalation
-- vulnerable to kite/control if mobility is forced early
+- if mobility is spent before contact, an opponent may deny re-entry or force an unsafe chase
 
 ## Common mistake
 

@@ -62,6 +62,10 @@ Officers should convert doctrine into simple operational checks:
 - Is the review focused on repeated habits instead of every mistake?
 - Is the strategy realistic for this roster's current skill level?
 
+## Check who is actually in the region
+
+Radiant Wilds Patch 4 added guild-granted Priority Access to region queues. Priority entrants can displace a lower-priority ally. Authorized officers can inspect party priorities with `/rq list` (or `/rq list guild` for their guild); permissions are managed through guild rights. Confirm which healers, supports and tanks are inside before committing, then update the call if a queue rotation changes that coverage. A signup or party assignment is not proof of region presence. [Final live changelog, 21 July 2026](https://albiononline.com/changelog/radiant-wilds-patch-4).
+
 ## Secondary caller / scout protocol
 
 Secondary information should help the caller, not compete with the caller.

@@ -46,6 +46,18 @@ Bad:
 
 > "North north north go north no no back back back!"
 
+## Worked example: a flank report becomes a decision
+
+**Situation:** the main group is holding a gate. A scout sees a small mounted group circling toward the east exit, but cannot see whether its damage is ready.
+
+**Scout:** “Small mounted group east, moving toward our exit; cooldowns unknown.” The scout reports observed movement and uncertainty, then leaves space for the caller.
+
+**Caller:** “Hold the gate. East stopper watch the exit; healers keep the tail in reach. No chase.” This preserves the main job while assigning the new threat.
+
+**Update:** if the group turns away, the scout reports that change. If it dismounts into the lane, the caller can commit cover or rotate before the exit closes. Neither response follows from a style label alone.
+
+**Review:** pause at the first report. Did the caller have enough location and certainty information to assign a response? Check whether the roster moved before the follow-up report, not just whether the eventual fight was won.
+
 ## Training prompt
 
 During comms review, mark each callout as:

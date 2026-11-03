@@ -19,11 +19,11 @@ This section explains the fight behavior behind important large-scale mechanics:
 
 ## External mechanics references
 
-Use these links to check exact current values when a number matters. The manual teaches field behavior; external references verify current mechanics details.
+Use [Current-Value Checks](../weapon-notes/patch-sensitive-notes.md) for the dated review scope and source hierarchy. The wiki links below are supplementary explanations, not independent confirmation of current values.
 
 - [Albion Wiki: ZvZ Mechanics](https://wiki.albiononline.com/wiki/ZvZ_Mechanics)
 - [Albion Wiki: AoE Escalation](https://wiki.albiononline.com/wiki/AoE_Escalation)
 - [Albion Wiki: Focus Fire](https://wiki.albiononline.com/wiki/Focus_Fire)
 - [Albion Wiki: Healing Sickness](https://wiki.albiononline.com/wiki/Healing_Sickness)
 - [Albion Wiki: Overcharge](https://wiki.albiononline.com/wiki/Overcharge)
-- [Albion Online Forum](https://forum.albiononline.com/)
+- [Official changelogs](https://albiononline.com/changelog)

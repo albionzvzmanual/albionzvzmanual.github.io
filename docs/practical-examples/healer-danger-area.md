@@ -24,13 +24,13 @@ Healers stand safely far away and heal the backline while the players making the
 
 ## Holy and Nature together
 
-Holy stabilizes sharp damage. Nature supports sustained space, zones, routes, and recovery. A strong healer package uses both forms of value.
+A healing package needs coverage appropriate to the threat: immediate recovery, sustained healing, targeted saves, or route support. Allocate these functions from the selected kits; they are not exclusive to Holy or Nature, and both trees are not mandatory.
 
 ## Review questions
 
 1. Where was the danger area?
-2. Could Holy reach it?
-3. Did Nature support useful space?
+2. Could the assigned recovery healer reach it?
+3. Did sustained or zone healing support useful space?
 4. Did defensive support and healing overlap?
 5. Did players stand in the healing area when they should?
 

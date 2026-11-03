@@ -21,6 +21,8 @@ Support weapons and utility tools make other players' value work.
 **Role family:** defensive support / cleanse layer  
 **General value:** Locus-style defensive support should answer real pressure on the real danger area.
 
+Dated range check: Radiant Wilds Patch 4 increased The Void's maximum radius from 8 m to 8.5 m. The support task remains coverage of the threatened group; do not infer cast range, instant full-size coverage or protection through terrain from this maximum radius. [Final live changelog, 21 July 2026](https://albiononline.com/changelog/radiant-wilds-patch-4).
+
 Common mistakes:
 
 - panic-dropping on safe space
@@ -58,6 +60,8 @@ Common mistakes:
 - purging after the enemy bomb already lands
 - not preselecting important enemy weapons
 - using purge on low-value targets while enemy damage setup is visible
+
+Identify whether the selected effect can be purged. Radiant Wilds Patch 4 made Feyscale Hat's Hyper Focus a non-purgeable toggle; a generic instruction to purge setup does not mean every setup effect is removable. [Final live changelog, 21 July 2026](https://albiononline.com/changelog/radiant-wilds-patch-4).
 
 ## Timing rule
 

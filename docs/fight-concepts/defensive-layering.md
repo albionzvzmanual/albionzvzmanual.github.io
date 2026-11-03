@@ -17,8 +17,8 @@ The zerg's defensive plan is not "drop everything." The correct plan is:
 - Oathkeeper/resistance support
 - Rootbound or defensive zone tools
 - Judicator / Guard / Demon-style armor tools
-- Holy direct healing
-- Nature HoTs and zones
+- direct healing from the assigned recovery kit
+- healing over time and zones where the selected kit provides them
 
 ## Danger area vs safe area
 

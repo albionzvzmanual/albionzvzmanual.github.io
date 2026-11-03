@@ -8,7 +8,7 @@ The Ledger is a **side companion**, not the center of the project. You can learn
 <h2>Get the public ledger</h2>
 <p><strong>Albion ZvZ Formation Ledger — Public Template</strong></p>
 <p>Use it as a reusable operating structure for signups, assignments, builds, coverage, and comp-package documentation.</p>
-<p><em>Current release: V6.3 Public Template / Manual Companion.</em></p>
+<p><em>Workbook revision: V6.3.1-dev.1 Public Template / Manual Companion.</em></p>
 <div class="ao-button-row">
 <a class="ao-button" href="../assets/downloads/Albion_ZvZ_Formation_Ledger_Public_Template.xlsx">Download XLSX Ledger</a>
 <a class="ao-button secondary" href="comp-package-intake/">Submit a Comp Package</a>

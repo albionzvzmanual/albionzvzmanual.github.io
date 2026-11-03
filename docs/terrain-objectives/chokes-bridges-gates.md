@@ -44,6 +44,27 @@ Sometimes walking into or through a spent enemy is safer than backing into a cho
 - enemy path blocked or awkward
 - your back path worse than forward path
 
+## Worked example: secure the far side before chasing
+
+The first wave crosses a bridge while the tail is still exposed. An enemy group retreats straight ahead; another entrance remains unscouted to the right.
+
+```text
+                         Enemy retreat
+                               ^
+                         first wave
+                     spread and cover
+                               |
+Friendly tail ---> [ bridge ] --+-- unscouted side path
+```
+
+Schematic only; it does not represent a specific map or ability range.
+
+The caller first assigns a tank to watch the side path and keeps healing connected to the crossing. Players already across spread away from the exit and pressure reachable threats. Chasing immediately could expose the tail to the unscouted path and remove its recovery.
+
+Once the tail has crossed and that side path is checked, the caller can choose to advance or hold. If the side threat arrives before then, cover the crossing or abandon it before feeding another wave.
+
+In review, mark the moment the first wave stopped helping the tail. Compare it with the moment the tail became safe, not merely the first player's successful crossing.
+
 ## Training prompt
 
 On every choke death, ask:

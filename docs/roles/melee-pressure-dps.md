@@ -83,6 +83,10 @@ Pause before each melee commit and ask:
 - Can healers/supports reach me if I do the correct job?
 - Did I create pressure, or just appear on the screen and leave?
 
+## Historical damage assumptions
+
+Do not assume that an older melee package retains its former Resilience Penetration advantage. Read the [Season 34 mechanics note](../mechanics/focus-fire-resilience.md#season-34-check-protection-and-penetration-are-different) and test whether the selected kit still creates the intended pressure.
+
 ## Related pages
 
 - [Enemy Cooldowns Are Spent](../fight-execution/spent-cooldowns.md)

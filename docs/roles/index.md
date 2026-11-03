@@ -23,7 +23,7 @@ Every role should be able to answer four questions:
 <div class="ao-card blue"><h3>Healers</h3><p>Heal danger, not only low HP. Keep the players making the fight possible alive and active.</p><p><a href="healers/">Read</a></p></div>
 <div class="ao-card blue"><h3>Supports</h3><p>Own the danger lane with preventive utility, support-stack timing, movement help, and non-E value.</p><p><a href="supports/">Read</a></p></div>
 <div class="ao-card blue"><h3>Defensive / Stopper Tanks</h3><p>Create safety by stopping enemy paths, covering exits, controlling counters, and staying until the zerg is safe.</p><p><a href="stopper-tanks/">Read</a></p></div>
-<div class="ao-card blue"><h3>Engage / Clump Tanks</h3><p>Create hittable clumps before zero and shape the kill window for allied damage.</p><p><a href="engage-tanks/">Read</a></p></div>
+<div class="ao-card blue"><h3>Engage / Clump Tanks</h3><p>Create hittable clumps for synchronized hits and shape useful windows for allied damage.</p><p><a href="engage-tanks/">Read</a></p></div>
 <div class="ao-card blue"><h3>Callers / Officers</h3><p>Convert information, terrain, cooldowns, enemy style, and roster reality into executable calls.</p><p><a href="caller-officers/">Read</a></p></div>
 <div class="ao-card blue"><h3>Scouts / Info</h3><p>Report useful information without flooding comms or over-calling the main caller.</p><p><a href="scouts-info/">Read</a></p></div>
 </div>

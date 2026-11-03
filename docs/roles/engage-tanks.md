@@ -1,5 +1,7 @@
 # Engage / Clump Tanks
 
+This page addresses a coordinated hit with an agreed impact time. Continuous Q/W pressure, independent picks, and staggered follow-up use their own useful windows; do not hold them for a countdown unless that is the assigned job.
+
 Engage and clump tanks create hittable opportunities.
 
 ## Core rule

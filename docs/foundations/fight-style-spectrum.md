@@ -6,16 +6,18 @@ ZvZ styles are a spectrum, not a tier list.
 
 A zerg can brawl, bomb, kite, control, pressure from range, or mix several of those ideas at once. The point is not to declare one style correct. The point is to understand what each style is trying to force.
 
-## The main styles
+## Reading style vocabulary
 
-| Style | Wants to | Usually punishes | Usually struggles when |
-|---|---|---|---|
-| Brawl | live inside enemy space and keep trading | passive enemies, weak peel, poor support layers | it cannot reach backline or gets stretched |
-| Bomb / clap | delete a clump and reset | clumped players, predictable chokes, greed | it must hold ground for long |
-| Kite | deny clean entry, stretch enemy front, punish overextension | melee floods, impatient callers, exposed tanks | fixed objectives require holding space |
-| Control | slow the fight, win terrain, deny enemy movement, punish structure breaks | over-engage, bad terrain takes, unsupported entries | roster cannot maintain patience or support lanes |
-| Ranged pressure | project damage while preserving space and angles | enemies crossing lanes, exposed frontline, low support density | ranged players clump or walk into melee funnels |
-| Hybrid | combine modules: main zerg, flank, bomb squad, support package | one-dimensional enemies | the caller and roster cannot coordinate modules |
+These labels vary between guilds and callers. Use them to describe what you observe, then agree what they mean for this fight. A label alone does not predict a winner or prescribe spacing.
+
+- **Brawl** often describes staying in contact and trading. Whether that works depends on access, recovery, and connected support.
+- **Bomb or clap** often describes concentrated damage in a short window. The group may reset, hold, or follow through afterward.
+- **Kite** often describes moving while denying clean contact and retaining useful pressure. It still requires decisions about when to stop or contest space.
+- **Control** often describes restricting movement or shaping useful terrain. Many groups combine this with burst or sustained pressure.
+- **Ranged pressure** describes repeated threat from distance; actual reach and safe angles depend on the selected tools and terrain.
+- **Hybrid** is a reminder that these behaviors can coexist or change during a fight.
+
+For example, a group moving backward may be drawing opponents into a prepared lane, recovering from a failed engage, or abandoning an objective. Scout the route and support positions before choosing a response.
 
 ## What good players read
 
@@ -52,5 +54,4 @@ After a fight, answer:
 ## Related Library references
 
 - [Playstyles](../playstyles/index.md)
-- [Style Counters](../playstyles/style-counters.md)
 - [Calling Styles](../calling-styles/index.md)

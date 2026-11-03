@@ -41,6 +41,8 @@ Pick one death and pause the VOD at:
 
 At each pause, ask: "What decision made the next frame worse?"
 
+The suggested review timestamps are an entry drill. Rewind farther when the cause is an earlier route or setup decision, and continue through recovery when judging the next rotation.
+
 ## Related pages
 
 - [Review 10–15 Seconds Before Death](../training/review-before-death.md)

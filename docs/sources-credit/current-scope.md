@@ -1,10 +1,12 @@
 # Current Scope
 
-## Current public version
+## Version
 
-**Albion ZvZ Manual v3.4 Role Guide Expansion**
+**Albion ZvZ Manual v3.4.2**
 
-This version keeps the manual-first curriculum and expands the Role Guides section into a deeper role-principle teaching layer:
+Based on v3.4.1. Mechanics review cutoff: 25 October 2026. See [Current-Value Checks](../weapon-notes/patch-sensitive-notes.md) for coverage and limits.
+
+This version preserves the manual-first curriculum and the expanded role guides, with targeted wording corrections and worked examples across:
 
 - Foundations
 - Fight Execution

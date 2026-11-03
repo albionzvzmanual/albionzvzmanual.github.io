@@ -24,7 +24,7 @@ Large clumps create multiple problems at once:
 - enemy pierce hits more players
 - healers and supports are forced to save too many people at once
 - friendly tanks cannot see the real counter path
-- DPS lose angles and block each other
+- DPS converge on the same unsafe angle and expose each other to the same area damage
 - panic movement spreads the problem late instead of preventing it early
 
 ## Focus Fire Protection / Resilience
@@ -34,6 +34,8 @@ AoE escalation explains why clumps die so quickly. Focus fire protection, often 
 In ZvZ, good damage is not only "everyone hit one target." Good damage comes from timing, clump quality, pierce, heal cut, pressure, and choosing targets that can actually be killed.
 
 This is why spacing matters in both directions: clumping too tightly gives the enemy AoE value, but spreading your damage with no timing or pressure can also fail to kill anything.
+
+The Season 34 removal of **Resilience Penetration** is separate from Focus Fire Protection. See the [dated mechanics note](../mechanics/focus-fire-resilience.md#season-34-check-protection-and-penetration-are-different) before applying historical melee-damage comparisons.
 
 ## Role application
 
@@ -63,7 +65,5 @@ When the caller says "spread," pause the VOD and ask:
 
 ## Related Library references
 
-- [AoE Escalation](../mechanics/aoe-escalation.md)
-- [Focus Fire and Resilience](../mechanics/focus-fire-resilience.md)
 - [Defensive Layering](../fight-concepts/defensive-layering.md)
 - [Movement and Positioning](../fight-concepts/movement-positioning.md)

@@ -2,7 +2,7 @@
 
 ## Situation
 
-A clump appears or a tank locks enemies, and the caller counts down.
+A clump appears or a tank locks enemies, and the caller counts down to a synchronized impact. This example is about that assigned burst window; independent picks and sustained pressure are evaluated separately.
 
 The important moment is not when the DPS player starts casting. The important moment is when damage lands.
 
@@ -19,7 +19,7 @@ Clean timing usually looks like:
 
 ## Common failure
 
-DPS starts casting at zero. By the time damage lands, enemies have moved, cleansed, healed, or used defensive layers.
+DPS starts a delayed cast at zero. By the time damage lands, enemies have moved, cleansed, healed, or used defensive layers.
 
 ## What good DPS watches
 

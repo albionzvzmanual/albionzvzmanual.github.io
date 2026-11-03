@@ -2,26 +2,26 @@
 
 ## Core learning path
 
-1. [Start Here](start-here/)
-2. [Foundations](foundations/)
-3. [Fight Execution](fight-execution/)
-4. [Role Guides](roles/)
-5. [Calling & Information](calling-info/)
-6. [Terrain & Objectives](terrain-objectives/)
-7. [Training & VOD Review](training/)
-8. [Formation Ledger](workbooks/)
+1. [Start Here](start-here/index.md)
+2. [Foundations](foundations/index.md)
+3. [Fight Execution](fight-execution/index.md)
+4. [Role Guides](roles/index.md)
+5. [Calling & Information](calling-info/index.md)
+6. [Terrain & Objectives](terrain-objectives/index.md)
+7. [Training & VOD Review](training/index.md)
+8. [Formation Ledger](workbooks/index.md)
 
 ## Supporting library
 
-- [Library Overview](library/)
-- [Fight Concepts](fight-concepts/)
-- [Playstyles](playstyles/)
-- [Mechanics](mechanics/)
-- [Weapon and Ability Notes](weapon-notes/)
-- [Calling Styles](calling-styles/)
-- [Practical Examples](practical-examples/)
-- [Learning Paths](learning-paths/)
-- [Project Info](sources-credit/)
+- [Library Overview](library/index.md)
+- [Fight Concepts](fight-concepts/index.md)
+- [Playstyles](playstyles/index.md)
+- [Mechanics](mechanics/index.md)
+- [Weapon and Ability Notes](weapon-notes/index.md)
+- [Calling Styles](calling-styles/index.md)
+- [Practical Examples](practical-examples/index.md)
+- [Learning Paths](learning-paths/index.md)
+- [Project Info](sources-credit/index.md)
 
 ## Project boundaries
 
@@ -30,4 +30,4 @@ This manual is general ZvZ education. It does not publish private VOD notes, nam
 
 ## Version note
 
-The v3.4 package expands the Role Guides section with deeper role-principle pages and VOD-review prompts.
+Manual version: v3.4.2. See [Current Scope](sources-credit/current-scope.md) for the review boundary.

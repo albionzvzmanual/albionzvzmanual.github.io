@@ -52,6 +52,16 @@ Ask:
 - reading total deaths but not role deaths
 - ignoring the next enemy counter path
 
+## Worked example: a visible clump beyond support reach
+
+**Situation:** enemy frontliners are grouped beyond a corner. Friendly damage can reach the corner, but the tail and one healing group are still crossing behind you. The far exit is unscouted.
+
+**Decision:** “Hold this side, pressure what is reachable; finish crossing. Scout the far exit.” A visible target is not yet an executable engage when the follow-up would separate damage from recovery.
+
+**What changes the call:** once healing is connected and the exit is known, reassess a synchronized hit or a controlled advance. If a new enemy wave arrives first, preserve the covered route and reset. Do not treat waiting as an automatic rule either: an expiring objective may justify a risk, which the caller must name.
+
+**Review:** separate the information available at the call from what the VOD reveals later. Identify the observation that would justify advancing, and whether it actually arrived.
+
 ## Training prompt
 
 Review caller macro separately from player execution:

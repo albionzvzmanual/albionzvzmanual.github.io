@@ -1,17 +1,9 @@
-# Style Counters
+# Responding to Enemy Behavior
 
-Different fight styles punish different mistakes.
+Fight-style names are shorthand, not a counter system. Read what the opponent can do from its current position.
 
-## Broad counter logic
+If an enemy spends a damage wave and retreats, check whether another wave or flank is ready before advancing. Connected healing and a usable route may let you take space; an unscouted corner may make pursuit a trap.
 
-| Enemy behavior | Common response idea |
-|---|---|
-| They bomb and run | survive, stay close enough to counter, punish spent cooldowns |
-| They brawl into you | deny access, kite correctly, hit overextensions |
-| They kite/control | do not chase into bad terrain; take space intelligently |
-| They pressure at range | avoid free damage, use terrain/angle, force them to move |
-| They rely on melee commits | stop paths, punish overextension, protect backline |
+If an enemy holds a narrow entrance, ask whether you need that entrance at all. Rotating can change the problem, but only if the objective timing and your retreat route allow it.
 
-## Warning
-
-This is not a strict rock-paper-scissors chart. Real fights include terrain, player quality, cooldowns, and numbers.
+Use the [Caller Decision Framework](../calling-info/caller-decision-framework.md) to choose the next action. Use [Fight Style Spectrum](../foundations/fight-style-spectrum.md) for vocabulary, not fixed matchups.

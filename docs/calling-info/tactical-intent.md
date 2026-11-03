@@ -55,6 +55,12 @@ Review one failed call and ask:
 - Did different roles need different lines?
 - Did someone follow the literal word while failing the actual job?
 
+## Navigation aids do not choose the tactical route
+
+Radiant Wilds Patch 3 introduced shared party navigation. It can help players find a destination, but a suggested route does not know which choke is covered, which flank is occupied, or whether the tail can cross. Read the caller's route and scout information before following an indicator through danger. [Publisher changelog, 29 June 2026](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559763).
+
+Patch 4 added Ctrl + right-click navigation from the World Map and a safer-route navigation option. These are navigation aids, not a guarantee that the chosen route is tactically safe; keep the scout and crossing checks above. [Final live changelog, 21 July 2026](https://albiononline.com/changelog/radiant-wilds-patch-4).
+
 ## Related pages
 
 - [How to Read Calls](../start-here/how-to-read-calls.md)
