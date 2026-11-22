@@ -79,30 +79,42 @@ The same call can mean different positioning and movement for each role.
 
 ## Practical read during a CTA
 
-Before the call:
+Khelron teaches four reads for choosing a position. Each answers a different question. [AO University, Episode 27 — Movement and Positioning](https://www.youtube.com/watch?v=EMJzvGCFTwY).
 
-- **Positioning:** Where should my role be if the fight starts now?
-- **Movement:** What route will I need if the caller rotates or kites?
+1. **Terrain.** What ground can I use from here? Identify the corner that hides the approach, the lane you can affect and the exit you can reach.
+2. **Enemy.** What have they actually shown? A retreat could open space or draw the lead group into a turn. Check who has committed and which approach you cannot see.
+3. **Own zerg.** Who can act with me? Check who is still crossing, which allies can cover the next move and whether your own tools are ready.
+4. **Wider map.** Where will the fight go if both groups keep moving? Check the next junction, choke or open area before taking a route that leaves you on the wrong side of it.
 
-During the call:
+Turn those observations into a job. At a bend, a stopper may watch the approach that can reach the tail. A healer may move to keep that stopper and the returning allies in reach. A damage player may cover a reachable target from the near side while the far route is still unknown. The same call can give each player a different destination.
 
-- **Positioning:** Am I creating the shape the call needs?
-- **Movement:** Am I moving with the correct layer of the zerg?
+Work backward from when your action will still help. **Walk** if you can arrive in time with support in reach. **Spend mobility** if it makes a supported action possible before its window closes and you still have a way to recover. **Hold or report the gap** if speed cannot fix an exposed route, missing cover or an unreachable target. Check which later move would need the same tool. Follow the group's agreed abort or next-wave procedure if you cannot make it safely.
 
-After the call:
+Check again when a group commits, someone takes over coverage, a tool is spent or an exit changes. A formation diagram can show who covers what at one moment. It cannot tell you who can still cover that job after the exchange. The [bridge schematic](../terrain-objectives/chokes-bridges-gates.md) marks its unknown approach for that reason.
 
-- **Positioning:** Am I ready for the enemy counter or our second turn?
-- **Movement:** Did I reset without clumping, abandoning, or over-kiting?
+## When a useful wall position expires
+
+**First decision.** Your group is holding a gate. From a position beside a wall, you can pressure the approach, receive support and return along the near lane. Would you hold, start walking toward the gate or spend mobility now?
+
+??? question "Compare the choices while holding"
+
+    Holding keeps useful coverage while the approach remains reachable. Walking early can help if the caller is setting up a move and another player covers the lane. Spending mobility now has a cost if it is also your way back. Confirm what would make you leave the position.
+
+**Second decision.** The caller sends the group through the gate. The target withdraws out of reach from your old position. The stopper who covered the shortcut is recovering, while the longer approach still has allied cover. Can you reach the assigned action before its window closes? What would make you wait or report the gap?
+
+??? question "Compare the choices after the push"
+
+    Walk the covered approach if it reaches the assignment in time. Use mobility only if the route and support make the action possible and you can still recover. If the shortcut is exposed and the longer route is too slow, report that you cannot join this wave and ask where to rejoin. A faster arrival does not restore missing cover.
+
+If a report places a second enemy group near the tail, check who can cover it before following the retreat. Compare the [stopper’s responsibility for the route](../roles/stopper-tanks.md) and the [healer’s responsibility for the next reachable save](../roles/healers.md).
 
 ## Practice drill
 
-Pause VOD five seconds before a major movement or positioning mistake. Ask each role:
+**First freeze.** Pause before the player moves. Name their assigned action, a usable position, the route and pace to reach it, and one thing the player cannot yet know. Explain what would make the move worth a mobility tool.
 
-1. Where should this role be five seconds later?
-2. What position is the call trying to create?
-3. What path is safe enough to reach that position?
-4. Did the player fail movement, positioning, or both?
-5. Did the player move as a role, or just as a body?
+**Second freeze.** Resume until the first change in route, threat or allied cover. Keep the outcome hidden. Ask which part of the earlier plan still works and which needs to change. Identify whether the failure was the destination, the path, the timing or a missed chance to reassess.
+
+Then watch the outcome. Judge the choice using what the player could see at each freeze. A rescue can hide a poor return decision, and a good route can still end in a loss. Use the [VOD review method](../training/vod-review-method.md) to test competing explanations.
 
 ## Related pages
 

@@ -2,11 +2,11 @@
 
 This page addresses a coordinated hit with an agreed impact time. Continuous Q/W pressure, independent picks, and staggered follow-up use their own useful windows; do not hold them for a countdown unless that is the assigned job.
 
-DPS timing is the difference between a real engage and fake pressure.
+Impact timing helps turn a group commitment into a shared hit. Pressure and independent picks work on different cues.
 
 ## Core idea
 
-Damage must land while enemies are controlled, pierced, anti-healed, or unable to respond.
+An assigned hit has a better chance to convert when attackers can reach the same targets during a brief opening. Control, aligned utility, or a gap in enemy protection can create that opening.
 
 If DPS starts casting after the window is already visible, the damage may land after the enemy has escaped, cleansed, or stabilized.
 
@@ -15,21 +15,20 @@ If DPS starts casting after the window is already visible, the damage may land a
 A clean engage often looks like:
 
 1. tank creates/holds the clump
-2. support utility lands before or with damage
+2. any assigned offensive utility is active when the effect it enables arrives
 3. damage lands during the control window
-4. safe players keep Q/W pressure
-5. players spread or reposition after value
+4. players reassess pressure, cover or recovery according to the next threat
+5. players reposition while keeping the next assignment in reach
 
 ## Clump selection
 
-Do not wait forever for the perfect clump. Good DPS can hit:
+Check three things before spending a major tool:
 
-- the called clump
-- a smaller real clump
-- overextended frontliners
-- low targets
-- enemies leaving defensives
-- players trapped by terrain or tanks
+1. **Visible.** Can you identify the called group and where it will be when your effect arrives?
+2. **Reachable.** Can the assigned damage and utility affect that group during the same window? A target within your range may be outside everyone else's.
+3. **Convertible.** What useful result can the hit produce, and can the group handle the reply? Check active protection, allied follow-through and a covered return.
+
+A large group is visible beyond a corner. A smaller front group is within reach, but the stopper covering the return reports another threat. Tell the caller which target is reachable and what cover is missing. If the caller selects the smaller group and the return is covered, hit it together. If the window closes first, protect the return or hold the major tool for the next call. Pursue a separate pick only if it fits an independent assignment or the caller has handed it off and allies can follow.
 
 ## Common failures
 
@@ -49,7 +48,7 @@ For every engage, mark:
 3. when damage lands
 4. when enemy defensives/heals respond
 
-If damage consistently lands after enemy response, DPS timing is late.
+Compare the result with the agreed impact and intended target. Protection may already have been active, or allies may have arrived together at different targets. Use the [worked timing drill](../practical-examples/dps-timing-example.md#drill) to distinguish those failures from late preparation or late impact.
 
 ## Set the exercise mode
 
@@ -59,7 +58,7 @@ Label the assignment as synchronized impact, continuous pressure or delayed foll
 
 - [Ranged DPS](../roles/ranged-dps.md)
 - [Support DPS](../roles/support-dps.md)
-- [DPS Damage Must Land on Zero](../practical-examples/dps-timing-example.md)
+- [Work Backward from the Assigned Impact](../practical-examples/dps-timing-example.md)
 - [Q/W Pressure Floor](qw-pressure.md)
 
 ## Melee timing risk

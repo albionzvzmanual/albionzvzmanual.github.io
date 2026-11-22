@@ -27,7 +27,7 @@ Simplification is a decision, not laziness.
 
 ## Common failure pattern
 
-Players stand on a side wall "to watch it," but their presence gives the enemy something to bomb. If nobody important is there, the enemy cannot get value there.
+Leaving an exposed side wall can remove an easy target. The enemy can still use that lane to reach the objective, flank the group, or cut the exit. Keep observation or coverage when the route matters, even if nobody needs to stand on the wall.
 
 ## Role responsibilities
 

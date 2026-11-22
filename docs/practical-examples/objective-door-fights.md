@@ -51,6 +51,17 @@ Before reviewing kills/deaths, draw the door or objective area and mark:
 - DPS angle
 - retreat route
 
+**Compare the objective window.** You need to reach an entrance while it can still be contested. A direct approach arrives sooner but compresses the group at the door. A longer approach has cover and room to regroup. The near-side lane still gives you a usable return. Decide what you can accomplish from each route before spending the group's movement.
+
+| What changes | Decision to consider |
+| --- | --- |
+| The entrance remains contestable and the near side is covered. A scout can check the far lane while allies reconnect. | **Hold** briefly if that buys information or readiness you can still use. |
+| The longer route is confirmed covered and leaves enough time to arrive and act. | **Rotate** if the tail can make the move and support will be in reach on arrival. |
+| Waiting or taking the longer route would miss the opportunity. Cover can reach the direct approach and the near-side return remains usable. | **Make a supported advance** if contesting is worth that exposure. Decide what threat or loss of coverage would end the attempt. |
+| Enemy movement threatens the return, and neither route is likely to let the group contest and recover. | **Disengage** through the covered exit while it still works. Conceding the objective can preserve the group for the next decision. |
+
+These are hypothetical conditions. For the actual contest, check the relevant mode and objective rules in [Castles, Territories, and Objective Geometry](../terrain-objectives/castles-territories-objectives.md).
+
 ## Related pages
 
 - [Terrain and Geometry](../fight-concepts/terrain-geometry.md)

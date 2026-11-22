@@ -4,14 +4,14 @@ These rules are intentionally blunt. They stop the most common fight-losing habi
 
 ## The ten rules
 
-1. **Do not clump.**  
-   Friendly clumps turn enemy AoE into wipes.
+1. **Avoid sharing an enemy hit.**  
+   Give allies room to move when an enemy attack could hit several of you at once.
 
-2. **Do not kite one screen away.**  
-   Kite far enough to survive and turn, not far enough to abandon the fight.
+2. **Stay connected on your route.**  
+   As you back up, keep the allies you need in reach. Keep moving along the covered exit if the group is leaving.
 
-3. **If enemy cooldowns are spent, look for pressure.**  
-   Running after surviving enemy damage gives tempo back for free.
+3. **Check whether a counter can work.**  
+   An enemy attack may leave you room to act while their tools recover. Turn if you can do your assigned job, allies are ready, and you have enough cover to achieve something useful.
 
 4. **Direction calls are tactical intent.**  
    "South" may mean angle, route, front, bait, or turn setup.
@@ -23,7 +23,7 @@ These rules are intentionally blunt. They stop the most common fight-losing habi
    For an assigned synchronized hit, confirm whether the count means impact or preparation. Continuous pressure and follow-up use their own windows.
 
 7. **Match utility to the event it answers.**  
-   Offensive debuffs need overlap with allied damage; preventive defenses need to cover the threat. Reactive cleanses require an appropriate removable effect. Check the selected ability rather than use one timing rule for every tool.
+   A damage amplifier needs to be active at impact. A recovery-denial effect covers the recovery attempt. Prevention covers the threat, and a cleanse needs an effect it can remove.
 
 8. **Heal where you can change the outcome.**  
    Balance urgency, missing health, reach and the group’s next move.

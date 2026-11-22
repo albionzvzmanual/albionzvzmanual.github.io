@@ -1,40 +1,37 @@
 # Support DPS Tool Notes
 
-Support DPS tools enable damage to convert. Their value is not only their own damage number.
+Support DPS helps allied damage convert by changing what opponents can do during an assigned window. Judge each utility effect by the event it can change.
 
 ## What support DPS should create
 
-- pierce before damage
-- anti-heal during the kill window
-- purge before enemy defensives stabilize
-- stuns or slows that keep targets in damage
-- disruption that makes enemy healing late
-- enough pressure to justify a DPS slot
+- **Amplify a hit.** Apply the assigned effect to the target so it is active when allied damage lands.
+- **Disrupt an action or deny recovery.** Catch the relevant cast, movement, protection or recovery attempt while it can still change the result. That may be before, during or after the hit.
+- **Cover the group's move when assigned.** Have preventive protection active when the threat reaches allies. If the job is to answer a counterattack, be ready for the cue the selected tool can act on.
 
 ## Timing sequence
 
-The clean order is:
+For a coordinated hit with an assigned damage amplifier, one possible sequence is:
 
 ```text
-clump / lock → support DPS utility → main damage → enemy recovery fails
+allies set up a reachable target → amplifier is active on that target → allied damage lands while it is active
 ```
 
-If support utility lands after main damage, the window may already be gone.
+An amplifier arriving after impact missed that hit. Utility assigned to the enemy's next action may still have a window.
 
 ## Smaller button rule
 
-If a large E will be late, a smaller on-time utility button may create more value. The role exists to make the window work, not to force a perfect-looking combo after the moment has passed.
+If your main tool will miss the assigned event, look for a smaller effect that can reach the right target in time and still do the job. Keep the main tool available if it has a later assignment.
 
 ## Review questions
 
-- Did utility land before or with damage?
-- Did it hit the actual kill target?
-- Did it weaken healing, armor, movement, or defenses?
-- Did the player chase damage meters instead of utility timing?
+- What event was the utility meant to change?
+- Did it reach the intended players or area while it could still help?
+- What changed? Did it enable damage, delay recovery, protect the move or answer a counter?
+- If you held it, what later threat or opportunity did it cover?
 
 ## Choose a trigger
 
-Name the enemy response your assigned effect addresses. Hold it when the visible targets have no follow-through or a second wave is your actual assignment. Check effect eligibility on the selected ability before planning the sequence.
+Name the cue that makes your effect useful. For an offensive effect, check that allies can follow through. For cover, watch the assigned threat and keep the tool ready if the plan is to answer a later wave. Check the selected ability's reach and what it can affect.
 
 ## Related pages
 

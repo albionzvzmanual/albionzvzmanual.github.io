@@ -48,6 +48,15 @@ After a fight, answer:
 
 Pause before one group withdraws. Mark its exit, which allies can still support it and when it last committed. Write two explanations for the same movement. Resume until a new action supports one explanation. Judge the route and timing before assigning a label.
 
+Now keep the roster and terrain the same. Change its assignment at the junction:
+
+| Assignment | What to test |
+| --- | --- |
+| **Withdraw under pressure.** | Use separate, reachable lines that let allies keep moving toward recovery. Spend damage or control if it buys room for the tail, and check who covers the pursuit lane as the group moves. A cast that strands you at the junction may cost more than it gains. |
+| **Contest the entrance.** | Use positions from which the assigned group can reach the same entrance without all sharing one threat. If a short coordinated hit gives allies a usable way through, prepare it together. Keep cover for the reply and name where the first players through can receive help. |
+
+At the next pause, remove one condition, such as support reach at the entrance or cover on the return. Ask which part of the plan now fails and whether to move, hold a tool or change the assignment. The useful spacing and damage commitment follow the job that is still possible.
+
 ## Related pages
 
 - [Timing and Tempo](timing-tempo.md)

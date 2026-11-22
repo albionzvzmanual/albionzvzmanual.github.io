@@ -30,6 +30,8 @@ That question keeps the manual comp-neutral and helps players adapt when patches
 
 Read [fight flow](fight-flow.md) for the next decision, [timing](timing-tempo.md) for the shared opportunity and [spacing](spacing-aoe-escalation.md) for where you can act. Pause one recording at contact. Point to one reachable ally, one threat and one move that preserves both your assignment and your exit.
 
+Use the [Movement and Positioning four reads](../fight-concepts/movement-positioning.md#practical-read-during-a-cta) to turn that observation into a role position and a route.
+
 ## Related Library references
 
 - [Mechanics](../mechanics/index.md) for underlying game rules.

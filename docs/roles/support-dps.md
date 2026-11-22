@@ -1,8 +1,6 @@
 # Support DPS
 
-Support DPS creates the kill window.
-
-Damage without pierce, heal cut, armor reduction, disruption, or utility often becomes fake pressure. Support DPS is the bridge between pure damage and pure support.
+Support DPS helps allied damage convert by changing what the opponent can do during the assigned window.
 
 ## Core job
 
@@ -23,11 +21,7 @@ Support DPS is neither normal DPS nor pure support. It must bring utility that h
 
 ## Timing principle
 
-Utility late is often worthless.
-
-If main damage lands before pierce or heal cut, the enemy may survive with defensives, Locus, Guard, Demon, Rootbound, or healing already active.
-
-Sometimes a smaller on-time button is better than a big late E.
+Time an effect against the event it is meant to change. A damage amplifier needs to be active at impact on the assigned target. An effect that denies recovery needs to cover the recovery attempt, which may follow the hit. If you are assigned to protect the return, keep the appropriate tool available for the counter. A smaller effect can be worth using if it reaches the assigned target in time and does the required job. See [Match Support Utility to Its Window](../practical-examples/support-utility.md).
 
 ## What you watch
 
@@ -46,7 +40,7 @@ Pierce and heal cut should be judged by whether they affect the kill window, not
 Good support DPS asks:
 
 - Did I hit the same target as damage?
-- Did my utility land before or with damage?
+- Was my effect active when its assigned event happened?
 - Did I hit enough people to matter?
 - Was this a kill window, or just a random cast?
 - If I missed E, did I still land useful smaller pressure?
@@ -57,24 +51,22 @@ Good support DPS asks:
 |---|---|
 | Chasing damage numbers | You stop enabling actual kills. |
 | Piercing the wrong clump | Main damage hits unassisted targets. |
-| Landing utility after damage | Enemy heals/defensives already solved the window. |
+| Missing the assigned event | An amplifier that arrives after impact cannot help that hit. A recovery denial effect may still have a later job. |
 | Using E randomly before engage | The next real window has no utility. |
-| Ignoring heal-cut needs | Sustained pressure fails to convert. |
+| Missing an assigned recovery denial effect | The target may recover before allies can convert sustained pressure. |
 | Hitting isolated protected tanks | You create fake value while real targets reset. |
 
 ## Positioning
 
-Support DPS must often play closer to the kill window than normal ranged DPS, but not so close that it feeds. Your position should let you apply utility to the same target area allied DPS will hit.
-
-If you are too far back, your utility lands late. If you are too deep, you die before the window.
+Choose a position based on the selected effect's reach, the target and your return route. Check whether moving closer actually lets you affect the event while support can still reach you.
 
 ## VOD drill
 
 For every engage, answer:
 
-1. Did support utility land before or with damage?
+1. Which event was the utility assigned to, and did it arrive in time to affect that event?
 2. Did it hit the actual target?
-3. Did it create a kill window?
+3. Did it enable the hit, interfere with recovery or cover the reply as intended?
 4. If E was late, was there a better on-time button?
 5. Did my utility pair with clump, pierce, heal cut, and DPS timing?
 

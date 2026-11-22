@@ -9,7 +9,7 @@ A caller gives direction and timing. Players still need to understand what their
 ## What line members must read
 
 - enemy name-tag movement
-- whether enemy cooldowns are live or spent
+- which enemy tools were seen in use and which groups remain unobserved
 - friendly clumps and danger lanes
 - where healers and supports are
 - which side of terrain is safe or useful
@@ -40,11 +40,13 @@ Examples:
 
 ## Training prompt
 
-In your POV, find one moment where the caller gave a general call. Ask:
+Watch the same exchange from the caller's view and a player's view. Pause before either knows how the exchange ends.
 
-- What was my role supposed to infer?
-- Did I wait for a micro-call?
-- Did I solve a problem or add a new one?
+**First freeze.** The caller has a scout's view of a reachable target and calls a hit from the near lane. A damage player cannot see the scout's angle, but can prepare the assigned effect and reach the called area. What can that player do using the shared intent? Following the agreed timing from the usable lane is role judgment. Switching to a different target without an assignment would split the hit.
+
+**Second freeze.** The player assigned to cover the return discovers that their route is blocked. The caller has not seen it. What should reach the caller before the group spends its movement? The cover player can report which job is unavailable and use the group's agreed fallback. The same applies if their assigned tool is still on cooldown or the support they need cannot reach them. The caller can then delay, choose another route or cancel the hit.
+
+Compare the recordings. A call can be reasonable with the information available at the first freeze. A player with a viable assignment can still execute it poorly. A blocked role that reports early gives the caller a chance to revise the decision. Identify which problem occurred before judging the outcome.
 
 ## Related pages
 

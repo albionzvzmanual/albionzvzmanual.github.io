@@ -26,7 +26,7 @@ The commands below assume the speaker owns that decision. A scout gives the obse
 | "Lightcaller!" | "Lightcaller on east door, get off east clump." |
 | "They're coming!" | "Enemy turning through south choke, prepare defensives." |
 | "Caller deep!" | "Enemy caller deep southwest, punish if safe." |
-| "We killed a lot!" | "Enemy west front is down supports; push west now." |
+| "We killed a lot!" | "Two west supports confirmed down. Check remaining enemy cover, our follow-through and the return route before we push." |
 
 ## What to avoid
 
@@ -56,9 +56,13 @@ Bad:
 
 **Caller:** “Hold the gate. East stopper watch the exit; healers keep the tail in reach. No chase.” This preserves the main job while assigning the new threat.
 
-**Update:** if the group turns away, the scout reports that change. If it dismounts into the lane, the caller can commit cover or rotate before the exit closes. Neither response follows from a style label alone.
+**Update:** compare three reports:
 
-**Review:** pause at the first report. Did the caller have enough location and certainty information to assign a response? Check whether the roster moved before the follow-up report, not just whether the eventual fight was won.
+- “Last seen heading east. Lost sight at the bend.” The earlier sighting still matters, but the exit is unconfirmed. Keep watching it while the hold remains useful.
+- “They're at the east exit now. I saw one stop our lead player.” This gives the caller a fresh location and one observed use. Check whether coverage can reach before the exit closes. The report does not show what else the group has ready.
+- “I can see them moving away from the exit.” This may free that cover for another assignment if the lane and the rest of the route remain usable.
+
+**Review:** pause before and after each report. Ask which detail could change the assignment and whether it arrived in time. Before acting on a reported enemy loss, check the remaining threat, who can follow and who covers the return.
 
 ## Training prompt
 

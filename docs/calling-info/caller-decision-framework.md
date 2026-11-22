@@ -54,13 +54,23 @@ Ask:
 
 ## Worked example: a visible clump beyond support reach
 
-**Situation:** enemy frontliners are grouped beyond a corner. Friendly damage can reach the corner, but the tail and one healing group are still crossing behind you. The far exit is unscouted.
+**Situation:** enemy frontliners are grouped beyond a corner. Friendly damage can reach the corner, but the tail and one healing group are still crossing behind you. A scout last saw a small enemy group approaching the far exit and has since lost sight of it.
 
-**Decision:** “Hold this side, pressure what is reachable; finish crossing. Scout the far exit.” A visible target is not yet an executable engage when the follow-up would separate damage from recovery.
+| What you know | How it affects the decision |
+| --- | --- |
+| **Observed:** the visible front turns away. The tail is still crossing. | There may be room to move at the corner, while the tail still needs cover. |
+| **Inferred:** the front may be giving up ground. | A short advance could keep pressure on it. The turn does not establish that it has spent its tools. |
+| **Unresolved:** the group last seen on the side route may still be moving toward the exit. | If it reaches the tail, it could cut the covered return. Check its current position before spending the cover that can answer it. |
 
-**What changes the call:** once healing is connected and the exit is known, reassess a synchronized hit or a controlled advance. If a new enemy wave arrives first, preserve the covered route and reset. Do not treat waiting as an automatic rule either: an expiring objective may justify a risk, which the caller must name.
+**Decision:** finish crossing under cover, keep pressure on what is reachable and ask the scout to check the exit. This keeps the objective within reach while protecting against a costly possibility. Base the allocation of cover on the earlier sighting and the exposure of the tail. If waiting would miss the objective, consider a limited advance that the available cover can support. Name the tradeoff and keep a route for recovery.
 
-**Review:** separate the information available at the call from what the VOD reveals later. Identify the observation that would justify advancing, and whether it actually arrived.
+**What changes the call:**
+
+- **Advance after useful new evidence.** The scout sees the side group moving away and the tail's healer confirms reach. Recheck the target, timing and return before ordering the hit or advance.
+- **Maintain the limited plan.** The scout still has no sight of the exit and existing cover still works. Finish what you can do from this position. Reassess when another report arrives or waiting begins to cost the objective.
+- **Change the call.** The side group enters the return lane, or the assigned healer loses reach. Shift the next action to an alternate covered route or a reachable recovery position while it is still available.
+
+**Review:** at each decision, name what was observed, what was inferred and what remained unknown. Ask which fact would change the call and what delaying would cost. Judge the choice using what the caller knew at the time.
 
 ## Training prompt
 

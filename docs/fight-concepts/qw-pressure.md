@@ -1,10 +1,10 @@
 # Q/W Pressure Floor
 
-A zerg that only deals damage on major cooldowns gives the enemy too much freedom.
+A group that only threatens during major hits can give its opponent time to recover, rotate or set up between them.
 
 ## Core idea
 
-Q/W pressure is the floor of a good fight. It creates constant threat, forces healing, prevents free resets, and converts enemy mistakes between major engages.
+Repeatable damage, control or a credible threat can change an enemy decision before you spend a major tool. Q and W often help. Judge the effect by the response it can produce and the role it leaves available.
 
 ## Why it matters
 
@@ -13,9 +13,9 @@ Q/W pressure:
 - keeps enemy frontliners low
 - punishes enemies walking out of your territory
 - forces healers to spend attention
-- creates panic before major engage
+- can draw a defender away from a useful position before a major engage
 - turns small mistakes into kills
-- helps your zerg take space psychologically
+- can make an approach usable when defenders give it up
 
 ## Who contributes
 
@@ -40,11 +40,17 @@ Players press their major cooldown, then walk backward and do nothing while the 
 
 ## Practice drill
 
-Track a 15-second period between engages. Count how many safe players created useful pressure. If most players are only walking, the zerg lacks pressure floor.
+Before a gate crossing, use the recording to choose a supported position and an affordable effect that might force the defender to move or spend cover. Keep the major hit ready. Pause again at the first enemy response:
+
+- The defender gives up the approach. Keep enough pressure to let allies cross while cover remains in reach.
+- The defender spends a protective tool, and allies can reach the same exposed target. Report what was spent and reassess a coordinated hit.
+- The defender remains ready and another group threatens the exit. Hold the major tool or withdraw along the covered route according to the call.
+
+Then check what actually changed: a route opened, a defensive was used, a heal was redirected, or enemies kept their position. A cast count cannot tell you which result occurred.
 
 ## Record a useful action and a useful hold
 
-Pick a lane and one assignment. Mark a cast that made an enemy move, commit or wait, then one saved tool that covered a credible second threat. Compare those results with the cast count before judging the player.
+Mark one action that credibly changed the enemy's options and one hold that preserved an assigned response. Walking may be the right choice when a cast would delay your move or leave the return uncovered. If the clip does not show why the enemy moved, record that uncertainty.
 
 ## Related pages
 

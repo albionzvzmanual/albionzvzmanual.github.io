@@ -16,12 +16,12 @@ Each example should teach a decision, not just describe a mistake.
 | Example | Main lesson |
 |---|---|
 | [Direction Calls](direction-calls.md) | calls are tactical intent |
-| [Counter Window](counter-window.md) | stop running once enemy cooldowns are spent |
+| [Counter Window](counter-window.md) | check whether allies are ready and covered for a useful counter |
 | [DPS Timing](dps-timing-example.md) | can the assigned hit reach the target during its window? |
 | [Healer Danger Area](healer-danger-area.md) | heal the real danger area |
 | [Plate Frontline](plate-frontline.md) | healthy plate creates space |
-| [Support Utility](support-utility.md) | utility before or with damage |
-| [Kite as a Unit](kite-as-unit.md) | kite far enough to turn, not abandon |
+| [Support Utility](support-utility.md) | time each effect to the event it is assigned to change |
+| [Kite as a Unit](kite-as-unit.md) | keep allies covered on the way out and turn only if the group can do so with cover |
 | [Positional Pressure](positional-pressure.md) | win space without a full engage |
 | [Objective / Door Fights](objective-door-fights.md) | identify danger boxes and routes |
 

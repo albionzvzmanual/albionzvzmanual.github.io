@@ -10,11 +10,11 @@ Your first job is not to top damage, make a hero play, or understand every call.
 
 That means:
 
-- do not stand on friendly players
-- do not run one screen away
-- stay close enough to turn with the group
+- avoid sharing the same enemy hit with nearby allies
+- follow your assigned route and stay in reach of allies you need to help or receive help from
+- turn only when you can do your job, allies are ready, and cover lets the group achieve something. A safe exit can be the whole plan
 - learn one stable role before over-flexing
-- use defensives when real damage is landing
+- use your defensive when it can answer the threat it is meant for
 - review mistakes without turning critique into drama
 
 ## The first mistake most players make
@@ -38,9 +38,9 @@ Better question:
 
 After your next CTA, do not ask "did I die?" only ask:
 
-- Was I close enough to help the turn?
-- Did I clump on friendly players?
-- Did I panic away after enemy cooldowns were spent?
+- Could I do my job from where I stood?
+- Did we give the enemy an easy hit on several allies?
+- After the enemy spent an attack, could we make a useful turn with cover, or did we need to finish leaving?
 - Did I understand what my role was trying to do?
 
 ## Your first crossing
