@@ -2,15 +2,9 @@
 
 DPS should not be treated as one generic damage role. Different DPS tools create value in different ways.
 
-## Main DPS families
+<a id="main-dps-families"></a>
 
-| DPS family | Main value | Core mistake to avoid |
-|---|---|---|
-| Ranged pressure / burst | angles, E-window damage, Q/W pressure, safe uptime | disappearing between E cooldowns |
-| Melee burst / clap | short-window melee damage and fast conversion | entering late or staying clumped after casting |
-| Melee pressure / DoT | sustained pressure, healer strain, forced movement | chasing one target instead of pressuring space |
-| Support DPS | utility plus enough damage or pressure to matter | judging the weapon only by raw DPS |
-| Execute DPS | finishing low or trapped players | diving without a real window or exit |
+See the [DPS overview](../roles/dps-overview.md) for the shared role families. Use these questions to assess an individual tool.
 
 ## How to judge DPS tools
 

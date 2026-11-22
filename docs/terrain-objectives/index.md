@@ -14,6 +14,10 @@ A fight around a castle, territory, wall, gate, bridge, chest room, mage, or tow
 <div class="ao-card blue"><h3>One-Angle Simplification</h3><p>If you do not need to contest multiple angles, do not give the enemy multiple angles.</p><p><a href="one-angle-simplification/">Read</a></p></div>
 </div>
 
+## Learn in decision order
+
+Start with [route choice](terrain-decides-calls.md), practise [crossing and covering the tail](chokes-bridges-gates.md), then check the [rules of the objective](castles-territories-objectives.md).
+
 ## Related Library references
 
 - [Terrain and Geometry](../fight-concepts/terrain-geometry.md) for older terrain notes.

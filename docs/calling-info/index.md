@@ -18,6 +18,10 @@ Better information produces better calls, better role decisions, and cleaner VOD
 
 Bad information makes good players late and makes callers guess.
 
+## Choose a communication task
+
+[Report a threat](callout-format.md), [interpret a movement call](tactical-intent.md), or [decide the next action](caller-decision-framework.md). Try one task in a replay before reviewing the entire comms channel.
+
 ## Related Library references
 
 - [Calling Styles](../calling-styles/index.md) for older calling-pattern references.

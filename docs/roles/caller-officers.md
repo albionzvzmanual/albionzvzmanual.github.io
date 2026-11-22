@@ -54,7 +54,7 @@ Good callers make intent clear when time allows. Good players learn to infer int
 
 Officers should convert doctrine into simple operational checks:
 
-- Are healers present and mixed correctly?
+- Are the assigned healing functions covered by players who are present and in reach?
 - Are critical supports covered?
 - Are tanks front enough to protect the zerg?
 - Are DPS close enough to hit the next turn?
@@ -102,6 +102,10 @@ After a fight, pick one call that worked and one call that failed. For each, ide
 - what the zerg needed to do to mitigate risk
 - whether the next step was clear
 - whether failure came from call quality, roster execution, role losses, or comp mismatch
+
+## Divide the work at a crossing
+
+In the fight, the caller chooses whether to hold or cross and names the next trigger. Before contact, officers assign who watches the exit and who covers the tail. Afterward, check whether the report, assignment or movement failed before changing the whole plan.
 
 ## Related pages
 

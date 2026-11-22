@@ -2,7 +2,7 @@
 
 ## Core rule
 
-E buttons create openings. Q/W pressure often converts them.
+A coordinated hit can leave opponents injured, displaced or separated from support. Use whichever available tool advances your assignment. A Q or W may need to protect the return, and an E may provide sustained pressure.
 
 A zerg that bombs and instantly runs may force defensives without securing kills. A zerg that bombs, spreads, and keeps Q/W pressure can turn damaged enemies into deaths.
 
@@ -26,6 +26,10 @@ Do not force Q/W pressure if:
 - your supports are disconnected
 - the caller is clearly resetting
 - objective/terrain makes staying lethal
+
+## Choose between two reachable targets
+
+A damaged enemy retreats around a wall. A second group approaches in the open. Following the retreating player would put the wall between you and your healer. Hold the visible lane and pressure the approaching group from a supported position. If a scout confirms a safe route and support follows, reassess the chase. Review the last moment when either choice was still available.
 
 ## Role responsibilities
 

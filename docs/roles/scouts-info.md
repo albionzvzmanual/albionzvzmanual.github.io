@@ -86,7 +86,7 @@ In review, take one scout/info call and ask:
 - Did it include location and action?
 - Did the reporter stop after giving useful information?
 
-If the report did not affect a decision, it may have been too vague, too late, or not relevant.
+A timely report can confirm the existing call. Judge whether the caller could use it while a choice was still open. If a threat passes out of sight, state the last observed direction and withdraw any earlier claim that the lane is clear.
 
 ## Related pages
 

@@ -1,19 +1,5 @@
 # Fight Style Spectrum
 
-Albion fights rarely fit one pure label. A zerg may bomb, brawl, kite, control, and pressure in different moments.
+These familiar labels describe overlapping patterns. To interpret one in a recording, mark how the group gets access, when it spends major tools and how it recovers afterward. A group can use a short burst in one exchange and rely on sustained pressure in the next.
 
-## Broad style families
-
-| Style | Basic idea | Common response question |
-|---|---|---|
-| Bomb / clap | kill quickly in a short window | did they spend damage, and can we turn? |
-| Brawl | live inside/near enemy and apply sustained pressure | can we deny their access or kite? |
-| Kite / control | move, deny paths, force bad chases, then turn | are we close enough to counter? |
-| Ranged pressure | create value from range over time | are we maintaining pressure without clumping? |
-| Melee pressure | threaten front/backline with close-range pressure or executes | is commit timing safe? |
-
-## Use with caution
-
-These are literacy labels, not complete comp definitions.
-
-The goal is to understand fight behavior, not to claim every style has a finished Formation Ledger package.
+[Read the full explanation and examples](../foundations/fight-style-spectrum.md). For a specific decision, compare [responses to observed enemy behavior](style-counters.md).

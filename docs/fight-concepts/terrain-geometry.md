@@ -41,7 +41,7 @@ Examples:
 
 ## Territory and door logic
 
-When a caller chooses a risky path, the zerg's job is not to complain about the risk during the fight. The zerg's job is to mitigate the risk:
+If a scout sees the exit close or a role can no longer cover the route, report it while the caller can still change direction. If the group commits, divide coverage by the stretch each role can actually reach:
 
 - tanks check counter-bomb angles
 - supports cover the exposed route

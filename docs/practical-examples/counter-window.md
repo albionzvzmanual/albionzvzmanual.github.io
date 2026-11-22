@@ -8,7 +8,7 @@ This is one of the most important moments in ZvZ.
 
 ## Correct response
 
-Players still in danger should stabilize. Safe players should prepare pressure.
+Players in danger stabilize. Safe players prepare pressure if assigned, or cover a separate threat while the caller confirms the turn.
 
 A counter window exists when:
 

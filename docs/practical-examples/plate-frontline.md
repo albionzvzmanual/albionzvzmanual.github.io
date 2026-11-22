@@ -1,4 +1,4 @@
-# Healthy Plate Must Front
+# Protect the Route Assigned to Your Role
 
 ## Situation
 
@@ -8,7 +8,7 @@ This often creates the clump the enemy wants.
 
 ## Correct response
 
-Healthy plate should usually help create space, stop paths, or protect the route.
+Inspect the assignment and ready tools first. A healthy stopper may belong on the entry path. A support in plate may be holding a different lane or waiting for an ally to cross. Health alone cannot diagnose a positioning mistake.
 
 That does not mean every plate player runs into enemy zerg. It means healthy plate should not hide inside the most vulnerable friendly players.
 

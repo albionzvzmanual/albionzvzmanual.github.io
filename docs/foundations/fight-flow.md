@@ -16,6 +16,10 @@ A ZvZ fight is not one engage. It is a sequence of contact, cooldown trades, pre
 | Chase / extraction | Winning side catches, losing side survives, or both reset | Who has mobility, tanks, and healers connected? |
 | Objective consequence | Castle, territory, chest, mage, tower, or hideout pressure changes the cost of moving | Is the fight still worth the position? |
 
+## When the sequence changes
+
+A scout finds the planned exit occupied before either group commits. The next phase may be a reset immediately. Identify where the tail can rejoin, who still sees the enemy and whether support can cover the new route. Contact can begin again once those conditions are met. A phase describes the present decision and can recur several times.
+
 ## The important idea
 
 A fight can be won or lost before the countdown. If a formation loses angle, clumps on a wall, leaves healers behind, or fails to establish a front, the engage may fail even if the final target call was correct.

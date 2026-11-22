@@ -47,6 +47,10 @@ In VOD review, find one enemy player who survived at low HP. Ask:
 - Did healers support the forward players?
 - Did players retreat because danger was real, or because red name tags looked scary?
 
+## Trade pressure for access
+
+At a gate, a group steps back when your ranged players threaten its approach. Your team can move its tail through while the approach is clear. You gained access even if nobody died. If the defenders step back to prepare another hit, preserve cover for the crossing instead of treating their movement as a win.
+
 ## Related pages
 
 - [Q/W Pressure Floor](../fight-concepts/qw-pressure.md)

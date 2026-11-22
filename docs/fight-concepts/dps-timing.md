@@ -51,6 +51,10 @@ For every engage, mark:
 
 If damage consistently lands after enemy response, DPS timing is late.
 
+## Set the exercise mode
+
+Label the assignment as synchronized impact, continuous pressure or delayed follow-through. Mark preparation, cast start, impact and return to movement separately. For a countdown, compare actual impact to the agreed window. For pressure, ask which enemy action the effect changed.
+
 ## Related pages
 
 - [Ranged DPS](../roles/ranged-dps.md)

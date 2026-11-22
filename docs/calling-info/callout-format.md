@@ -18,6 +18,8 @@ Better callout:
 
 Examples:
 
+The commands below assume the speaker owns that decision. A scout gives the observed threat and location, then leaves the assignment to the caller. For example, “Two dismounted east of the gate, moving south. Lost sight at the bend.”
+
 | Weak callout | Stronger callout |
 |---|---|
 | "Bomb!" | "Bomb squad north side, tanks stop north lane." |

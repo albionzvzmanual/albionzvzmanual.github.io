@@ -1,27 +1,17 @@
 # Turn and Burn
 
-## Core idea
+A withdrawing group turns to pressure a pursuer when it can do so from connected positions.
 
-Stop retreating once the enemy has overextended or spent cooldowns, then immediately pressure the exposed group.
+## Read the situation
 
-## What line members should understand
+A few enemies follow around a bend. From the front they look isolated. From the tail there is still no view of the group behind them.
 
-The failure is continuing to run after the correct turn window appears.
+??? question "Compare your call"
 
-## Role notes
+    Name who can watch the second approach while allies turn. A covered position with reachable targets can support a short punish. If the pursuers stop just beyond the bend, reassess before following them into unseen space.
 
-**Tanks:** identify whether you are creating the threat, stopping the enemy response, or protecting the route.
+## Test the decision in a recording
 
-**Healers:** position for the danger area created by the call, not only the safest backline.
+Find the last moment the group could resume its withdrawal together. What evidence justified spending that option?
 
-**Supports:** layer defensives on the real counter-threat.
-
-**DPS:** be close enough and prepared early enough to hit when the window appears.
-
-## Common failure
-
-Players hear the words but miss the intent. They move in the named direction while ignoring terrain, enemy cooldowns, or role responsibility.
-
-## Practice drill
-
-During VOD review, name the calling style after the fight moment, then ask each role what it should have done five seconds before the call.
+[Explore the underlying decision](../fight-concepts/counter-engage-windows.md).

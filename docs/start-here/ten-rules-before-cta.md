@@ -16,17 +16,17 @@ These rules are intentionally blunt. They stop the most common fight-losing habi
 4. **Direction calls are tactical intent.**  
    "South" may mean angle, route, front, bait, or turn setup.
 
-5. **Healthy plate must not hide inside friendly DPS.**  
-   Plate that backs into cloth creates danger instead of reducing it.
+5. **Control the threat assigned to your role.**  
+   Stand where your tools can protect the group and where support can reach you. Armor and full health alone do not justify advancing; a rear guard may correctly work behind the main group.
 
-6. **DPS damage must land on time.**  
-   Starting the cast at zero is often late.
+6. **Match your assigned damage window.**  
+   For an assigned synchronized hit, confirm whether the count means impact or preparation. Continuous pressure and follow-up use their own windows.
 
-7. **Support utility must land before or with damage.**  
-   Late pierce, anti-heal, or defensive support often does nothing.
+7. **Match utility to the event it answers.**  
+   Offensive debuffs need overlap with allied damage; preventive defenses need to cover the threat. Reactive cleanses require an appropriate removable effect. Check the selected ability rather than use one timing rule for every tool.
 
-8. **Healers save the danger area.**  
-   Safe-but-useless healing is still bad healing.
+8. **Heal where you can change the outcome.**  
+   Balance urgency, missing health, reach and the group’s next move.
 
 9. **Open the map and read terrain.**  
    Walls, chokes, doors, and corners decide fights.

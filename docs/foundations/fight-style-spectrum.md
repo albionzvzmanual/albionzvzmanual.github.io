@@ -44,6 +44,10 @@ After a fight, answer:
 3. Did our calling match our roster's style?
 4. Did our players position for that style?
 
+## Observe a route change
+
+Pause before one group withdraws. Mark its exit, which allies can still support it and when it last committed. Write two explanations for the same movement. Resume until a new action supports one explanation. Judge the route and timing before assigning a label.
+
 ## Related pages
 
 - [Timing and Tempo](timing-tempo.md)

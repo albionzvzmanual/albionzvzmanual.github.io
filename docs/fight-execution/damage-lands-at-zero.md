@@ -1,4 +1,4 @@
-# Damage Must Land at Zero
+# Time Damage to the Assigned Impact
 
 This page addresses a coordinated hit with an agreed impact time. Continuous Q/W pressure, independent picks, and staggered follow-up use their own useful windows; do not hold them for a countdown unless that is the assigned job.
 
@@ -37,8 +37,12 @@ Sometimes true. But if the stop happened after the hit should already have lande
 | DPS | know your own timing; do not wait until zero to start playing |
 | Clump tank | create or show the clump before zero |
 | Pierce / debuff | land on the actual kill area, not near it |
-| Support | expect enemy counter-engage after friendly hit |
+| Support | place offensive utility in the impact window or cover the return according to assignment |
 | Caller | choose hittable clumps and avoid impossible ranges |
+
+## Measure arrival in a recording
+
+Suppose the agreed impact is at 12.0 seconds on a clip. Your effect takes 1.2 seconds from cast start to impact in that same clip. The latest matching cast start was 10.8 seconds, assuming the target stayed reachable. If you first saw it at 11.4, the missing time was in setup or target visibility. Pressing harder at zero cannot recover it. These are illustrative recording times. Measure your own effect and check what movement or interruption changed between attempts.
 
 ## VOD prompt
 
@@ -48,6 +52,10 @@ For each engage, ask:
 - At what second did I cast?
 - At what second did my damage land?
 - Was I stopped before my correct timing, or only because I was late?
+
+## When the target disappears
+
+If the target leaves sight or reaches a spot the group cannot affect, report the lost target and hold the assigned hit. Reassess with the caller before switching targets or spending the movement you need for recovery.
 
 ## Related pages
 

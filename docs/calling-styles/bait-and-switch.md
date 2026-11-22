@@ -1,27 +1,17 @@
 # Bait and Switch
 
-## Core idea
+A first group makes a threat the enemy has reason to answer. A second group can act on the response if it remains in reach.
 
-Force the enemy to spend defensives, mobility, or engage tools, then punish while those tools are unavailable.
+## Read the situation
 
-## What line members should understand
+The lead group shows at the edge of a choke. One enemy defensive appears on the front, but the damage group behind it stays in position. What has actually opened?
 
-Do not run so far after the bait that you cannot counter. The bait only matters if the zerg stays close enough to punish.
+??? question "Compare your call"
 
-## Role notes
+    Only the location of that defensive is known. Preserve the reserve until the caller identifies a reachable target and a way out for the first group. If the first group has to spend its escape just to keep the bait credible, call the recovery early.
 
-**Tanks:** identify whether you are creating the threat, stopping the enemy response, or protecting the route.
+## Test the decision in a recording
 
-**Healers:** position for the danger area created by the call, not only the safest backline.
+Find the first observable enemy commitment. Could the second group reach a useful target at that frame?
 
-**Supports:** layer defensives on the real counter-threat.
-
-**DPS:** be close enough and prepared early enough to hit when the window appears.
-
-## Common failure
-
-Players hear the words but miss the intent. They move in the named direction while ignoring terrain, enemy cooldowns, or role responsibility.
-
-## Practice drill
-
-During VOD review, name the calling style after the fight moment, then ask each role what it should have done five seconds before the call.
+[Explore the underlying decision](../fight-execution/spent-cooldowns.md).

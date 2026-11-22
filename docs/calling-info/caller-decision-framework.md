@@ -71,6 +71,10 @@ Review caller macro separately from player execution:
 - Did players fail the call, or did the call ask for something impossible?
 - What should the next call have been?
 
+## Decide what cannot wait
+
+First check the next threat, the reachable route and the allies who can cover it. If one of those is unknown, make a reversible call and request the missing report. Review roster fit and long-term plans between contacts.
+
 ## Related pages
 
 - [Caller / Officers](../roles/caller-officers.md)

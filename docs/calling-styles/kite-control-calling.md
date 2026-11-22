@@ -1,27 +1,17 @@
 # Kite / Control Calling
 
-## Core idea
+A moving group can delay pursuit, recover room and threaten a turn. A useful turn depends on the route and on who can still contribute.
 
-Use movement, terrain, and soft control to make enemy divers spend mobility, then punish the exposed front.
+## Read the situation
 
-## What line members should understand
+A pursuer spends mobility to reach your tail. The rest of its group disappears beside a wall. Should the front stop to help?
 
-Kite is not permission to abandon the group. Kite as a unit, stay close enough to turn, and protect the last players through danger.
+??? question "Compare your call"
 
-## Role notes
+    Cover the tail from a position with a return route. Report the missing group. If the pursuer is isolated and cover is connected, call a short turn. If the unseen group appears on your exit, the same stop could trap the entire formation.
 
-**Tanks:** identify whether you are creating the threat, stopping the enemy response, or protecting the route.
+## Test the decision in a recording
 
-**Healers:** position for the danger area created by the call, not only the safest backline.
+Pause when the front changes direction. Which player still needed time to cross?
 
-**Supports:** layer defensives on the real counter-threat.
-
-**DPS:** be close enough and prepared early enough to hit when the window appears.
-
-## Common failure
-
-Players hear the words but miss the intent. They move in the named direction while ignoring terrain, enemy cooldowns, or role responsibility.
-
-## Practice drill
-
-During VOD review, name the calling style after the fight moment, then ask each role what it should have done five seconds before the call.
+[Explore the underlying decision](../practical-examples/kite-as-unit.md).

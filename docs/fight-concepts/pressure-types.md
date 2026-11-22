@@ -44,6 +44,10 @@ Pick a 15-second period between major engages and ask:
 - Who was safe but inactive?
 - Did pressure help create the next kill window?
 
+## Measure the effect
+
+Classify your action by the response it caused, such as delaying entry, forcing recovery or reducing healing if the selected ability applies that effect. A Q, W or E can fill different jobs depending on the kit.
+
 ## Related pages
 
 - [Q/W Pressure Floor](qw-pressure.md)

@@ -1,7 +1,7 @@
 # Melee DoT / Pressure Brawl Comps
 
 
-Melee DoT / pressure brawl comps win through sustained pressure, healer strain, anti-heal, and living close enough to keep value.
+Melee DoT / pressure brawl comps seek sustained value from reachable positions. Delaying the enemy front can matter even without a kill. Healing reduction depends on the selected ability.
 
 ## What this style wants
 
@@ -11,7 +11,7 @@ It wants to stay engaged long enough that enemy healing and defensive rotation c
 
 - creates constant healer pressure
 - can make enemies panic or spread badly
-- rewards durable frontline and anti-heal
+- rewards a frontline that can remain useful within support reach
 
 ## Weaknesses
 

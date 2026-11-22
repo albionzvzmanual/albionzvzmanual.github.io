@@ -17,7 +17,7 @@ Each example should teach a decision, not just describe a mistake.
 |---|---|
 | [Direction Calls](direction-calls.md) | calls are tactical intent |
 | [Counter Window](counter-window.md) | stop running once enemy cooldowns are spent |
-| [DPS Timing](dps-timing-example.md) | damage must land on time |
+| [DPS Timing](dps-timing-example.md) | can the assigned hit reach the target during its window? |
 | [Healer Danger Area](healer-danger-area.md) | heal the real danger area |
 | [Plate Frontline](plate-frontline.md) | healthy plate creates space |
 | [Support Utility](support-utility.md) | utility before or with damage |

@@ -73,5 +73,5 @@ Late utility often looks active but fails to change the fight.
 
 - [Supports](../roles/supports.md)
 - [Support DPS](../roles/support-dps.md)
-- [Support Utility Before Damage](../practical-examples/support-utility.md)
+- [Match Support Utility to Its Window](../practical-examples/support-utility.md)
 - [Defensive Layering](../fight-concepts/defensive-layering.md)

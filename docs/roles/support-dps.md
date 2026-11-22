@@ -78,8 +78,12 @@ For every engage, answer:
 4. If E was late, was there a better on-time button?
 5. Did my utility pair with clump, pierce, heal cut, and DPS timing?
 
+## Pick the response you need to change
+
+Inspect what stops your assigned hit from converting. A damage window needs effects that overlap it, while a heal arriving afterward may call for a separate response. Save utility if your assigned target has no reachable follow-through or another player already covers that job.
+
 ## Related pages
 
 - [DPS Overview](dps-overview.md)
-- [Support Utility Before Damage](../practical-examples/support-utility.md)
-- [Damage Must Land at Zero](../fight-execution/damage-lands-at-zero.md)
+- [Match Support Utility to Its Window](../practical-examples/support-utility.md)
+- [Time Damage to the Assigned Impact](../fight-execution/damage-lands-at-zero.md)

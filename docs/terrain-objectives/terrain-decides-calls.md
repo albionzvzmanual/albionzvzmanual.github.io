@@ -50,6 +50,10 @@ For each major fight, draw three lines:
 
 If those lines conflict, the call or positioning needs review.
 
+## When the exit closes
+
+Your lead reaches a gate as a scout reports enemies taking the far exit. Hold if the near bank still gives cover and the objective allows time. Rotate only if the alternate route can carry the tail. Withdraw through the covered approach while it still works if neither option is available.
+
 ## Related pages
 
 - [Movement and Positioning](../fight-concepts/movement-positioning.md)

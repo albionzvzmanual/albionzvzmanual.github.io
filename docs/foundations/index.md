@@ -26,6 +26,10 @@ Do not ask only, "what weapon is good?" Ask:
 
 That question keeps the manual comp-neutral and helps players adapt when patches, metas, or rosters change.
 
+## Try a short route
+
+Read [fight flow](fight-flow.md) for the next decision, [timing](timing-tempo.md) for the shared opportunity and [spacing](spacing-aoe-escalation.md) for where you can act. Pause one recording at contact. Point to one reachable ally, one threat and one move that preserves both your assignment and your exit.
+
 ## Related Library references
 
 - [Mechanics](../mechanics/index.md) for underlying game rules.

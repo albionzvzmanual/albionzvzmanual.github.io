@@ -61,6 +61,10 @@ Radiant Wilds Patch 3 introduced shared party navigation. It can help players fi
 
 Patch 4 added Ctrl + right-click navigation from the World Map and a safer-route navigation option. These are navigation aids, not a guarantee that the chosen route is tactically safe; keep the scout and crossing checks above. [Final live changelog, 21 July 2026](https://albiononline.com/changelog/radiant-wilds-patch-4).
 
+## Check whether the route still works
+
+Before acting on a direction, check which front can still hit you, whether teammates can cover the move and where you can recover. Report an unusable path while the caller can still redirect the group.
+
 ## Related pages
 
 - [How to Read Calls](../start-here/how-to-read-calls.md)

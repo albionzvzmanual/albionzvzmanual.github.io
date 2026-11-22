@@ -10,11 +10,13 @@ These roles are not backline DPS with shorter range. If a melee role refuses to 
 
 Melee DPS can pressure frontlines, execute low targets, punish stuck players, and create danger after enemy cooldowns are spent. Their value is not only glory kills. Melee pressure can strain healers, force movement, drain mana, make enemies spend recovery tools early, and punish players who stay too long.
 
-## Role courage and role fit
+<a id="role-courage-and-role-fit"></a>
+
+## Diagnose a missed entry
 
 Melee roles require controlled commitment. That does not mean diving blindly. It means entering when the window is correct and accepting that the role cannot be played from one screen behind.
 
-If a player repeatedly circles behind the backline, refuses to enter after enemy cooldowns are spent, or plays melee like ranged DPS, the issue may be role fit. It is better to change role temporarily than to occupy a melee slot without doing melee work.
+When a player repeatedly cannot enter, review the earliest usable path. Check which enemy threats were still ready, whether support could reach the approach and whether the player had an exit. If those conditions were available and the player repeatedly missed them, practise the entry cue before reconsidering the role.
 
 ## First engage vs counter-engage
 

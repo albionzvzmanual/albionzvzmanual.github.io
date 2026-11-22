@@ -17,7 +17,7 @@ Tank and CC tools shape where the fight can happen.
 ### Engage Lock tools
 
 **Role family:** engage tank / clump lock  
-**General value:** The lock or clump must exist before allied damage needs to land. If enemies are controlled only after DPS casts, the engage is late.
+**General value:** The lock or clump must exist before allied damage needs to land. A cast can begin before the lock if both effects overlap on arrival. Decide whether the tool needs to prevent movement, interrupt an action or protect a route. Check the selected effect and current immunity behavior before relying on it.
 
 Common mistakes:
 

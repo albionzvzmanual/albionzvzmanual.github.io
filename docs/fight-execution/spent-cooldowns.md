@@ -38,9 +38,13 @@ Before walking forward, ask:
 5. Is another enemy front still lethal?
 6. Is terrain trapping us if we back up?
 
+## Separate the cast you saw from the threat you inferred
+
+If the left group spent its engage but the right group vanished behind terrain, report exactly that. Take a position that can affect the left group and still return to cover. An absent animation from the right group gives you no reliable cooldown timer. Let its reappearance, a scout report or renewed support change the call.
+
 ## Common failure pattern
 
-The enemy bombs and fails. Friendly players survive, then spend five seconds walking away while the enemy resets.
+The enemy bombs and fails. Friendly players survive, then keep walking away while the enemy resets.
 
 Better pattern:
 

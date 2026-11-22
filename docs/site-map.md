@@ -28,6 +28,4 @@
 This manual is general ZvZ education. It does not publish private VOD notes, named-player critique, current-meta claims without verification, or one-comp advocacy.
 
 
-## Version note
-
-Manual version: v3.4.2. See [Current Scope](sources-credit/current-scope.md) for the review boundary.
+See the [manual scope](sources-credit/current-scope.md) for the current review boundary.

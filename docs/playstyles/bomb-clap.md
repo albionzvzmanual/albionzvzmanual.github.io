@@ -13,7 +13,7 @@ Bomb/clap style tries to kill or heavily punish enemies inside a short window.
 
 ## Common response
 
-If you survive the bomb and enemy cooldowns are spent, look for a counter window.
+After the first hit, identify which group spent its tools. Check for a second damage wave and confirm that your recovery route still works. A reachable counter is one option. Hold a protected angle if the reserve remains unseen.
 
 ## Not a full comp guide
 

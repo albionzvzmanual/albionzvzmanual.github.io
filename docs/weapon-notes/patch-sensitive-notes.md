@@ -4,15 +4,13 @@ The manual should not be afraid to use weapon and item examples. Examples help p
 
 Current-value checks matter when the guide makes claims about exact values, current behavior, or current strength.
 
-## Review coverage on 25 October 2026
+## Release check on 22 November 2026
 
-The modernization review checked publisher release notes through 25 October, with Dragonfire Patch 3 (12 October) the latest live Dragonfire patch confirmed in the reviewed chronology. Test-server or pre-patch proposals are not treated as live behavior.
+The official update index listed Dragonfire Patch 4 (2 November) as the most recent main live changelog at this check. The publisher announced Season 35 for 21 November and scheduled specified format changes for Patch 5. Treat a scheduled change as pending until its final live release can be checked. [Official update index](https://albiononline.com/update) · [Season 35 announcement](https://albiononline.com/news/season-35-starts).
 
-The review begins with the manual's last recorded update, 8 June 2026, and covers Radiant Wilds Patches 3 and 4, intervening hotfix discovery, the Dragonfire release and Patches 1–3, plus Realm Divided Part II as an earlier coverage gap. Some hotfix originals remain inaccessible; those are not used to establish new public mechanics claims. It does not certify every historical weapon example or every in-game interaction. No unverified replacement values have been added to the teaching pages.
+The earlier review covers the June manual baseline, Radiant Wilds Patches 3 and 4, the Dragonfire launch and Patches 1 through 4. Four historical hotfix originals still require confirmation. Realm Divided Part II has a separate earlier review. Check individual claim dates and affected abilities when applying these findings.
 
-For example, Patch 3 changed Great Fire's Flame Pillar **stand time**. Stand time concerns action recovery and must not be substituted for cast time or damage-arrival time in a countdown calculation. A balance change is not evidence that an example weapon is a recommended composition.
-
-The review includes the final live 21 July Radiant Wilds Patch 4 release, version 31.040.1, checked directly. The release list is a documented review boundary, not a guarantee of exhaustive interval coverage. [Final live changelog, 21 July 2026](https://albiononline.com/changelog/radiant-wilds-patch-4).
+For example, the Patch 3 change to Great Fire’s Flame Pillar concerns stand time, which affects action recovery. A countdown calculation needs the delay until damage arrives. Substituting stand time would give the player the wrong signal to begin casting.
 
 ### Source hierarchy
 

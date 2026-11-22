@@ -6,12 +6,7 @@ Your job is to heal the real danger area, not only the safest party frame.
 
 ## Reading order
 
-1. [Healer responsibilities and kit assignment](../roles/healers.md), then [Holy Healers](../roles/holy-healers.md)
-2. [Nature Healers](../roles/nature-healers.md)
-3. [Defensive Layering](../fight-concepts/defensive-layering.md)
-4. [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
-5. [Healing Weapon Notes](../weapon-notes/healing-weapons.md)
-
-## Practical next action
-
-After reading, pick one habit to test in the next CTA or VOD review. Do not try to fix everything at once.
+1. Read [healer responsibilities](../roles/healers.md) and identify the threatened group you are assigned to cover.
+2. Choose the profile that fits your selected tools. Compare [immediate and targeted recovery](../roles/holy-healers.md) or [sustained and route coverage](../roles/nature-healers.md).
+3. Try the [danger-area example](../practical-examples/healer-danger-area.md). Mark one endangered ally you could reach and one safe spot to cast from.
+4. Check your chosen ability’s reach and behavior in the live client. See [dated healing tool notes](../weapon-notes/healing-weapons.md).

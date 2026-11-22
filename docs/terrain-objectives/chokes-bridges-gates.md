@@ -44,26 +44,35 @@ Sometimes walking into or through a spent enemy is safer than backing into a cho
 - enemy path blocked or awkward
 - your back path worse than forward path
 
-## Worked example: secure the far side before chasing
+## Field exercise — the bridge crossing
 
-The first wave crosses a bridge while the tail is still exposed. An enemy group retreats straight ahead; another entrance remains unscouted to the right.
 
-```text
-                         Enemy retreat
-                               ^
-                         first wave
-                     spread and cover
-                               |
-Friendly tail ---> [ bridge ] --+-- unscouted side path
-```
+Your first wave has crossed. Enemies are retreating ahead, an approach on the right is unscouted, and your tail is still on the bridge.
 
-Schematic only; it does not represent a specific map or ability range.
+![Tactical schematic: friendly tail below a bridge, friendly first wave above it, enemy retreat beyond, unknown approach from the right.](../assets/diagrams/bridge-review.svg)
 
-The caller first assigns a tank to watch the side path and keeps healing connected to the crossing. Players already across spread away from the exit and pressure reachable threats. Chasing immediately could expose the tail to the unscouted path and remove its recovery.
+**Legend:** F = friendly group; E = observed enemy movement; ? = information missing. Solid lines show the crossing; dashed lines indicate an unscouted approach. Positions are illustrative, not a map, range or timing measurement.
 
-Once the tail has crossed and that side path is checked, the caller can choose to advance or hold. If the side threat arrives before then, cover the crossing or abandon it before feeding another wave.
+**Complete text equivalent:** Read from bottom to top. The friendly tail remains on the near bank and bridge. The friendly first wave is on the far bank. Enemies ahead are moving away from it. A side route joins the far bank from the right; no scout has confirmed what is there. Advancing the first wave would increase separation from the tail while leaving that route unchecked.
 
-In review, mark the moment the first wave stopped helping the tail. Compare it with the moment the tail became safe, not merely the first player's successful crossing.
+## Choose before reading the explanation
+
+??? question "Chase the retreating enemies"
+
+    This may exploit a real opportunity, but the retreat alone does not establish safety. The first wave could lose support or meet another threat from the side. Identify the observation that would justify that risk before committing.
+
+??? question "Cover the crossing and check the side route"
+
+    With the stated information, this preserves recovery while improving the next decision. Keep reachable pressure, cover the remaining crossing and ask for a side-route report. Do not turn a temporary hold into indefinite waiting if an objective deadline changes the cost.
+
+??? question "Abandon the crossing"
+
+    A new enemy wave or lost recovery route could justify withdrawal. The current uncertainty alone does not prove retreat is best. Check whether returning would compress your own groups on the bridge.
+
+## Change one fact
+
+The side route is confirmed clear and the tail has crossed. What now makes advancing more plausible? If a fresh threat arrives instead, what position preserves recovery?
+
 
 ## Training prompt
 

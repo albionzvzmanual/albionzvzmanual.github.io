@@ -15,4 +15,4 @@ Your job is to stay in range, hit on time, keep pressure active, and avoid becom
 
 ## Practical next action
 
-After reading, pick one habit to test in the next CTA or VOD review. Do not try to fix everything at once.
+In one exchange, identify a firing position that could still reach support after your cast. Name one cast worth holding until a safer target or a better window appears.

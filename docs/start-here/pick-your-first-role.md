@@ -30,7 +30,7 @@ A new player does not need to understand all of these immediately. Start with th
 
 ## Healer is not only one weapon style
 
-Holy and Nature both matter. Holy often stabilizes sharp damage; Nature contributes sustained coverage, zone value, and recovery. Do not learn healer as only "spam direct heals from safety."
+Choose healing responsibilities from the selected abilities: immediate recovery, sustained coverage, targeted saves, and support along the movement route. Holy and Nature can provide overlapping functions; a composition does not automatically require both trees. Practise reaching the threatened players while keeping a usable exit.
 
 ## Support means support
 
@@ -46,9 +46,19 @@ Switching every CTA slows learning. Even changing from one DPS style to another 
 
 A good Formation Ledger or signup tool should respect role preference and backup roles, but should not randomly force players into roles they cannot learn properly.
 
-## Related pages
+## Take your assignment into the field
+     
+| If you are assigned to… | Read next | Check one action on your first recording |
+| --- | --- | --- |
+| Deal damage | [DPS guide](../roles/dps-overview.md) | Did you see and reach the intended target when your effect arrived? |
+| Heal | [Healer guide](../roles/healers.md) | When the group turned, could you reach the players carrying the immediate risk? |
+| Provide utility | [Support guide](../roles/supports.md) | Which ally or lane benefited when you spent your main tool? |
+| Set up an engage | [Engage tanks](../roles/engage-tanks.md) | Could allies follow the opportunity you created? |
+| Protect a lane | [Stopper tanks](../roles/stopper-tanks.md) | Which enemy action did your position delay? |
+| Gather information | [Scouting](../roles/scouts-info.md) | Did the caller get a location and direction while there was still time to act? |
 
-- [Role Guides](../roles/index.md)
-- [DPS Overview](../roles/dps-overview.md)
-- [Healer Learning Path](../learning-paths/healer.md)
-- [Tank / Support Learning Path](../learning-paths/tank-support.md)
+If your assignment combines jobs, ask which one takes priority on the first contact. After one fight, use the [role review questions](../training/role-review-questions.md) to choose what to practise again.
+
+## Agree on an assignment you can practise
+
+Ask what the group needs and who can coach it. Choose one job you want to learn and check whether your selected abilities provide the needed reach, timing and recovery. If two jobs fit, practise one consistently before adding a backup.

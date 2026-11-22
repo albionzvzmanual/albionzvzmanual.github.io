@@ -32,8 +32,12 @@ If a large E will be late, a smaller on-time utility button may create more valu
 - Did it weaken healing, armor, movement, or defenses?
 - Did the player chase damage meters instead of utility timing?
 
+## Choose a trigger
+
+Name the enemy response your assigned effect addresses. Hold it when the visible targets have no follow-through or a second wave is your actual assignment. Check effect eligibility on the selected ability before planning the sequence.
+
 ## Related pages
 
 - [Support DPS](../roles/support-dps.md)
-- [Support Utility Before Damage](../practical-examples/support-utility.md)
+- [Match Support Utility to Its Window](../practical-examples/support-utility.md)
 - [DPS Timing](../fight-concepts/dps-timing.md)

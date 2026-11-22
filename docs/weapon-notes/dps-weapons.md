@@ -71,7 +71,7 @@ Common mistakes:
 ### Siege Bow
 
 **Role family:** ranged damage / escalation pressure  
-**General value:** Siege Bow is a useful teaching example for large-area pressure, quick impact, escalation, and terrain abuse.
+**General value:** Use Siege Bow examples to discuss how a reachable area can change movement. Confirm current impact timing and escalation eligibility for the selected effect before drawing numerical or interaction conclusions.
 
 How it creates value:
 
@@ -100,20 +100,6 @@ Common mistakes:
 - forcing a late E when W or another on-time utility would have mattered more
 - casting pierce into the wrong clump
 - chasing damage instead of enabling kills
-
-## Under-extracted weapon families
-
-These families should receive clearer examples later:
-
-- axes
-- swords
-- curses
-- crossbows
-- daggers/execution tools
-- additional ranged burst weapons
-- additional melee clap weapons
-
-Do not fill these with guesswork. Leave unsupported or unclear examples out until they can be reviewed properly.
 
 ## Related pages
 

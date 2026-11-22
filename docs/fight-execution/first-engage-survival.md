@@ -37,6 +37,10 @@ You may not fully soak the enemy's perfect hit. The realistic goal is often to *
 | Tanks | stop or slow the enemy path before damage lands |
 | Caller/officers | identify whether the first hit must be soaked, dodged, baited, or punished |
 
+## Two threats on the same crossing
+
+A small enemy group hits the lead players while another group waits at the bend. Cover the people actually taking damage. Keep someone watching the bend and tell the second defensive player which threat they still own. If the first wave loses its healer, shift the recovery point toward the near side before asking survivors to advance. On replay, mark the first frame where the reserve could see its assigned threat.
+
 ## Training prompt
 
 Review the first major enemy engage of a fight. Mark:

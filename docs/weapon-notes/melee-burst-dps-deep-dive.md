@@ -31,6 +31,8 @@ Melee burst often needs side angles or counter-engage windows. Walking straight 
 - Did the player leave after casting?
 - Did the play force defensives or kills?
 
+Overlapping attacks can expose the same group to multiple hits. [AoE escalation](../mechanics/aoe-escalation.md) applies to qualifying effects. Confirm eligibility before drawing conclusions from a clip.
+
 ## Related pages
 
 - [Melee Pressure / Execute DPS](../roles/melee-pressure-dps.md)

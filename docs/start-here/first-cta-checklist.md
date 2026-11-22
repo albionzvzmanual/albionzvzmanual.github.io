@@ -36,3 +36,7 @@ Ask one question first:
 > Where should I have been five seconds before the mistake?
 
 Then pick one habit to practice next CTA. Do not try to fix everything at once.
+
+## Prepare, confirm, report
+
+Before meeting up, confirm your assignment and selected tools. At the rally point, check that you can hear calls and reach the ally or area you are covering. If terrain blocks that action, report the gap with your location before the group acts.

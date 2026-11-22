@@ -23,4 +23,8 @@ Your job is to:
 - use defensives before you die
 - review mistakes without blaming only the enemy
 
-After this section, continue to [Foundations](../foundations/).
+Choose the [role you will practise](pick-your-first-role.md). When you can name the allies who depend on that job, continue to [Foundations](../foundations/index.md).
+
+## After your first fight
+
+Before joining, use the [beginner path](../learning-paths/new-line-member.md) and [CTA checklist](first-cta-checklist.md). Afterward, replay one movement call. Name the action your role owned, the ally it needed to reach and one thing you could change on the next attempt.

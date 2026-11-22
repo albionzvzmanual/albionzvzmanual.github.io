@@ -1,6 +1,6 @@
 # Counter-Engage Windows
 
-A counter-engage window appears when the enemy has spent cooldowns and your zerg is still alive.
+A counter-engage window can open when an identifiable enemy group spends tools and your group can reach it with cover.
 
 Many players lose this window because they keep running after the danger has passed.
 
@@ -23,7 +23,7 @@ Ask:
 - Are you personally safe or still in danger?
 - Is the caller setting a counter direction?
 
-If yes, some players should already be preparing pressure or counter damage.
+Confirm a usable return route and who is watching reserves. If the target or another front is uncertain, hold a reachable angle and request a report.
 
 ## Role response
 

@@ -1,27 +1,17 @@
 # Sword Engage / Direct Commit
 
-## Core idea
+This historical label describes a direct commitment that closes distance quickly. A caller can use the idea with different kits.
 
-Hard commit into a timing window where the enemy is vulnerable and the zerg can follow together.
+## Read the situation
 
-## What line members should understand
+A target group is visible beyond a corner. The lead can reach it, but allied damage would arrive in two separated waves.
 
-A direct commit fails when only the front few players move and the rest of the zerg hesitates.
+??? question "Compare your call"
 
-## Role notes
+    Identify the landing area and ask which wave can actually affect it. Holding the near angle can preserve a later synchronized hit. When an objective deadline justifies a faster commitment, assign cover for the return before spending movement.
 
-**Tanks:** identify whether you are creating the threat, stopping the enemy response, or protecting the route.
+## Test the decision in a recording
 
-**Healers:** position for the danger area created by the call, not only the safest backline.
+Compare the lead player’s arrival with the first usable follow-through. Could the lead exit after the hit?
 
-**Supports:** layer defensives on the real counter-threat.
-
-**DPS:** be close enough and prepared early enough to hit when the window appears.
-
-## Common failure
-
-Players hear the words but miss the intent. They move in the named direction while ignoring terrain, enemy cooldowns, or role responsibility.
-
-## Practice drill
-
-During VOD review, name the calling style after the fight moment, then ask each role what it should have done five seconds before the call.
+[Explore the underlying decision](../roles/engage-tanks.md).

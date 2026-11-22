@@ -35,6 +35,10 @@ This does not always mean the closest side. It means the side where enemy DPS, t
 - Did the play protect friendly damage/healing space?
 - Did the stopper stay close enough to be supported?
 
+## Delay entry or cover recovery
+
+Before the enemy reaches the corner, a stop can buy room for the tail to move. After the first attackers pass, the same assignment may require protecting the route back to healing. Compare which action the chosen tool can interrupt and where you will be afterward.
+
 ## Related pages
 
 - [Stopper Tanks](../roles/stopper-tanks.md)

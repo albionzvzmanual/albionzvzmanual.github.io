@@ -45,6 +45,6 @@ These pages are **fight-literacy pages**, not finished comp sheets. They teach h
 
 ## Use style labels as behavior hints
 
-Style labels are useful only if they change decisions. If an enemy is trying to bomb, spread and deny the setup. If an enemy is trying to brawl, protect the backline and kite the pressure. If an enemy is trying to control space, watch terrain, angles, and counter windows.
+Style labels are useful only if they change decisions. Ask what the opponent needs for the next action. Can their damage reach your crossing? Does their front have a supported route into the group? Can you hold the approach long enough to finish your objective? Compare a short turn, a hold and a reset using those observations.
 
 The label is not the lesson. The response is the lesson.

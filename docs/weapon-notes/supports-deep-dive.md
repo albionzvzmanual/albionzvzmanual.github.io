@@ -41,9 +41,13 @@ When a support must choose where to place defensive value, the tank/frontline la
 - Did they help tanks/frontline when needed?
 - Did they stay close enough to help without getting caught?
 
+## When the threat changes lanes
+
+If a flank threatens the healers while the main front holds, check whether your assigned protection can reach the flank. Tell the front who owns its cover before moving. If you cannot cover both sides, report the gap while the caller can still change the route.
+
 ## Related pages
 
 - [Supports](../roles/supports.md)
 - [Defensive Layering](../fight-concepts/defensive-layering.md)
 - [Support Weapon Notes](support-weapons.md)
-- [Support Utility Before Damage](../practical-examples/support-utility.md)
+- [Match Support Utility to Its Window](../practical-examples/support-utility.md)

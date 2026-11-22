@@ -48,6 +48,10 @@ Red name tags are information. They are not automatic danger.
 
 If the enemy just spent cooldowns, is being chased by another front, or is low and trying to escape, walking toward them can be safer and more valuable than backing into a friendly clump.
 
+## Extracting with two threatened groups
+
+The front has turned back while the tail is still under pressure. Two allies moving directly toward the same healer can rebuild the clump the spread call was meant to dissolve. Move along separate reachable lines. The healer checks which line will be exposed next and calls when the other needs cover. If terrain splits the lines completely, agree on one recovery point before the gap grows.
+
 ## Role responsibilities
 
 | Role | Spread question |

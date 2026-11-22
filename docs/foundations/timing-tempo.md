@@ -21,7 +21,7 @@ The 15-second loop above is an illustrative example, not a verified cooldown for
 ## Good tempo looks like
 
 - clump or target is visible before zero
-- damage lands at zero, not starts at zero
+- for a synchronized hit, confirm the intended impact cue and work backward from arrival
 - pierce, damage, and disruption hit the same space
 - supports expect the counter-engage immediately after friendly damage
 - DPS continue Q/W pressure instead of automatically retreating
@@ -57,9 +57,13 @@ On every engage in a VOD, mark:
 
 For delayed damage assigned to a synchronized hit, starting the cast at zero usually misses the intended impact. Judge instant effects, pressure, and independent picks against their own assignments.
 
+## Check readiness before the count
+
+Confirm that the target is reachable, each assigned effect can arrive, and someone can cover the return. A shield held for the enemy response follows a different cue from the allied hit. If a scout reports another front, name who still owns the shield before restarting the count. Use the [recording exercise](../fight-execution/damage-lands-at-zero.md) to calculate impact timing.
+
 ## Related pages
 
-- [Damage Must Land at Zero](../fight-execution/damage-lands-at-zero.md)
+- [Time Damage to the Assigned Impact](../fight-execution/damage-lands-at-zero.md)
 - [Q/W and Post-Bomb Pressure](../fight-execution/qw-post-bomb-pressure.md)
 - [DPS Timing](../fight-concepts/dps-timing.md)
 

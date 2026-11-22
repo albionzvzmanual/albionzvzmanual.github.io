@@ -46,6 +46,10 @@ Pause after the kite and before the counter. Ask:
 
 > Is the zerg still close enough to turn as a unit?
 
+## Hand off the tail
+
+Before the rear cover leaves, have the next player confirm they can see and reach the pursuit lane. If they cannot, shorten the move or agree on a recovery position that both can reach.
+
 ## Related pages
 
 - [Counter-Engage Windows](../fight-concepts/counter-engage-windows.md)

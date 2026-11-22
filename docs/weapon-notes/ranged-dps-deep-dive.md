@@ -48,6 +48,10 @@ Useful lessons:
 - Did they stay close enough to help the counter?
 - Did they keep safe spacing while still contributing?
 
+## Check cast and recovery separately
+
+Measure when your selected ability takes effect and when you can move again. A safe cast start can leave you exposed during recovery. Use a recording and live ability behavior rather than transferring timings from another weapon.
+
 ## Related pages
 
 - [Ranged DPS](../roles/ranged-dps.md)

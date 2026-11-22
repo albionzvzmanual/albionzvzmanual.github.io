@@ -5,108 +5,181 @@ site_url: https://albionzvzmanual.github.io/
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.indexes
-    - navigation.top
-    - navigation.prune
-    - toc.follow
-    - search.suggest
-    - search.highlight
+  - navigation.indexes
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - toc.follow
   palette:
-    - scheme: default
-      primary: blue grey
-      accent: deep orange
+  - scheme: default
+    primary: blue grey
+    accent: deep orange
+  font: false
 extra_css:
-  - assets/stylesheets/extra.css
+- assets/stylesheets/extra.css
+- assets/stylesheets/design-slice.css
 markdown_extensions:
-  - admonition
-  - tables
-  - toc:
-      permalink: true
-  - pymdownx.superfences
-  - pymdownx.details
-  - attr_list
+- admonition
+- tables
+- toc:
+    permalink: true
+- pymdownx.superfences
+- pymdownx.details
+- attr_list
 nav:
-  - Home: index.md
-  - Start Here:
-      - Overview: start-here/index.md
-      - New to ZvZ: start-here/new-to-zvz.md
-      - Ten Rules Before CTA: start-here/ten-rules-before-cta.md
-      - Pick Your First Role: start-here/pick-your-first-role.md
-      - How to Read Calls: start-here/how-to-read-calls.md
-      - First CTA Checklist: start-here/first-cta-checklist.md
+- Home: index.md
+- Learn step by step:
+  - Choose a path:
+    - Learning Paths: learning-paths/index.md
+    - 'Learning Path: New Line Member': learning-paths/new-line-member.md
+    - 'Learning Path: Healer': learning-paths/healer.md
+    - 'Learning Path: Officer / Role Lead': learning-paths/officer-role-lead.md
+    - 'Learning Path: Ranged DPS': learning-paths/ranged-dps.md
+    - 'Learning Path: Tank / Support': learning-paths/tank-support.md
+  - First group activity:
+    - Start Here: start-here/index.md
+    - New to ZvZ: start-here/new-to-zvz.md
+    - First CTA Checklist: start-here/first-cta-checklist.md
+    - How to Read Calls: start-here/how-to-read-calls.md
+    - Pick Your First Role: start-here/pick-your-first-role.md
+    - Ten Rules Before CTA: start-here/ten-rules-before-cta.md
   - Foundations:
-      - Overview: foundations/index.md
-      - Fight Style Spectrum: foundations/fight-style-spectrum.md
-      - Fight Flow: foundations/fight-flow.md
-      - Timing and Tempo: foundations/timing-tempo.md
-      - Pressure: foundations/pressure.md
-      - Spacing and AoE Escalation: foundations/spacing-aoe-escalation.md
-  - Fight Execution:
-      - Overview: fight-execution/index.md
-      - Damage Lands at Zero: fight-execution/damage-lands-at-zero.md
-      - Spread Does Not Mean Leave: fight-execution/spread-does-not-mean-leave.md
-      - Q/W and Post-Bomb Pressure: fight-execution/qw-post-bomb-pressure.md
-      - Enemy Cooldowns Are Spent: fight-execution/spent-cooldowns.md
-      - First-Engage Survival: fight-execution/first-engage-survival.md
-  - Role Guides:
-      - Overview: roles/index.md
-      - All Players: roles/all-players.md
-      - DPS Overview: roles/dps-overview.md
-      - Ranged DPS: roles/ranged-dps.md
-      - Melee Pressure / Execute DPS: roles/melee-pressure-dps.md
-      - Support DPS: roles/support-dps.md
-      - Healers: roles/healers.md
-      - Holy Healers: roles/holy-healers.md
-      - Nature Healers: roles/nature-healers.md
-      - Supports: roles/supports.md
-      - Engage / Clump Tanks: roles/engage-tanks.md
-      - Defensive / Stopper Tanks: roles/stopper-tanks.md
-      - Caller / Officers: roles/caller-officers.md
-      - Scouts / Info: roles/scouts-info.md
-  - Calling & Information:
-      - Overview: calling-info/index.md
-      - Direction Calls Are Tactical Intent: calling-info/tactical-intent.md
-      - Threat + Location + Action: calling-info/callout-format.md
-      - Information Discipline: calling-info/information-discipline.md
-      - Caller Decision Framework: calling-info/caller-decision-framework.md
-      - Line Members Still Read: calling-info/line-member-reading.md
-  - Terrain & Objectives:
-      - Overview: terrain-objectives/index.md
-      - Terrain Decides Calls: terrain-objectives/terrain-decides-calls.md
-      - Chokes, Bridges, Gates: terrain-objectives/chokes-bridges-gates.md
-      - Angle Control and Line Weight: terrain-objectives/angle-control-line-weight.md
-      - Castles, Territories, Objectives: terrain-objectives/castles-territories-objectives.md
-      - One-Angle Simplification: terrain-objectives/one-angle-simplification.md
-  - Training:
-      - Overview: training/index.md
-      - VOD Review Method: training/vod-review-method.md
-      - Review Before Death: training/review-before-death.md
-      - Outcome-Independent Review: training/outcome-independent-review.md
-      - Role Review Questions: training/role-review-questions.md
-      - Training a New Roster: training/training-new-roster.md
-      - Micro Drills: training/micro-drills.md
-      - Player Development Ladder: training/player-development-ladder.md
-      - Concept to Drill Map: training/concept-to-drill-map.md
-  - Library:
-      - Overview: library/index.md
-      - Fight Concepts: fight-concepts/index.md
-      - Mechanics: mechanics/index.md
-      - Playstyles: playstyles/index.md
-      - Weapon and Ability Notes: weapon-notes/index.md
-      - Role and Tool Library: weapon-notes/role-tool-library.md
-      - Calling Styles: calling-styles/index.md
-      - Practical Examples: practical-examples/index.md
-      - Learning Paths: learning-paths/index.md
+    - Foundations: foundations/index.md
+    - Fight Flow: foundations/fight-flow.md
+    - Timing and Tempo: foundations/timing-tempo.md
+    - Spacing and AoE Escalation: foundations/spacing-aoe-escalation.md
+    - Pressure: foundations/pressure.md
+    - Fight Style Spectrum: foundations/fight-style-spectrum.md
+  - Fight execution:
+    - Fight Execution: fight-execution/index.md
+    - First-Engage Survival: fight-execution/first-engage-survival.md
+    - Time Damage to the Assigned Impact: fight-execution/damage-lands-at-zero.md
+    - Q/W and Post-Bomb Pressure: fight-execution/qw-post-bomb-pressure.md
+    - 'Enemy Cooldowns Are Spent: What Now?': fight-execution/spent-cooldowns.md
+    - Spread Does Not Mean Leave the Fight: fight-execution/spread-does-not-mean-leave.md
+- Find your role:
+  - Role Guides: roles/index.md
+  - All Players — Interpret the Call: roles/all-players.md
+  - DPS Overview: roles/dps-overview.md
+  - 'Healer Guide: Triage, Reach and Recovery': roles/healers.md
+  - Supports: roles/supports.md
+  - Engage / Clump Tanks: roles/engage-tanks.md
+  - Defensive / Stopper Tanks: roles/stopper-tanks.md
+  - Caller / Officers: roles/caller-officers.md
+  - Holy Healers: roles/holy-healers.md
+  - Melee Pressure / Execute DPS: roles/melee-pressure-dps.md
+  - Nature Healers: roles/nature-healers.md
+  - Ranged DPS: roles/ranged-dps.md
+  - Scouts / HVT Watch / Information Roles: roles/scouts-info.md
+  - Support DPS: roles/support-dps.md
+- Call and navigate:
+  - Calling and scouting:
+    - Calling, Communication, and Information: calling-info/index.md
+    - Caller Decision Framework: calling-info/caller-decision-framework.md
+    - Threat + Location + Action Callouts: calling-info/callout-format.md
+    - Information Discipline: calling-info/information-discipline.md
+    - Line Members Must Still Read the Fight: calling-info/line-member-reading.md
+    - Direction Calls Are Tactical Intent: calling-info/tactical-intent.md
+  - Terrain and objectives:
+    - Terrain and Objectives: terrain-objectives/index.md
+    - Angle Control and Line Weight: terrain-objectives/angle-control-line-weight.md
+    - Castles, Territories, and Objective Geometry: terrain-objectives/castles-territories-objectives.md
+    - Chokes, Bridges, Gates, and Doors: terrain-objectives/chokes-bridges-gates.md
+    - One-Angle Simplification: terrain-objectives/one-angle-simplification.md
+    - Terrain Decides What Calls Are Possible: terrain-objectives/terrain-decides-calls.md
+- Practise and review:
+  - Field scenarios:
+    - Practical Example Library: practical-examples/index.md
+    - The Counter Window After Enemy Engage: practical-examples/counter-window.md
+    - Direction Calls Are Tactical Intent: practical-examples/direction-calls.md
+    - Work Backward from the Assigned Impact: practical-examples/dps-timing-example.md
+    - Healers Heal the Danger Area: practical-examples/healer-danger-area.md
+    - Kite as a Unit: practical-examples/kite-as-unit.md
+    - Objective and Door Fights: practical-examples/objective-door-fights.md
+    - Protect the Route Assigned to Your Role: practical-examples/plate-frontline.md
+    - Positional Pressure Without an Engage: practical-examples/positional-pressure.md
+    - Match Support Utility to Its Window: practical-examples/support-utility.md
+  - Training and VOD review:
+    - Training and VOD Review: training/index.md
+    - VOD Review Method: training/vod-review-method.md
+    - Concept-to-Drill Map: training/concept-to-drill-map.md
+    - Micro-Drills: training/micro-drills.md
+    - Outcome Does Not Excuse Bad Play: training/outcome-independent-review.md
+    - Player Development Ladder: training/player-development-ladder.md
+    - Review the Setup Before Death: training/review-before-death.md
+    - Role-Specific VOD Questions: training/role-review-questions.md
+    - Training a New Roster: training/training-new-roster.md
+- Reference Library:
+  - library/index.md
+  - Combat mechanics:
+    - Core Mechanics: mechanics/index.md
+    - AoE Escalation: mechanics/aoe-escalation.md
+    - CC, Armor, and Diminishing Returns: mechanics/cc-armor-diminishing-returns.md
+    - Focus Fire and Resilience: mechanics/focus-fire-resilience.md
+    - Healing, Overcharge, and Disarray: mechanics/healing-overcharge-disarray.md
+  - Fight concepts:
+    - Fight Concepts: fight-concepts/index.md
+    - Counter-Engage Windows: fight-concepts/counter-engage-windows.md
+    - Defensive Layering: fight-concepts/defensive-layering.md
+    - DPS Timing and Clump Selection: fight-concepts/dps-timing.md
+    - High-Value Targets: fight-concepts/high-value-targets.md
+    - Movement and Positioning: fight-concepts/movement-positioning.md
+    - Pressure Types: fight-concepts/pressure-types.md
+    - Q/W Pressure Floor: fight-concepts/qw-pressure.md
+    - Terrain and Geometry: fight-concepts/terrain-geometry.md
+  - Weapons and equipment:
+    - Weapon and Ability Notes: weapon-notes/index.md
+    - Armor and Defensive Tool Notes: weapon-notes/armor-defensive-tools.md
+    - Build Evaluation Framework: weapon-notes/build-evaluation-framework.md
+    - Disengage / Stopper Tool Notes: weapon-notes/disengage-tank-deep-dive.md
+    - DPS Weapon Notes: weapon-notes/dps-weapons.md
+    - Healer Tool Notes: weapon-notes/healer-deep-dive.md
+    - Healing Weapon Notes: weapon-notes/healing-weapons.md
+    - How to Read Weapon Notes: weapon-notes/how-to-read-weapon-notes.md
+    - Melee Burst Tool Notes: weapon-notes/melee-burst-dps-deep-dive.md
+    - Melee Pressure Tool Notes: weapon-notes/melee-dot-dps-deep-dive.md
+    - Current-Value Checks: weapon-notes/patch-sensitive-notes.md
+    - Ranged DPS Tool Notes: weapon-notes/ranged-dps-deep-dive.md
+    - Role and Tool Library: weapon-notes/role-tool-library.md
+    - Support DPS Tool Notes: weapon-notes/support-dps-deep-dive.md
+    - Support Weapon Notes: weapon-notes/support-weapons.md
+    - Support Tool Notes: weapon-notes/supports-deep-dive.md
+    - Tank / CC Weapon Notes: weapon-notes/tank-cc-weapons.md
+    - Tank and CC Tool Families: weapon-notes/zerg-armor-tank-system.md
+    - Healer and Support Families: weapon-notes/zerg-heart-shield-system.md
+    - DPS Role Families: weapon-notes/zerg-spear-dps-system.md
+  - Fight styles:
+    - Fight Style Literacy: playstyles/index.md
+    - Bomb / Clap Concepts: playstyles/bomb-clap.md
+    - Brawl Concepts: playstyles/brawl.md
+    - Hybrid / Mixed-Style Zergs: playstyles/hybrid-mixed.md
+    - Kite / Control Concepts: playstyles/kite-control.md
+    - Melee Clap / Burst Comps: playstyles/melee-clap.md
+    - Melee DoT / Pressure Brawl Comps: playstyles/melee-dot-pressure.md
+    - Melee Pressure Concepts: playstyles/melee-pressure.md
+    - Ranged Pressure Concepts: playstyles/ranged-pressure.md
+    - Responding to Enemy Behavior: playstyles/style-counters.md
+    - Fight Style Spectrum: playstyles/style-spectrum.md
+  - Calling vocabulary:
+    - Calling Styles: calling-styles/index.md
+    - Bait and Switch: calling-styles/bait-and-switch.md
+    - Crescent Pressure: calling-styles/crescent-pressure.md
+    - Kite / Control Calling: calling-styles/kite-control-calling.md
+    - Sword Engage / Direct Commit: calling-styles/sword-engage.md
+    - Tsunami / Flood: calling-styles/tsunami-flood.md
+    - Turn and Burn: calling-styles/turn-and-burn.md
+- Companion and project:
   - Formation Ledger:
-      - Overview: workbooks/index.md
-      - Submit a Comp Package: workbooks/comp-package-intake.md
-  - Project Info:
-      - Site Map: site-map.md
-      - Sources / Credit: sources-credit/index.md
-      - Current Scope: sources-credit/current-scope.md
-      - Contribute / Corrections: sources/contribution-correction-policy.md
+    - Albion ZvZ Formation Ledger: workbooks/index.md
+    - Submit or Build a Comp Package: workbooks/comp-package-intake.md
+  - Sources and scope:
+    - Sources and Credit: sources-credit/index.md
+    - Current Scope: sources-credit/current-scope.md
+  - sources/contribution-correction-policy.md
+  - site-map.md
 extra:
-  version: v3.4.2
+  version: 4.0.0
+site_dir: site
+
+extra_javascript:
+- assets/navigation-accessibility.js

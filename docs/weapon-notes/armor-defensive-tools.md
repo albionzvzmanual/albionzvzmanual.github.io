@@ -43,6 +43,10 @@ Caller mobility examples teach a general principle: mobility, vision, rotations,
 
 Do not teach players to pick only selfish survival if that removes group value. Also do not remove survivability from roles that must survive to function.
 
+## Check the cost of the defensive
+
+A defensive that keeps an ally alive may still leave the lane uncovered if its user must stop moving or cannot use their assigned tool. Compare both jobs before swapping armor and check the actual ability behavior before relying on it.
+
 ## Related pages
 
 - [Defensive Layering](../fight-concepts/defensive-layering.md)

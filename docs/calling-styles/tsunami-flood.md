@@ -1,27 +1,17 @@
 # Tsunami / Flood
 
-## Core idea
+A group enters enemy space on several lines. The intended benefit is sustained access to valuable positions after entry.
 
-Enter enemy space with enough spread and force that the enemy cannot safely isolate one small group.
+## Read the situation
 
-## What line members should understand
+Two entry groups pass opposite sides of an obstacle. Both can reach opponents, but only the near group can see its support.
 
-Flood does not mean everyone walks through one narrow line. It means players enter useful space from enough angles to overwhelm target selection.
+??? question "Compare your call"
 
-## Role notes
+    The second entry adds pressure only while it can survive and contribute. Shorten that angle, redirect it to the near route or postpone it. If the enemy gives ground, recheck connection before extending both groups again.
 
-**Tanks:** identify whether you are creating the threat, stopping the enemy response, or protecting the route.
+## Test the decision in a recording
 
-**Healers:** position for the danger area created by the call, not only the safest backline.
+At the widest split, identify the support and recovery route for each group.
 
-**Supports:** layer defensives on the real counter-threat.
-
-**DPS:** be close enough and prepared early enough to hit when the window appears.
-
-## Common failure
-
-Players hear the words but miss the intent. They move in the named direction while ignoring terrain, enemy cooldowns, or role responsibility.
-
-## Practice drill
-
-During VOD review, name the calling style after the fight moment, then ask each role what it should have done five seconds before the call.
+[Explore the underlying decision](../fight-execution/spread-does-not-mean-leave.md).

@@ -22,9 +22,15 @@ The healing target is often:
 
 Healers stand safely far away and heal the backline while the players making the call possible die unsupported.
 
-## Holy and Nature together
+<a id="holy-and-nature-together"></a>
+
+## Choose healing by the assigned function
 
 A healing package needs coverage appropriate to the threat: immediate recovery, sustained healing, targeted saves, or route support. Allocate these functions from the selected kits; they are not exclusive to Holy or Nature, and both trees are not mandatory.
+
+## Decide which save is reachable
+
+A low ally returns through the near gate. Healing from your current lane preserves coverage for the crossing. A second ally beyond the far wall may require a different healer or a retreat call. Report the unreachable player before leaving the rest of the group without coverage.
 
 ## Review questions
 

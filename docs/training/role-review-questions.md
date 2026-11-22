@@ -12,7 +12,7 @@ Use these questions to turn vague feedback into concrete review.
 
 ## DPS
 
-- Did my damage land at zero?
+- Did my effect arrive during its assigned window? If I held it, which action did that preserve?
 - Did I use Q/W pressure after E?
 - Did I take a real angle or hide in a backline clump?
 - Did I hit a valuable target, or only the easiest one?
@@ -44,7 +44,7 @@ Use these questions to turn vague feedback into concrete review.
 
 ## Engage / clump tanks
 
-- Was my clump visible before zero?
+- Could allies see and reach the clump before their assigned impact?
 - Could DPS hit it?
 - Did I hold enemies inside allied damage?
 - Did I create value or pull enemies away from damage?

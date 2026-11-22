@@ -52,7 +52,7 @@ Bad angles:
 
 The countdown guidance here applies to a synchronized hit with an agreed impact time. Continuous pressure and independent picks have their own useful windows; delayed casts and instant effects need different preparation. and casting
 
-Damage should land on the window. If your spell has cast time or travel time, starting at zero is often late.
+For a coordinated hit, work backward from the assigned impact. Pressure and independent picks follow their own opportunities.
 
 A useful habit:
 
@@ -113,9 +113,13 @@ For every engage, mark:
 
 If these happen in the wrong order, the engage becomes weak even if the build is good.
 
+## Check the position after the cast
+
+A target may be reachable from a corner even when your next step would leave healer range. Ask where you can move once this cast resolves. If that position is exposed, wait for coverage or choose an effect you can deliver from the connected lane.
+
 ## Related pages
 
 - [DPS Overview](dps-overview.md)
-- [Damage Must Land at Zero](../fight-execution/damage-lands-at-zero.md)
+- [Time Damage to the Assigned Impact](../fight-execution/damage-lands-at-zero.md)
 - [Pressure](../foundations/pressure.md)
 - [Angle Control and Line Weight](../terrain-objectives/angle-control-line-weight.md)

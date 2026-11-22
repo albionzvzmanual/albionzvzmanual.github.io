@@ -1,49 +1,18 @@
 # Healer Tool Notes
 
-Healer tools should be judged by whether they save the real danger area.
+Use the [healer role guide](../roles/healers.md) for triage. Compare the selected tools by what they let you do.
 
-These are common healing profiles, not exclusive weapon-tree assignments. Apply the advice only to functions your selected abilities provide. Check cast behavior, range, recovery timing, and movement constraints for the current kit; neither Holy nor Nature is mandatory in every composition.
+<a id="healer-functions"></a>
+<a id="holy-lessons"></a>
+<a id="nature-lessons"></a>
 
-## Healer functions
+| Need | Check the selected tool |
+| --- | --- |
+| Save under sharp damage | Can the effect arrive before the next hit? |
+| Cover sustained pressure | Will the group remain in reach for the relevant duration? |
+| Cover a moving lane | Where can you cast again after allies move past the first position? |
 
-| Function | What it solves |
-|---|---|
-| Emergency healing | sharp damage on clumps or endangered groups |
-| Targeted saving | low caller, tank, healer, support, or exposed player |
-| Sustain coverage | pressure over time, flanks, routes, and recovery |
-| Zone support | holding useful space long enough for the zerg to act |
+<a id="review-questions"></a>
+<a id="related-pages"></a>
 
-## Holy lessons
-
-Holy-style tools often teach direct stabilization and emergency saving.
-
-Good Holy play:
-
-- reaches the danger area
-- saves key players before they fall out of the fight
-- does not waste major healing on safe space
-- uses positioning to make healing possible before damage lands
-
-## Nature lessons
-
-Nature-style tools often teach sustained coverage and route support.
-
-Good Nature play:
-
-- helps players stay active between burst windows
-- supports flanks and crossings
-- places zones where players can actually stand
-- avoids wasting overlapping zones when coordination is needed
-
-## Review questions
-
-- Did the healer reach the real danger area?
-- Did the healing support the route or fight shape?
-- Did targeted saves matter?
-- Did sustain value keep the zerg active after pressure?
-
-## Related pages
-
-- [Holy Healers](../roles/holy-healers.md)
-- [Nature Healers](../roles/nature-healers.md)
-- [Healers Heal the Danger Area](../practical-examples/healer-danger-area.md)
+See [healing weapon notes](healing-weapons.md) for dated examples. Check current reach, targeting and recovery before making an assignment.

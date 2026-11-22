@@ -14,3 +14,7 @@ Ranged pressure means creating value from distance through uptime, small-clump h
 ## Avoid weapon bias
 
 This page is not a Great Fire, Frost, Longbow, or Brimstone guide. Those belong in weapon notes or applied build cards.
+
+## Choose a firing position
+
+From beside a corner you can threaten an enemy exit while staying on the healer’s side of the wall. Check who can cover you after the cast. If taking a wider angle would cut your recovery route, use the shorter lane or hand off the exit.

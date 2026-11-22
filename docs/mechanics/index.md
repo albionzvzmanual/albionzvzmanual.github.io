@@ -1,29 +1,13 @@
-# Core Mechanics
+# Combat mechanics
 
-Mechanics matter because they change what players should do in the field.
+Choose the observation that prompted your question. Each lesson explains the underlying rule, applies it to an Albion fight and identifies values that still need current evidence.
 
-This section explains the fight behavior behind important large-scale mechanics: why clumping is dangerous, why target selection matters, why healer output changes under pressure, and why exact values should be checked before publishing number-specific claims.
+| What you saw | Lesson |
+| --- | --- |
+| One area spell caught several allies at a gate | [AoE escalation](aoe-escalation.md) |
+| Several allies hit the same enemy, who survived | [Focus Fire Protection and resilience penetration](focus-fire-resilience.md) |
+| A second control effect gave allies little time to act | [Crowd control, armor and diminishing returns](cc-armor-diminishing-returns.md) |
+| Healing coverage, temporary item power or regional group size changed the fight | [Healing sickness, overcharge and disarray](healing-overcharge-disarray.md) |
 
-<div class="ao-callout blue">
-<strong>How to use this section:</strong> learn the decision first, then verify exact current values when a caller, officer, or build sheet needs numbers.
-</div>
+During review, identify the effect, the players it reached and the timing of their next actions. Then check for competing explanations such as a shield, a cleanse or a missed hit. The evidence disclosure in each lesson links the relevant publisher material and dates the review. For a build decision that depends on an exact number, use the [current-value checks](../weapon-notes/patch-sensitive-notes.md).
 
-## Pages
-
-| Page | What it teaches |
-|---|---|
-| [AoE Escalation](aoe-escalation.md) | why stacking turns one enemy spell into massive value |
-| [Focus Fire and Resilience](focus-fire-resilience.md) | why target choice matters and why not every low-value target deserves the whole zerg |
-| [CC, Armor, and Diminishing Returns](cc-armor-diminishing-returns.md) | why stops should hit the real threat, not just the nearest player |
-| [Healing, Overcharge, and Disarray](healing-overcharge-disarray.md) | why scaling, risk, and healing pressure affect fight decisions |
-
-## External mechanics references
-
-Use [Current-Value Checks](../weapon-notes/patch-sensitive-notes.md) for the dated review scope and source hierarchy. The wiki links below are supplementary explanations, not independent confirmation of current values.
-
-- [Albion Wiki: ZvZ Mechanics](https://wiki.albiononline.com/wiki/ZvZ_Mechanics)
-- [Albion Wiki: AoE Escalation](https://wiki.albiononline.com/wiki/AoE_Escalation)
-- [Albion Wiki: Focus Fire](https://wiki.albiononline.com/wiki/Focus_Fire)
-- [Albion Wiki: Healing Sickness](https://wiki.albiononline.com/wiki/Healing_Sickness)
-- [Albion Wiki: Overcharge](https://wiki.albiononline.com/wiki/Overcharge)
-- [Official changelogs](https://albiononline.com/changelog)

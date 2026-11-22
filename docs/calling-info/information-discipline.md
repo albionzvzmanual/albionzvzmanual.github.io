@@ -10,7 +10,7 @@ If a report does not help the caller, officer, role lead, or player make a bette
 
 | Source | Use |
 |---|---|
-| Kill feed | confirms real deaths, role losses, and momentum |
+| Kill feed | records deaths you can identify. Check remaining roles and positions before inferring momentum |
 | Minimap / blob | shows mass, direction, and possible split fronts |
 | Scouts | reveal flanks, bombs, mounts, objective movement, and rotations |
 | Name tags | show local threat, but must be interpreted by cooldown state |
@@ -52,6 +52,10 @@ After a fight, compare comms to reality:
 - Did anyone over-call the main caller?
 - Did hype make the zerg overcommit?
 - Did missing information cause a bad rotation?
+
+## State when the information was true
+
+Say “last seen at the east bend” if you lost sight. A lane you checked before the group moved may have changed. Describe what you saw and mark the next route as unknown until someone checks it.
 
 ## Related pages
 

@@ -2,7 +2,7 @@
 
 DPS is the role family responsible for turning fight windows into pressure, kills, and space.
 
-The public manual should not treat one DPS weapon or one comp package as the default model. DPS value is judged by function: timing, pressure, target selection, uptime, and whether your damage supports the team window.
+Judge damage by the opportunities it creates or converts. Check timing, target access and how long you can contribute from a supported position.
 
 ## Core job
 
@@ -37,7 +37,9 @@ Use these families to judge function, not only weapon name.
 
 These are broad literacy labels, not fixed comp slots.
 
-## Damage lands at zero
+<a id="damage-lands-at-zero"></a>
+
+## Time the assigned impact
 
 The countdown guidance here applies to a synchronized hit with an agreed impact time. Continuous pressure and independent picks have their own useful windows; delayed casts and instant effects need different preparation.
 
@@ -121,5 +123,5 @@ Specific weapons and abilities belong in [Weapon and Ability Notes](../weapon-no
 - [Ranged DPS](ranged-dps.md)
 - [Support DPS](support-dps.md)
 - [Melee Pressure / Execute DPS](melee-pressure-dps.md)
-- [Damage Must Land at Zero](../fight-execution/damage-lands-at-zero.md)
+- [Time Damage to the Assigned Impact](../fight-execution/damage-lands-at-zero.md)
 - [Q/W and Post-Bomb Pressure](../fight-execution/qw-post-bomb-pressure.md)

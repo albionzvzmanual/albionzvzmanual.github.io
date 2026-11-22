@@ -57,7 +57,7 @@ Good support sees:
 - a bomb squad or flank preparing
 - an enemy counter-engage after your zerg hits
 
-Then the support prepares the lane before the wipe happens.
+Move into reach before impact and agree who covers a second wave. Prepare a preventive shield for the approach it can cover. For a reactive cleanse, choose an observable trigger such as allies becoming pinned on the crossing, and check that the chosen ability can remove that effect. If the threat changes lanes, move or hand off the assignment.
 
 ## Support stack completeness
 

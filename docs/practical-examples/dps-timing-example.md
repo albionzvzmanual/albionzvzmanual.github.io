@@ -1,4 +1,4 @@
-# DPS Damage Must Land on the Window
+# Work Backward from the Assigned Impact
 
 ## Situation
 

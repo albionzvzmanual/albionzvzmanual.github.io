@@ -79,6 +79,8 @@ Exact objective mechanics, guard behavior, mage damage, repair rules, wall behav
 
 Radiant Wilds Patch 3 changed territory point distribution, control costs and penalties, raid energy destruction, and hideout durability. These affect what is worth contesting and how much time or pressure a plan requires. The general lessons about routes and connected support remain useful, but older economic or siege-duration assumptions should not drive a current call. Check the applicable season and structure rules before setting priorities. [Publisher changelog, 29 June 2026](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559763).
 
+Before planning around a new season format, confirm which rules have taken effect. The 17 November Season 35 announcement schedules several format changes for Dragonfire Patch 5. Check the final notes before applying them. [Season 35 announcement](https://albiononline.com/news/season-35-starts).
+
 Keeper Uprising objectives belonged to the intervening seasonal event. Do not teach that temporary event as an evergreen objective schedule.
 
 ## Training prompt

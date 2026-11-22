@@ -42,3 +42,7 @@ After your next CTA, do not ask "did I die?" only ask:
 - Did I clump on friendly players?
 - Did I panic away after enemy cooldowns were spent?
 - Did I understand what my role was trying to do?
+
+## Your first crossing
+
+ZvZ means zerg versus zerg. A CTA is a call to arms or scheduled group activity. A caller coordinates the group, while scouts report movement and roles cover damage, healing, control or utility. On a crossing, look for enemies gathering toward the exit before damage arrives. Prepare your assigned response. A preventive shield and a cleanse aimed at an effect already applied need different cues.

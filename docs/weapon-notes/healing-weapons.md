@@ -55,7 +55,7 @@ A strong zerg needs the healer package to cover:
 
 ## Changes since the June 2026 manual
 
-Radiant Wilds Patch 3 changed Great Holy's knockback behavior and Nature's Rejuvenating Breeze cooldown. Dragonfire later changed Rampant's targeting geometry, and Patch 2 reduced Holy Flash healing. These changes affect practice timing and placement; they do not establish exclusive jobs for Holy and Nature.
+Radiant Wilds Patch 3 changed Great Holy's knockback behavior and Nature's Rejuvenating Breeze cooldown. Dragonfire later changed Rampant's targeting geometry, and Patch 2 reduced Holy Flash healing. Recheck declumping behavior for Great Holy, repeat-cast timing for Breeze, placement for Rampant and the healing budget for Holy Flash. Check later live notes and the selected ability before planning with current values.
 
 When revisiting an old drill, test the selected spell's reach, recovery, and placement before using the old sequence. [Radiant Wilds Patch 3, 29 June](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559763); [Dragonfire, 31 August](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309746); [Dragonfire Patch 2, 23 September](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217965).
 

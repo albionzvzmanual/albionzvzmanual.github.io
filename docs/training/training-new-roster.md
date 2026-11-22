@@ -59,7 +59,7 @@ The roster still has to improve.
 
 For each week, pick one roster-wide focus:
 
-- damage lands at zero
+- assigned synchronized effects arrive in the agreed window
 - spread but stay connected
 - supports on danger lane
 - healers heal danger

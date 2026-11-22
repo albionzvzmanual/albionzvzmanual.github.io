@@ -1,27 +1,26 @@
-# AoE Escalation
+# AoE escalation
 
-AoE escalation is the reason careless clumping is punished so brutally in ZvZ. When many players are hit by the same area damage, the enemy gets far more value than they would against spread players.
+At a gate, three allies have crossed and the rest are waiting on the threshold. If everyone stops on the same patch of ground, one enemy area spell can reach the whole group. For eligible spells there is a second cost. Hitting more players can increase the damage each target receives from that effect. This additional scaling is **area-of-effect (AoE) escalation**.
 
-## Field behavior
+## Count players in the effect
 
-- Do not stand on friendly players unless a specific defensive call requires it.
-- Avoid corners, walls, doors, and choke exits where your group naturally compresses.
-- If an enemy engage misses or only clips part of the group, safe players should prepare the counter instead of joining panic movement.
-- When you must cross a choke, cross with purpose instead of stopping in the bomb line.
+What matters is who the effect actually catches. A large force can offer several small targets, while a smaller party on one corner can offer a single dense target. A multi-part ability can have different escalation rules for each component. Dragonfire Patch 4 corrected escalation on the resistance-reduction aura of Eye of the Storm. Its damage component already escalated.
 
-Dragonfire also corrected missing escalation on specific damage, resistance-reduction, slow, root, and stun effects. Do not assume all effects share identical eligibility or scaling. Mob Focus Fire Protection was changed separately; do not transfer that PvE change to player protection. [Dragonfire changelog](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309746).
+Distinguish the direction of the count. AoE escalation concerns one effect reaching multiple targets. [Focus Fire Protection](focus-fire-resilience.md) concerns multiple attackers hitting one target. Both can matter in a single exchange.
 
-## Practical rule
+## Cross without building a second clump
 
-If you are standing on several allies and enemy damage can reach that spot, assume you are creating a bomb target.
+If the first wave on the far bank stops at the exit, the next players collide with the same danger area. A player who can safely move should clear space on the far bank while maintaining access to allies. The players already through can watch the next approach or cover the tail. A player cut off from healing gains little by spreading even farther.
 
-## External mechanics references
+If the caller asks for a brief stack inside a defensive area, identify the threat it answers, who can fit, and the signal to separate again. Terrain and coverage determine the useful spacing.
 
-Use [Current-Value Checks](../weapon-notes/patch-sensitive-notes.md) for the dated review scope and source hierarchy. The wiki links below are supplementary explanations, not independent confirmation of current values.
+??? question "The enemy missed most of your group. Should everyone run farther back?"
 
-- [Albion Wiki: ZvZ Mechanics](https://wiki.albiononline.com/wiki/ZvZ_Mechanics)
-- [Albion Wiki: AoE Escalation](https://wiki.albiononline.com/wiki/AoE_Escalation)
-- [Albion Wiki: Focus Fire](https://wiki.albiononline.com/wiki/Focus_Fire)
-- [Albion Wiki: Healing Sickness](https://wiki.albiononline.com/wiki/Healing_Sickness)
-- [Albion Wiki: Overcharge](https://wiki.albiononline.com/wiki/Overcharge)
-- [Official changelogs](https://albiononline.com/changelog)
+    First locate the next damage area and the allies still crossing. A safe player with range can protect the exit or apply reachable pressure. Moving toward the same safe-looking corner as everyone else can give the next enemy wave a better target.
+
+??? info "Evidence and limits · checked 22 November 2026"
+
+    [Lands Awakened Patch 4](https://forum.albiononline.com/index.php/Thread/160129-26-January-2022-Lands-Awakened-Patch-4/) illustrates the per-target scaling rule. [Dragonfire](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309746) and [Dragonfire Patch 4](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247585) identify eligibility fixes for individual effects. The target thresholds and caps used by each live effect require separate verification. Mob Focus Fire Protection applies to a different system.
+
+Apply this at a [bridge crossing](../terrain-objectives/chokes-bridges-gates.md).
+

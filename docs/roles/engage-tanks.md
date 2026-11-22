@@ -50,6 +50,14 @@ Engage tanks also help after the first hit:
 - block reinforcements from saving a caught player
 - create the next small catch instead of greeding one low target
 
+## Decide whether the group can follow
+
+Several enemies pause beyond a corner. Your damage players can reach the corner, but the healer assigned to the entry is still crossing behind you. Where would you regroup after using your movement skill?
+
+??? question "Compare the two calls"
+
+    Holding the near side keeps a reachable target area and gives the healer time to connect. If the enemy is contesting an objective that will resolve before then, report the cost of waiting. A caller can choose a shorter entry or accept the recovery risk explicitly. In review, compare where allies could actually cast with where the targets ended up.
+
 ## Common mistakes
 
 | Mistake | Result |
@@ -75,7 +83,7 @@ On each engage, ask:
 
 ## Related pages
 
-- [Damage Must Land at Zero](../fight-execution/damage-lands-at-zero.md)
+- [Time Damage to the Assigned Impact](../fight-execution/damage-lands-at-zero.md)
 - [Timing and Tempo](../foundations/timing-tempo.md)
 - [DPS Timing Example](../practical-examples/dps-timing-example.md)
 - [Angle Control and Line Weight](../terrain-objectives/angle-control-line-weight.md)

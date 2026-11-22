@@ -21,7 +21,7 @@ A caller gives direction and timing. Players still need to understand what their
 | Call | Bad interpretation | Better interpretation |
 |---|---|---|
 | "Spread" | leave the fight | take useful space while staying connected |
-| "Walk in" | hesitate because red names are near | read whether those red names are spent and push with support |
+| "Walk in" | hesitate because red names are near | identify which group spent its tools, check the other approach and move while support can follow |
 | "Come south" | abandon the tail | move south while covering the danger lane if your role requires it |
 | "Bomb west" | cast from max range late | move early enough so damage lands on time |
 | "Hold choke" | stand in the choke clump | spread around it and help the next wave through |

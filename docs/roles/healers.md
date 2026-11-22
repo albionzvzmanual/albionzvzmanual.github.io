@@ -1,4 +1,4 @@
-# Healer Guide: Heal Danger, Not Only Low HP
+# Healer Guide: Triage, Reach and Recovery
 
 Healers keep the zerg functional. That does not mean only reacting to the lowest party frame.
 
@@ -20,6 +20,10 @@ Good healers watch:
 - where the caller or clump tank is moving
 - where support zones and defensive layers are being placed
 - whether healing zones are enabling forward play or teaching retreat
+
+## Triage when the group turns
+
+The forward tank still has cover. Behind you, a low-health ally is returning through an exposed gate. Here the low health and immediate danger point to the same player. Check who can reach the gate before leaving your assignment. If a second healer confirms coverage, keep the forward group connected. If nobody can cover the return, report the gap and take a position from which the returning player can receive help. Reassess as soon as the group has crossed.
 
 ## Healing shapes behavior
 

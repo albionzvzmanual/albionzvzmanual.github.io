@@ -42,6 +42,10 @@ Players press their major cooldown, then walk backward and do nothing while the 
 
 Track a 15-second period between engages. Count how many safe players created useful pressure. If most players are only walking, the zerg lacks pressure floor.
 
+## Record a useful action and a useful hold
+
+Pick a lane and one assignment. Mark a cast that made an enemy move, commit or wait, then one saved tool that covered a credible second threat. Compare those results with the cast count before judging the player.
+
 ## Related pages
 
 - [Pressure Types](pressure-types.md)

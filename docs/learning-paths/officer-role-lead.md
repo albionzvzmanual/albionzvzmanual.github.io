@@ -15,4 +15,4 @@ Your job is to turn doctrine into stable habits and clean tools.
 
 ## Practical next action
 
-After reading, pick one habit to test in the next CTA or VOD review. Do not try to fix everything at once.
+Review one failed crossing. Decide whether the problem was a missing assignment, a late report or an unreachable position. Write one change to test in the next drill. Use the [Formation Ledger](../workbooks/index.md) if your group already records its assignments there.

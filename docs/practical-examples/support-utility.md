@@ -1,44 +1,24 @@
-# Support Utility Before Damage
+# Match Support Utility to Its Window
 
 ## Situation
 
-A support-DPS or utility role has pierce, heal cut, purge, or another tool that makes allied damage matter.
+Allied damage is about to land on one group. You own an offensive effect that should help that hit convert. Another support is watching the return lane for a counter.
 
-The zerg engages, but the utility arrives late or hits the wrong target.
+<a id="correct-response"></a>
 
-## Correct response
+## Compare the two windows
 
-Utility should land before or with damage on the actual kill area.
+An assigned resistance reduction belongs where the damage lands and must still be active at impact. A response to later recovery must cover that recovery. A player assigned to protect the return may correctly hold their tool until the enemy commits. Check the selected effect’s eligibility and reach before agreeing on timing.
 
-Examples:
-
-- pierce before burst
-- heal cut before sustained pressure converts
-- purge before enemy defensive value matters
-- slow/root/hold before enemies leave the damage
-- defensive support before enemy damage finishes
-
-## Common failure
-
-Support utility is used randomly, late, or on a different clump than allied damage. The damage looks big but does not kill.
+<a id="common-failure"></a>
 
 ## Review questions
 
-1. What utility was needed?
-2. Did it land before or with damage?
-3. Did it hit the real target?
-4. Did it create a kill window?
-5. Was the player chasing personal meters instead of enabling kills?
+Which response did each player own? Did their effect reach the right players while it could still change the result? If they held it, which later threat was still plausible?
 
 ## Drill
 
-For every major engage, draw a simple sequence:
-
-```text
-clump / lock → support utility → main damage → enemy recovery
-```
-
-If utility appears after damage, the sequence is broken.
+In a recording, mark the friendly impact, the first enemy recovery and the counter. Put each assigned effect next to the event it was intended to answer. Explain one late cast and one intentional hold.
 
 ## Related pages
 

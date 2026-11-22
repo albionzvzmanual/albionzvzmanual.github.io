@@ -56,6 +56,10 @@ When the caller says "spread," pause the VOD and ask:
 - Did I leave someone else to die?
 - Did I just join a different friendly clump?
 
+## See two effects separately
+
+Two overlapping attacks can strike a player even if neither qualifies for escalation. An eligible effect can change strength according to how many targets it hits. Use the [bridge schematic](../terrain-objectives/chokes-bridges-gates.md) to point out where players might overlap while crossing and where they can separate without breaking healing reach. See [how escalation works](../mechanics/aoe-escalation.md).
+
 ## Related pages
 
 - [Spread Does Not Mean Leave the Fight](../fight-execution/spread-does-not-mean-leave.md)

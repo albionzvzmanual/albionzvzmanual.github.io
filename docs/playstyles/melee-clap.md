@@ -16,9 +16,9 @@ It wants a clump, a fast engage path, and enough control to keep enemies inside 
 ## Weaknesses
 
 - predictable engage paths can be stopped
-- bad first engage can feed escalation
+- a failed entry can leave teammates exposed together. Escalation requires an eligible effect
 - if mobility is spent before contact, an opponent may deny re-entry or force an unsafe chase
 
 ## Common mistake
 
-Diving deep without support, pierce, heal cut, or exit plan.
+Entering beyond allied reach with no recovery route. Check what support or offensive utility this particular hit needs.

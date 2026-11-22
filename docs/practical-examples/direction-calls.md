@@ -20,7 +20,7 @@ Examples:
 
 | Call | Possible tactical intent |
 |---|---|
-| walk south | build a better angle, avoid north vision disadvantage, set up a turn |
+| walk south | build a better angle, avoid the wall blocking this group’s view, set up a turn |
 | back up | make enemy mobility expire, not abandon the group |
 | push through | cross danger before enemy bombs, not stack in the door |
 | hold here | force enemy into your control area, not stand AFK |

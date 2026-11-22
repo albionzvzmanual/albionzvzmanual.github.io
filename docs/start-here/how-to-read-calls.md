@@ -38,3 +38,7 @@ The zerg hears the word, but not the intent. People move in the named direction 
 ## Practice drill
 
 During VOD review, pause five seconds before a major call. Ask each role where it should be five seconds later. If the answers are completely different, the group did not understand the call.
+
+## Agree on cues before contact
+
+Ask what the group means by “zero,” “hold” and “reset.” If you cannot follow a call, report the obstacle and location, such as “Tail blocked at east gate.” Keep your assigned objective until the caller changes it or follow the group’s agreed abort procedure.

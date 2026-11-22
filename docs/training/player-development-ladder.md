@@ -1,5 +1,7 @@
 # Player Development Ladder
 
+Pick a habit at your current stage. After your first group activity, review one call that changed your position and check who you could still reach. Return to earlier habits when the role or terrain changes.
+
 1. **Survive correctly** — do not clump, do not panic, use defensives.
 2. **Stand correctly** — learn your role's normal space.
 3. **Move correctly** — interpret direction calls.

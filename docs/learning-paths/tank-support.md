@@ -6,13 +6,7 @@ Your job is to create or deny danger before DPS/healers pay for it.
 
 ## Reading order
 
-1. [Engage Tanks](../roles/engage-tanks.md)
-2. [Stopper Tanks](../roles/stopper-tanks.md)
-3. [Supports](../roles/supports.md)
-4. [Terrain and Geometry](../fight-concepts/terrain-geometry.md)
-5. [Defensive Layering](../fight-concepts/defensive-layering.md)
-6. [Plate Frontline Example](../practical-examples/plate-frontline.md)
-
-## Practical next action
-
-After reading, pick one habit to test in the next CTA or VOD review. Do not try to fix everything at once.
+1. Start with your assigned job. Choose [setting up a hit](../roles/engage-tanks.md), [stopping entry](../roles/stopper-tanks.md) or [covering the danger lane](../roles/supports.md).
+2. Use the [bridge scenario](../terrain-objectives/chokes-bridges-gates.md) to mark your position before the tail crosses.
+3. Read [defensive layering](../fight-concepts/defensive-layering.md). Name the effect you own and which ally covers the next threat.
+4. In a recording, identify the moment you could still change position. Compare your actual route with one that would have kept your assignment in reach.
