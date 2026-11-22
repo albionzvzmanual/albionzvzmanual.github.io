@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 500" role="img" aria-labelledby="title desc"><title id="title">Bridge crossing decision</title><desc id="desc">Friendly tail at bottom crosses a central bridge toward a first wave on the far bank. Enemies retreat upward. An unknown route joins from the right.</desc><rect width="420" height="500" fill="#f1f5f9"/><path d="M0 270H420M0 350H420" stroke="#456478" stroke-width="3"/><rect x="135" y="265" width="150" height="90" fill="#fff" stroke="#243b50" stroke-width="3"/><path d="M210 410V355M210 265V235M210 165V140M210 115V90" stroke="#243b50" stroke-width="3"/><path d="M390 205H280" stroke="#243b50" stroke-width="3" stroke-dasharray="8 6"/><g font-family="Arial,sans-serif" font-size="24" text-anchor="middle" fill="#142b3e"><rect x="90" y="25" width="240" height="65" rx="6" fill="#fff" stroke="#243b50"/><text x="210" y="65">E آ· retreating</text><rect x="75" y="165" width="240" height="70" rx="6" fill="#d8e8f4" stroke="#243b50"/><text x="195" y="208">F آ· first wave</text><text x="210" y="318">Bridge</text><rect x="80" y="410" width="260" height="65" rx="6" fill="#d8e8f4" stroke="#243b50"/><text x="210" y="451">F آ· tail crossing</text><text x="355" y="155">?</text><text x="210" y="130" font-size="20">Far bank</text><text x="210" y="390" font-size="20">Near bank</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 500" role="img" aria-labelledby="title desc">
+  <title id="title">Bridge crossing decision</title>
+  <desc id="desc">The friendly tail is on the near bank and bridge. The first wave is on the far bank. Enemies retreat forward. An unscouted route enters the far bank from the right.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#b3e6c9" stroke-opacity=".1"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" markerWidth="6" markerHeight="6" refX="8" refY="5" orient="auto-start-reverse">
+      <path d="m1 1 7 4-7 4" fill="none" stroke="#d3e4da" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path fill="#202d26" d="M0 0h420v500H0z"/>
+  <path fill="url(#grid)" d="M0 0h420v500H0z"/>
+  <path fill="#172421" stroke="#809c90" d="M0 268h420v90H0z"/>
+  <path d="M14 300h66m226 29h97M30 333h58m218-34h82" stroke="#49655b" stroke-width="2" stroke-linecap="round"/>
+  <rect x="143" y="255" width="134" height="115" rx="5" fill="#34463d" stroke="#a9c4b4" stroke-width="2"/>
+  <path d="M210 157v-32m0-67V34" stroke="#d3e4da" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <path d="M210 435v-49m0-131v-20" stroke="#d3e4da" stroke-width="2.5"/>
+  <path d="M289 198h91" stroke="#f2cc99" stroke-width="2.5" stroke-dasharray="7 6"/>
+  <g font-family="system-ui, sans-serif" font-size="21" font-weight="600" text-anchor="middle" fill="#edf5ef">
+    <rect x="111" y="61" width="198" height="51" rx="5" fill="#303b33" stroke="#cad9d0"/>
+    <text x="210" y="94">E · retreating</text>
+    <rect x="107" y="161" width="182" height="64" rx="5" fill="#b3e6c9"/>
+    <text x="198" y="201" fill="#17251e">F · first wave</text>
+    <text x="359" y="184" fill="#f2cc99">?</text>
+    <text x="210" y="320">Bridge</text>
+    <rect x="91" y="417" width="238" height="56" rx="5" fill="#b3e6c9"/>
+    <text x="210" y="453" fill="#17251e">F · tail crossing</text>
+    <text x="23" y="250" font-size="18" text-anchor="start">Far bank</text>
+    <text x="23" y="389" font-size="18" text-anchor="start">Near bank</text>
+  </g>
+</svg>

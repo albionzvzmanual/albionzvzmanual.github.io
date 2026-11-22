@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {% if page and not page.is_homepage and page.parent %}
+    <nav class="field-breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="{{ nav.homepage.url | url }}">Home</a></li>
+        {% for ancestor in page.ancestors | reverse %}
+          <li>
+            {% if ancestor.is_page %}
+              <a href="{{ ancestor.url | url }}">{{ ancestor.title }}</a>
+            {% elif ancestor.children and ancestor.children[0].is_index and ancestor.children[0] != page %}
+              <a href="{{ ancestor.children[0].url | url }}">{{ ancestor.title }}</a>
+            {% else %}
+              <span>{{ ancestor.title }}</span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ol>
+    </nav>
+  {% endif %}
+  {{ super() }}
+{% endblock %}
