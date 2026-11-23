@@ -2,6 +2,8 @@
 
 This page addresses a coordinated hit with an agreed impact time. Continuous Q/W pressure, independent picks, and staggered follow-up use their own useful windows; do not hold them for a countdown unless that is the assigned job.
 
+[Jump to the timing and target diagram](../fight-concepts/dps-timing.md#target-and-window){ .tactical-jump }
+
 ## Core rule
 
 For a synchronized hit, zero means the agreed impact moment. Begin early enough for your spell to arrive in that window. An instant effect may be used at the moment itself; a delayed effect needs earlier preparation. Confirm whether the caller uses zero for impact or for the start of an action.
@@ -45,6 +47,8 @@ Sometimes true. But if the stop happened after the hit should already have lande
 Suppose the agreed impact is at 12.0 seconds on a clip. Your effect takes 1.2 seconds from cast start to impact in that same clip. The latest matching cast start was 10.8 seconds, assuming the target stayed reachable. If you first saw it at 11.4, the missing time was in setup or target visibility. Pressing harder at zero cannot recover it. These are illustrative recording times. Measure your own effect and check what movement or interruption changed between attempts.
 
 ## VOD prompt
+
+If the effects arrived together, compare [what each player actually reached](../fight-concepts/dps-timing.md#target-and-window) before diagnosing a timing error.
 
 For each engage, ask:
 

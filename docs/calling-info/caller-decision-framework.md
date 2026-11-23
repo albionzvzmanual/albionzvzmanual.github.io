@@ -1,5 +1,7 @@
 # Caller Decision Framework
 
+[Jump to the caller decision diagram](#caller-evidence-diagram){ .tactical-jump }
+
 ## Core rule
 
 A caller turns information into executable decisions.
@@ -69,6 +71,41 @@ Ask:
 - **Advance after useful new evidence.** The scout sees the side group moving away and the tail's healer confirms reach. Recheck the target, timing and return before ordering the hit or advance.
 - **Maintain the limited plan.** The scout still has no sight of the exit and existing cover still works. Finish what you can do from this position. Reassess when another report arrives or waiting begins to cost the objective.
 - **Change the call.** The side group enters the return lane, or the assigned healer loses reach. Shift the next action to an alternate covered route or a reachable recovery position while it is still available.
+
+<figure class="tactical-figure" id="caller-evidence-diagram" aria-labelledby="caller-evidence-diagram-title" tabindex="-1">
+  <figcaption>
+    <strong id="caller-evidence-diagram-title">What new evidence changes the call?</strong>
+    <span>Hypothetical crossing. The first panel shows the information available now. The second compares three possible updates to the same limited plan.</span>
+  </figcaption>
+  <div class="tactical-panels">
+    <img src="../../assets/diagrams/caller-known.svg" width="360" height="300" alt="The visible front turns away. It may yield ground. A different enemy group was last seen on the side route. The exit is unseen, and the tail still needs a covered return.">
+    <img src="../../assets/diagrams/caller-branches.svg" width="360" height="300" alt="Advance if the flank is seen leaving and the tail has cover. Maintain a limited crossing if the exit remains unseen and current cover holds. Change the call if the return is cut or healing is lost.">
+  </div>
+  <ul class="tactical-key" role="list" aria-label="Diagram key">
+    <li><i class="key-ally" aria-hidden="true"></i>L lead · T tail</li>
+    <li><i class="key-enemy" aria-hidden="true"></i>Observed enemy</li>
+    <li><i class="key-last-known" aria-hidden="true"></i>Last-known enemy position</li>
+    <li><i class="key-inference" aria-hidden="true"></i>Credible inference</li>
+    <li><i class="key-uncertainty" aria-hidden="true"></i>? Unseen exit</li>
+    <li><i class="key-return" aria-hidden="true"></i>Covered return</li>
+  </ul>
+  <details class="tactical-enlarge">
+    <summary>View larger panels</summary>
+    <p>Focus a panel and use the arrow keys to scroll, or swipe sideways on a narrow screen.</p>
+    <div class="tactical-zoom-scroll" role="region" aria-label="Enlarged panel A: observations, last-known position, inference and unknown exit" tabindex="0">
+      <img src="../../assets/diagrams/caller-known.svg" loading="lazy" width="360" height="300" alt="The visible front turns away. It may yield ground. A different enemy group was last seen on the side route. The exit is unseen, and the tail still needs a covered return.">
+    </div>
+    <div class="tactical-zoom-scroll" role="region" aria-label="Enlarged panel B: three decisions after the next report" tabindex="0">
+      <img src="../../assets/diagrams/caller-branches.svg" loading="lazy" width="360" height="300" alt="Advance if the flank is seen leaving and the tail has cover. Maintain a limited crossing if the exit remains unseen and current cover holds. Change the call if the return is cut or healing is lost.">
+    </div>
+  </details>
+  <details class="tactical-text">
+    <summary>Read the diagram in words</summary>
+    <p><strong>A · Start with the limited plan.</strong> The front turning away is observed. It may be giving up ground, but its remaining tools are unknown. A second group was last seen near the side route. Its current position near the exit is unknown. Cover the tail and ask the scout to check while keeping reachable pressure.</p>
+    <p><strong>B · Update when the evidence changes.</strong> Advance after the flank is seen moving away and the tail can be covered, provided the hit or approach and return still work. Finish the covered crossing if there is still no sight of the exit and waiting leaves enough time. If enemies cut the return or the healer loses reach, change the call toward a covered fallback while it is available.</p>
+    <p><strong>Decide.</strong> If waiting would miss the objective, weigh a limited advance against the consequences of losing the return. Name what existing cover can actually support. Urgency changes the cost of waiting, not the evidence.</p>
+  </details>
+</figure>
 
 **Review:** at each decision, name what was observed, what was inferred and what remained unknown. Ask which fact would change the call and what delaying would cost. Judge the choice using what the caller knew at the time.
 

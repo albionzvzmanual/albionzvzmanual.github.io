@@ -4,6 +4,8 @@ This page addresses a coordinated hit with an agreed impact time. Continuous Q/W
 
 Impact timing helps turn a group commitment into a shared hit. Pressure and independent picks work on different cues.
 
+[Jump to the timing and target diagram](#target-and-window){ .tactical-jump }
+
 ## Core idea
 
 An assigned hit has a better chance to convert when attackers can reach the same targets during a brief opening. Control, aligned utility, or a gap in enemy protection can create that opening.
@@ -29,6 +31,39 @@ Check three things before spending a major tool:
 3. **Convertible.** What useful result can the hit produce, and can the group handle the reply? Check active protection, allied follow-through and a covered return.
 
 A large group is visible beyond a corner. A smaller front group is within reach, but the stopper covering the return reports another threat. Tell the caller which target is reachable and what cover is missing. If the caller selects the smaller group and the return is covered, hit it together. If the window closes first, protect the return or hold the major tool for the next call. Pursue a separate pick only if it fits an independent assignment or the caller has handed it off and allies can follow.
+
+<figure class="tactical-figure" id="target-and-window" aria-labelledby="target-and-window-title" tabindex="-1">
+  <figcaption>
+    <strong id="target-and-window-title">Two arrivals, one clock</strong>
+    <span>Hypothetical coordinated hit. Both pairs arrive in the called window. Compare where they land before deciding whether timing was the problem.</span>
+  </figcaption>
+  <div class="tactical-panels">
+    <img src="../../assets/diagrams/timing-aligned.svg" width="360" height="300" alt="Both assigned effects can reach enemy group A. Both arrive inside the called window.">
+    <img src="../../assets/diagrams/timing-split.svg" width="360" height="300" alt="Both effects arrive inside the called window, but the first reaches enemy group A and the second reaches group B.">
+  </div>
+  <ul class="tactical-key" role="list" aria-label="Diagram key">
+    <li><i class="key-ally" aria-hidden="true"></i>1 and 2: allied effects</li>
+    <li><i class="key-enemy" aria-hidden="true"></i>A and B: enemy groups</li>
+    <li><i class="key-access" aria-hidden="true"></i>Friendly access</li>
+    <li><i class="key-window" aria-hidden="true"></i>Called arrival window</li>
+  </ul>
+  <details class="tactical-enlarge">
+    <summary>View larger panels</summary>
+    <p>Focus a panel and use the arrow keys to scroll, or swipe sideways on a narrow screen.</p>
+    <div class="tactical-zoom-scroll" role="region" aria-label="Enlarged panel A: effects reaching the same target" tabindex="0">
+      <img src="../../assets/diagrams/timing-aligned.svg" loading="lazy" width="360" height="300" alt="Both assigned effects can reach enemy group A. Both arrive inside the called window.">
+    </div>
+    <div class="tactical-zoom-scroll" role="region" aria-label="Enlarged panel B: effects reaching different targets" tabindex="0">
+      <img src="../../assets/diagrams/timing-split.svg" loading="lazy" width="360" height="300" alt="Both effects arrive inside the called window, but the first reaches enemy group A and the second reaches group B.">
+    </div>
+  </details>
+  <details class="tactical-text">
+    <summary>Read the diagram in words</summary>
+    <p><strong>A · Shared target.</strong> Effects 1 and 2 can both reach group A. They land within the agreed window, so the assigned effects can work together. This may create pressure or space even if nobody dies. No specific control or debuff sequence is assumed.</p>
+    <p><strong>B · Split targets.</strong> Effects 1 and 2 both arrive at about the right time, but reach A and B respectively. The assigned hit did not combine. A late effect would appear outside the time window. Existing protection is a separate check even when both effects reach the right group on time.</p>
+    <p><strong>Decide.</strong> Before committing, check whether allies can see and reach the same group and what the hit can achieve. If the target moves out of shared reach, report it and wait for the call to change.</p>
+  </details>
+</figure>
 
 ## Common failures
 

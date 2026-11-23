@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 300" role="img" aria-labelledby="title desc">
+  <title id="title">A / Hold the reserve</title>
+  <desc id="desc">A stopper and a reserve prepare in reach from different positions. The stopper responds to the committed entry. The lead moves back to safety, and the reserve remains ready if the second group commits.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0v20" stroke="#b3e6c9" stroke-opacity=".08" fill="none"/>
+    </pattern>
+    <pattern id="stone" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="8" height="8" fill="#202c26"/>
+      <path d="M0 0v8" stroke="#81948a" stroke-opacity=".45" stroke-width="2"/>
+    </pattern>
+    <pattern id="hazard" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <path d="M0 0v7" stroke="#f1aba2" stroke-opacity=".42" stroke-width="2"/>
+    </pattern>
+    <marker id="advance" viewBox="0 0 10 10" markerWidth="5" markerHeight="5" refX="9" refY="5" orient="auto">
+      <path d="M0 0l10 5-10 5z" fill="#b3e6c9"/>
+    </marker>
+    <marker id="return" viewBox="0 0 10 10" markerWidth="5" markerHeight="5" refX="8" refY="5" orient="auto">
+      <path d="m1 1 7 4-7 4" fill="none" stroke="#b3e6c9" stroke-width="1.8"/>
+    </marker>
+  </defs>
+  <style>
+    text { font: 600 15.5px system-ui, sans-serif; fill: #eef3ef; }
+    .heading { font-size: 21px; font-weight: 720; }
+    .sub, .foot { fill: #b8cbc1; }
+    .strong { font-weight: 720; }
+    .central { text-anchor: middle; dominant-baseline: central; }
+    .map-label { paint-order: stroke; stroke: #171f1c; stroke-width: 3.5; stroke-linejoin: round; }
+    .ally { fill: #22382e; stroke: #b3e6c9; stroke-width: 2; }
+    .enemy { fill: #422b29; stroke: #f1aba2; stroke-width: 2; }
+    .warning { fill: #332e21; stroke: #f2cc99; stroke-width: 1.8; }
+    .warning-label { fill: #f2cc99; }
+    .ghost { fill: #25312b; stroke: #b8cbc1; stroke-width: 2; stroke-dasharray: 3 3; }
+    .path { fill: none; stroke: #b3e6c9; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#advance); }
+    .return { fill: none; stroke: #b3e6c9; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 6 5; marker-end: url(#return); }
+    .cover { fill: #b3e6c91e; stroke: #b3e6c9; stroke-width: 1.8; stroke-dasharray: 2 4; stroke-linecap: round; }
+    .threat { fill: url(#hazard); stroke: #f1aba2; stroke-width: 1.5; }
+    .terrain { fill: url(#stone); stroke: #a2b3a9; stroke-width: 1.5; }
+    .cue { fill: none; stroke: #f2cc99; stroke-width: 2; stroke-dasharray: 1 4; stroke-linecap: round; }
+    .reach { fill: none; stroke: #eef3ef; stroke-width: 1.8; stroke-linecap: round; }
+    .seam { fill: none; stroke: #536c5e; stroke-width: 1.2; }
+  </style>
+  <rect x="1" y="1" width="358" height="298" rx="10" fill="#171f1c" stroke="#637d6e" stroke-width="1.5"/>
+  <rect x="12" y="60" width="336" height="199" rx="5" fill="#121916" stroke="#465c50"/>
+  <rect x="13" y="61" width="334" height="197" rx="4" fill="url(#grid)"/>
+  <text class="heading" x="15" y="27">A / Hold the reserve</text>
+  <text class="sub" x="15" y="49">The first stop buys enough room</text>
+  <path class="terrain" d="M208 160h42l12 20-13 39h-42z"/>
+    <path class="terrain" d="M168 72h53l-14 29h-43z"/>
+    <path class="threat" d="M222 119l-44 46-30-10 5-21 63-19z"/>
+    <text class="map-label" x="233" y="86">First threat</text>
+    <text class="map-label warning-label" x="246" y="245">Next wave?</text>
+    <rect class="enemy" x="245" y="95" width="26" height="22" rx="2"/><text class="central" x="258" y="106">E1</text><rect class="enemy" x="277" y="175" width="26" height="22" rx="2"/><text class="central" x="290" y="186">E2</text><path class="warning" d="M307 209l11 11-11 11-11-11z"/><text class="central" x="307" y="220">?</text>
+    <path class="return" d="M169 147q2 41-30 54l-28 12"/>
+    <path class="reach" d="m125 110 54 32m4-9-9 17"/>
+    <circle class="ghost" cx="169" cy="146" r="11"/>
+    <circle class="ally" cx="114" cy="103" r="12"/><text class="central" x="114" y="103">S</text><circle class="ally" cx="139" cy="198" r="12"/><text class="central" x="139" y="198">L</text><circle class="ally" cx="76" cy="177" r="12"/><text class="central" x="76" y="177">R</text>
+    <text class="map-label" x="25" y="83">Stop in reach</text>
+    <text class="map-label" x="24" y="159">Reserve ready</text>
+    <text class="map-label" x="26" y="236">Lead clears the lane</text>
+  <text class="foot" x="15" y="285">S stopper · L lead · R reserve</text>
+</svg>

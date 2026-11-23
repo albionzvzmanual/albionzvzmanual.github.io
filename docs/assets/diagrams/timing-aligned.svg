@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 300" role="img" aria-labelledby="title desc">
+  <title id="title">A / Shared target</title>
+  <desc id="desc">Allied effect one and allied effect two each have access to enemy group A, and both arrivals fall inside the assigned window. Group B is present but is not the target. A shared hit can be useful even if it does not score a kill.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0v20" fill="none" stroke="#b3e6c9" stroke-opacity=".08"/>
+    </pattern>
+    <pattern id="hazard" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <path d="M0 0v7" stroke="#f1aba2" stroke-opacity=".42" stroke-width="2"/>
+    </pattern>
+    <pattern id="stone" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <path d="M0 0v8" stroke="#81948a" stroke-opacity=".34" stroke-width="2"/>
+    </pattern>
+    <marker id="advance" viewBox="0 0 10 10" markerWidth="5" markerHeight="5" refX="9" refY="5" orient="auto">
+      <path d="M0 0l10 5-10 5z" fill="#b3e6c9"/>
+    </marker>
+    <marker id="return" viewBox="0 0 10 10" markerWidth="5" markerHeight="5" refX="8" refY="5" orient="auto">
+      <path d="m1 1 7 4-7 4" fill="none" stroke="#b3e6c9" stroke-width="1.8"/>
+    </marker>
+  </defs>
+  <style>
+    text { font: 600 15px system-ui, sans-serif; fill: #eef3ef; }
+    .heading { font-size: 21px; font-weight: 720; }
+    .sub, .foot { font-size: 15.5px; fill: #b8cbc1; }
+    .central { text-anchor: middle; dominant-baseline: central; }
+    .map-label { paint-order: stroke; stroke: #171f1c; stroke-width: 3.5; stroke-linejoin: round; }
+    .ally { fill: #22382e; stroke: #b3e6c9; stroke-width: 2; }
+    .enemy { fill: #422b29; stroke: #f1aba2; stroke-width: 2; }
+    .warning { fill: #332e21; stroke: #f2cc99; stroke-width: 1.8; }
+    .warning-label { fill: #f2cc99; }
+    .ghost { fill: #25312b; stroke: #b8cbc1; stroke-width: 2; stroke-dasharray: 3 3; }
+    .path { fill: none; stroke: #b3e6c9; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#advance); }
+    .return { fill: none; stroke: #b3e6c9; stroke-width: 2.3; stroke-linecap: round; stroke-dasharray: 6 5; marker-end: url(#return); }
+    .cover { fill: #b3e6c916; stroke: #b3e6c9; stroke-width: 1.8; stroke-dasharray: 2 4; stroke-linecap: round; }
+    .threat { fill: url(#hazard); stroke: #f1aba2; stroke-width: 1.5; }
+    .terrain { fill: url(#stone) #34423a; stroke: #a2b3a9; stroke-width: 1.5; }
+    .cue { fill: none; stroke: #f2cc99; stroke-width: 2; stroke-dasharray: 1 4; stroke-linecap: round; }
+    .reach { fill: none; stroke: #eff5ef; stroke-width: 1.8; stroke-linecap: round; }
+    .leader { fill: none; stroke: #b8cbc1; stroke-width: 1.5; }
+  </style>
+  <rect x="1" y="1" width="358" height="298" rx="10" fill="#171f1c" stroke="#637d6e" stroke-width="1.5"/>
+  <rect x="12" y="59" width="336" height="200" rx="5" fill="#121916" stroke="#465c50"/>
+  <rect x="13" y="60" width="334" height="198" rx="4" fill="url(#grid)"/>
+  <text class="heading" x="15" y="27">A / Shared target</text>
+  <text class="sub" x="15" y="49">Hypothetical coordinated hit</text>
+  
+    <path class="reach" d="m63 151 97-47M291 151 193 104"/>
+    <circle cx="157" cy="106" r="4" fill="#eef3ef"/>
+    <circle cx="196" cy="106" r="4" fill="#eef3ef"/>
+    <circle class="ally" cx="51" cy="156" r="12"/><text class="central" x="51" y="156">1</text><circle class="ally" cx="305" cy="156" r="12"/><text class="central" x="305" y="156">2</text>
+    <rect class="enemy" x="165" y="84" width="22" height="22" rx="2"/><text class="central" x="176" y="95">A</text><rect class="enemy" x="282" y="83" width="22" height="22" rx="2"/><text class="central" x="293" y="94">B</text>
+    <text class="map-label" x="19" y="80">Friendly access</text>
+    <path d="M23 179h314" fill="none" stroke="#465c50"/>
+    <rect x="149" y="202" width="77" height="48" rx="5" class="cue"/>
+    <text class="map-label warning-label" x="137" y="198">Called window</text>
+    <text x="23" y="214">Arrival</text>
+    <path d="M72 219h250m-250 23h250m-8-27 8 4-8 4m0 15 8 4-8 4" class="leader"/>
+    <text class="central" x="50" y="219">1</text><text class="central" x="50" y="242">2</text>
+    <rect class="ally" x="163" y="208" width="22" height="22" rx="5"/><text class="central" x="174" y="219">A</text>
+    <rect class="ally" x="181" y="231" width="22" height="22" rx="5"/><text class="central" x="192" y="242">A</text>
+  <text class="foot" x="15" y="284">Same window · both effects reach A</text>
+</svg>

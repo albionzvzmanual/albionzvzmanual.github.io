@@ -20,6 +20,7 @@ theme:
   favicon: assets/field-mark.svg
 extra_css:
 - assets/stylesheets/fieldbook.css
+- assets/stylesheets/tactical-illustrations.css
 markdown_extensions:
 - admonition
 - tables

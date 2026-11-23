@@ -1,5 +1,7 @@
 # Terrain Decides What Calls Are Possible
 
+[Jump to the route comparison](#approach-comparison){ .tactical-jump }
+
 ## Core rule
 
 You fight the terrain before you fight the enemy.
@@ -53,6 +55,42 @@ For each route, draw three lines:
 Mark where each role can first contribute. Can the lead act while the tail is still behind the bend? Where can both groups receive help if defenders hold their ground or force the lead back? Identify a reachable recovery point and the first enemy position that could cut it off. State what the scout still needs to check and whether the route leaves time to do the objective's job after arriving.
 
 Now reveal a fresh report: the enemy has moved from the entrance to the junction on the longer route. That route may still have room to spread, but its recovery point is threatened. Does the shorter route now have a covered approach and enough room for the tail to pass, or is it still too compressed? Revisit the choice. A brief hold or a covered exit may be better than either approach if neither can accomplish the objective in time.
+
+<figure class="tactical-figure" id="approach-comparison" aria-labelledby="approach-comparison-title" tabindex="-1">
+  <figcaption>
+    <strong id="approach-comparison-title">Two routes to the same objective</strong>
+    <span>Hypothetical objective. Compare the first useful action, the lead and tail connection, and the return. Then factor in the fresh scout sighting and the time left to contest.</span>
+  </figcaption>
+  <div class="tactical-panels">
+    <img src="../../assets/diagrams/route-short.svg" width="360" height="300" alt="Short route: the lead can act earlier, but the tail is still in the narrow bend and both share a threatened return.">
+    <img src="../../assets/diagrams/route-long.svg" width="360" height="300" alt="Longer route: the lead and tail have more room if support stays in reach. A fresh enemy sighting at the junction threatens the return.">
+  </div>
+  <ul class="tactical-key" role="list" aria-label="Diagram key">
+    <li><i class="key-ally" aria-hidden="true"></i>L lead · T tail</li>
+    <li><i class="key-enemy" aria-hidden="true"></i>E enemy report</li>
+    <li><i class="key-route" aria-hidden="true"></i>Approach</li>
+    <li><i class="key-return" aria-hidden="true"></i>Return</li>
+    <li><i class="key-access" aria-hidden="true"></i>First action</li>
+    <li><i class="key-cover" aria-hidden="true"></i>Allied cover</li>
+    <li><i class="key-threat" aria-hidden="true"></i>Threatened ground</li>
+  </ul>
+  <details class="tactical-enlarge">
+    <summary>View larger panels</summary>
+    <p>Focus a panel and use the arrow keys to scroll, or swipe sideways on a narrow screen.</p>
+    <div class="tactical-zoom-scroll" role="region" aria-label="Enlarged panel A: the shorter approach" tabindex="0">
+      <img src="../../assets/diagrams/route-short.svg" loading="lazy" width="360" height="300" alt="Short route: the lead can act earlier, but the tail is still in the narrow bend and both share a threatened return.">
+    </div>
+    <div class="tactical-zoom-scroll" role="region" aria-label="Enlarged panel B: the longer approach" tabindex="0">
+      <img src="../../assets/diagrams/route-long.svg" loading="lazy" width="360" height="300" alt="Longer route: the lead and tail have more room if support stays in reach. A fresh enemy sighting at the junction threatens the return.">
+    </div>
+  </details>
+  <details class="tactical-text">
+    <summary>Read the diagram in words</summary>
+    <p><strong>A · Short approach.</strong> The lead can first contribute near the west bend, before the tail is clear. Enemy pressure there can catch players together and threaten the same route back. The enemy was last seen near the objective.</p>
+    <p><strong>B · Longer approach.</strong> The lead can first contribute from the east. There is more space for the tail and support, but travel takes longer. The return crosses the junction. A fresh enemy sighting there makes recovery less reliable.</p>
+    <p><strong>Decide.</strong> Compare both approaches again after the report. A deadline can make the longer route too late, but it does not make the shorter return safe. Hold or take a covered exit if neither route leaves time and room to act and recover.</p>
+  </details>
+</figure>
 
 Use the [bridge exercise](chokes-bridges-gates.md) to practise covering the tail once the route is chosen.
 

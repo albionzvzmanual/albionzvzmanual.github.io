@@ -9,6 +9,8 @@ A player who understands both does not only ask, "Where did the caller say to go
 
 > What position does my role need, and what path lets me reach it without breaking the zerg?
 
+[Jump to the wall-position diagram](#wall-position-diagram){ .tactical-jump }
+
 ## Positioning: the destination
 
 Positioning is your relationship to the fight.
@@ -101,6 +103,42 @@ Check again when a group commits, someone takes over coverage, a tool is spent o
     Holding keeps useful coverage while the approach remains reachable. Walking early can help if the caller is setting up a move and another player covers the lane. Spending mobility now has a cost if it is also your way back. Confirm what would make you leave the position.
 
 **Second decision.** The caller sends the group through the gate. The target withdraws out of reach from your old position. The stopper who covered the shortcut is recovering, while the longer approach still has allied cover. Can you reach the assigned action before its window closes? What would make you wait or report the gap?
+
+<figure class="tactical-figure" id="wall-position-diagram" aria-labelledby="wall-position-diagram-title" tabindex="-1">
+  <figcaption>
+    <strong id="wall-position-diagram-title">When the wall position stops helping</strong>
+    <span>Hypothetical fight. Compare what the damage player can reach, where allies can still help, and what changes when the target moves.</span>
+  </figcaption>
+  <div class="tactical-panels">
+    <img src="../../assets/diagrams/wall-hold.svg" width="360" height="300" alt="Holding: the damage player can reach the approach. The stopper covers it, a healer is in reach, and the group has a return.">
+    <img src="../../assets/diagrams/wall-reposition.svg" width="360" height="300" alt="Repositioning: the target moves out of reach from the old spot. The longer route reaches the shifted cover while the shortcut needs checking.">
+  </div>
+  <ul class="tactical-key" role="list" aria-label="Diagram key">
+    <li><i class="key-ally" aria-hidden="true"></i>Allied role</li>
+    <li><i class="key-enemy" aria-hidden="true"></i>Enemy</li>
+    <li><i class="key-cover" aria-hidden="true"></i>Allied cover</li>
+    <li><i class="key-access" aria-hidden="true"></i>Reach</li>
+    <li><i class="key-route" aria-hidden="true"></i>Move</li>
+    <li><i class="key-return" aria-hidden="true"></i>Return</li>
+    <li><i class="key-uncertainty" aria-hidden="true"></i>? Check this lane</li>
+  </ul>
+  <details class="tactical-enlarge">
+    <summary>View larger panels</summary>
+    <p>Focus a panel and use the arrow keys to scroll, or swipe sideways on a narrow screen.</p>
+    <div class="tactical-zoom-scroll" role="region" aria-label="Enlarged panel A: holding the approach" tabindex="0">
+      <img src="../../assets/diagrams/wall-hold.svg" loading="lazy" width="360" height="300" alt="Holding: the damage player can reach the approach. The stopper covers it, a healer is in reach, and the group has a return.">
+    </div>
+    <div class="tactical-zoom-scroll" role="region" aria-label="Enlarged panel B: repositioning after the target moves" tabindex="0">
+      <img src="../../assets/diagrams/wall-reposition.svg" loading="lazy" width="360" height="300" alt="Repositioning: the target moves out of reach from the old spot. The longer route reaches the shifted cover while the shortcut needs checking.">
+    </div>
+  </details>
+  <details class="tactical-text">
+    <summary>Read the diagram in words</summary>
+    <p><strong>A · Holding.</strong> The wall narrows the approach. Damage can reach the enemy from the upper lane, the stopper covers the approach, and the healer can help from the near side. The group has a return toward the lower left.</p>
+    <p><strong>B · Repositioning.</strong> The same wall is still there, but the enemy withdraws beyond reach of the old damage spot. The stopper is recovering and the short lane needs checking. Allied cover has shifted toward the far side. The longer walk can reach a useful position if support remains connected and there is time.</p>
+    <p><strong>Decide.</strong> Check the next corner as well as the wall, enemy movement and allied cover. If the covered walk is too slow and the short lane is exposed, report the gap or hold. Keep a way to recover if you spend mobility.</p>
+  </details>
+</figure>
 
 ??? question "Compare the choices after the push"
 

@@ -1,5 +1,7 @@
 # Healers Heal the Danger Area
 
+[Jump to the moving-triage diagram](#moving-triage-diagram){ .tactical-jump }
+
 ## Situation
 
 A choke, door, frontline, or caught group is about to take damage.
@@ -47,6 +49,42 @@ Your group is withdrawing through a gate. An injured ally is returning along the
 - **Targeted heal.** Check whether you can select and reach the intended ally from a usable position. Consider when the heal arrives and where you can go after casting.
 - **Area heal.** Place it where the intended players can receive it as they move. A zone that would make them reverse into the threatened lane may cost more than it saves.
 - **Other recovery effects.** For a travelling, delayed or sustained effect, check how the selected ability reaches its targets and when it can help. Use the effect you actually have equipped.
+
+<figure class="tactical-figure" id="moving-triage-diagram" aria-labelledby="moving-triage-diagram-title" tabindex="-1">
+  <figcaption>
+    <strong id="moving-triage-diagram-title">Where will the ally be when the heal helps?</strong>
+    <span>Hypothetical withdrawal. Follow the injured player and the tail from the start of the decision to the moment the chosen effect can help.</span>
+  </figcaption>
+  <div class="tactical-panels">
+    <img src="../../assets/diagrams/triage-before.svg" width="360" height="300" alt="The healer is on the covered side, an injured ally is moving toward them, and the tail is still exposed on the gate approach.">
+    <img src="../../assets/diagrams/triage-arrival.svg" width="360" height="300" alt="The injured ally reaches the healer while the tail is exposed farther back. A sufficient smaller save preserves group recovery. A larger reachable save may be needed if the smaller one cannot help in time.">
+  </div>
+  <ul class="tactical-key" role="list" aria-label="Diagram key">
+    <li><i class="key-ally" aria-hidden="true"></i>H healer · I injured ally · T tail</li>
+    <li><i class="key-enemy" aria-hidden="true"></i>E enemy</li>
+    <li><i class="key-return" aria-hidden="true"></i>Withdrawal route</li>
+    <li><i class="key-access" aria-hidden="true"></i>Reachable save in this example</li>
+    <li><i class="key-prior" aria-hidden="true"></i>Earlier position</li>
+    <li><i class="key-threat" aria-hidden="true"></i>Tail under threat</li>
+    <li><i class="key-uncertainty" aria-hidden="true"></i>? Next threat</li>
+  </ul>
+  <details class="tactical-enlarge">
+    <summary>View larger panels</summary>
+    <p>Focus a panel and use the arrow keys to scroll, or swipe sideways on a narrow screen.</p>
+    <div class="tactical-zoom-scroll" role="region" aria-label="Enlarged panel A: positions before healing" tabindex="0">
+      <img src="../../assets/diagrams/triage-before.svg" loading="lazy" width="360" height="300" alt="The healer is on the covered side, an injured ally is moving toward them, and the tail is still exposed on the gate approach.">
+    </div>
+    <div class="tactical-zoom-scroll" role="region" aria-label="Enlarged panel B: positions when healing can help" tabindex="0">
+      <img src="../../assets/diagrams/triage-arrival.svg" loading="lazy" width="360" height="300" alt="The injured ally reaches the healer while the tail is exposed farther back. A sufficient smaller save preserves group recovery. A larger reachable save may be needed if the smaller one cannot help in time.">
+    </div>
+  </details>
+  <details class="tactical-text">
+    <summary>Read the diagram in words</summary>
+    <p><strong>A · Before the heal.</strong> The injured ally is moving along the covered side of the gate. The tail is still on the approach. From the healer’s position, project where each will be when healing can take effect.</p>
+    <p><strong>B · At effect time.</strong> The returning ally has moved into a useful position to receive help. The tail is still closer to the enemy. If a smaller effect can reach the injured ally in time and keep them alive, group recovery remains available for the tail.</p>
+    <p><strong>Decide.</strong> If a smaller effect would arrive too late or do too little, use a larger save if it can reach the ally and change the outcome. Then check who can protect or heal the tail. If neither option is reachable, report the gap and look for a closer recovery point. The drawing assigns no exact range or effect shape.</p>
+  </details>
+</figure>
 
 ??? question "Would you spend the major recovery tool now?"
 

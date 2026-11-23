@@ -1,0 +1,177 @@
+.md-typeset .tactical-figure {
+  --tactical-ally: #b3e6c9;
+  --tactical-enemy: #f1aba2;
+  --tactical-warning: #f2cc99;
+  box-sizing: border-box;
+  display: block;
+  max-width: none;
+  margin: 1.35em 0 1.5em;
+  padding: clamp(.55rem, 2.3vw, 1rem);
+  color: var(--field-text);
+  background: var(--field-surface);
+  border: 1px solid var(--field-border);
+  border-radius: .6rem;
+  text-align: start;
+  scroll-margin-block-start: 4.25rem;
+}
+
+.md-typeset .tactical-jump {
+  color: var(--field-muted);
+  font-size: .9em;
+  text-decoration: underline;
+  text-underline-offset: .2em;
+}
+
+@media (max-width: 30em) {
+  .md-typeset .tactical-figure {
+    margin-inline: -.4rem;
+    padding-inline: .3rem;
+  }
+}
+
+.md-typeset .tactical-figure figcaption {
+  display: grid;
+  gap: .3em;
+  max-width: none;
+  margin: 0 0 .8em;
+  font-style: normal;
+}
+
+.tactical-figure figcaption strong {
+  color: var(--field-ink);
+  font-family: var(--field-serif);
+  font-size: 1.3em;
+  line-height: 1.24;
+}
+
+.tactical-figure figcaption span {
+  color: var(--field-text);
+  font-size: .95em;
+  line-height: 1.55;
+}
+
+.tactical-panels {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15.5rem), 1fr));
+  align-items: start;
+  gap: .55rem;
+}
+
+.md-typeset .tactical-panels img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 25rem;
+  margin-inline: auto;
+}
+
+.md-typeset .tactical-key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3em 1em;
+  margin: .75em 0;
+  padding: 0;
+  list-style: none;
+  color: var(--field-text);
+  font-size: .86em;
+}
+
+.md-typeset .tactical-key li {
+  display: inline-flex;
+  align-items: center;
+  gap: .42em;
+  margin: 0;
+}
+
+.tactical-key i {
+  display: inline-block;
+  box-sizing: border-box;
+  flex: none;
+  width: 1em;
+  height: .78em;
+}
+
+.tactical-key .key-ally {
+  width: .78em;
+  border: 2px solid var(--tactical-ally);
+  border-radius: 50%;
+}
+
+.tactical-key .key-enemy {
+  width: .78em;
+  border: 2px solid var(--tactical-enemy);
+}
+
+.tactical-key .key-route { height: 0; border-top: 2px solid var(--tactical-ally); }
+.tactical-key .key-return { height: 0; border-top: 2px dashed var(--tactical-ally); }
+.tactical-key .key-access { height: 0; border-top: 2px solid var(--field-ink); }
+.tactical-key .key-cover { border: 2px dotted var(--tactical-ally); border-radius: 50%; }
+.tactical-key .key-window { border: 2px dotted var(--tactical-warning); border-radius: .15em; }
+.tactical-key .key-uncertainty {
+  width: .65em;
+  height: .65em;
+  margin-inline: .1em;
+  border: 2px solid var(--tactical-warning);
+  transform: rotate(45deg);
+}
+.tactical-key .key-threat {
+  border: 1px solid var(--tactical-enemy);
+  background: repeating-linear-gradient(125deg, transparent 0 2px, var(--tactical-enemy) 2px 3px);
+}
+
+.tactical-key .key-prior {
+  width: .78em;
+  border: 2px dashed var(--field-muted);
+  border-radius: 50%;
+}
+
+.tactical-key .key-last-known {
+  width: .78em;
+  border: 2px dashed var(--field-muted);
+}
+
+.tactical-key .key-inference {
+  height: 0;
+  border-top: 2px dotted var(--tactical-warning);
+}
+
+.md-typeset details:is(.tactical-text, .tactical-enlarge) {
+  margin: .65em 0 0;
+  border: 1px solid var(--field-border);
+  box-shadow: none;
+  color: var(--field-text);
+  background: var(--field-canvas);
+  font-size: .95em;
+}
+
+.md-typeset details:is(.tactical-text, .tactical-enlarge) > summary {
+  min-block-size: 44px;
+  padding: .55em 2.4em .55em .75em;
+  color: var(--field-ink);
+  background: transparent;
+}
+
+.md-typeset details:is(.tactical-text, .tactical-enlarge) > summary::before { display: none; }
+.md-typeset details:is(.tactical-text, .tactical-enlarge) > summary::after { color: var(--tactical-ally); }
+
+.tactical-zoom-scroll {
+  max-inline-size: 100%;
+  margin-block: .55em .75em;
+  overflow-x: auto;
+  border-radius: .4rem;
+}
+
+.md-typeset .tactical-zoom-scroll img {
+  display: block;
+  width: max(100%, 640px);
+  max-width: none;
+  height: auto;
+}
+
+.md-typeset .tactical-jump:focus-visible,
+.md-typeset .tactical-figure:focus-visible,
+.md-typeset .tactical-zoom-scroll:focus-visible,
+.md-typeset details:is(.tactical-text, .tactical-enlarge) > summary:focus-visible {
+  outline: 2px solid var(--tactical-ally);
+  outline-offset: -3px;
+}

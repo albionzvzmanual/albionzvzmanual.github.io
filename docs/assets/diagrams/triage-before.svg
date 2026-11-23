@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 300" role="img" aria-labelledby="title desc">
+  <title id="title">A / Before the heal</title>
+  <desc id="desc">On this hypothetical withdrawal, the healer has reached cover on the near side. An injured ally is moving toward the healer, while the threatened tail is still on the approach. Predict where those allies can receive help when the selected effect takes place.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0v20" stroke="#b3e6c9" stroke-opacity=".08" fill="none"/>
+    </pattern>
+    <pattern id="stone" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="8" height="8" fill="#202c26"/>
+      <path d="M0 0v8" stroke="#81948a" stroke-opacity=".45" stroke-width="2"/>
+    </pattern>
+    <pattern id="hazard" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <path d="M0 0v7" stroke="#f1aba2" stroke-opacity=".42" stroke-width="2"/>
+    </pattern>
+    <marker id="advance" viewBox="0 0 10 10" markerWidth="5" markerHeight="5" refX="9" refY="5" orient="auto">
+      <path d="M0 0l10 5-10 5z" fill="#b3e6c9"/>
+    </marker>
+    <marker id="return" viewBox="0 0 10 10" markerWidth="5" markerHeight="5" refX="8" refY="5" orient="auto">
+      <path d="m1 1 7 4-7 4" fill="none" stroke="#b3e6c9" stroke-width="1.8"/>
+    </marker>
+  </defs>
+  <style>
+    text { font: 600 15.5px system-ui, sans-serif; fill: #eef3ef; }
+    .heading { font-size: 21px; font-weight: 720; }
+    .sub, .foot { fill: #b8cbc1; }
+    .strong { font-weight: 720; }
+    .central { text-anchor: middle; dominant-baseline: central; }
+    .map-label { paint-order: stroke; stroke: #171f1c; stroke-width: 3.5; stroke-linejoin: round; }
+    .ally { fill: #22382e; stroke: #b3e6c9; stroke-width: 2; }
+    .enemy { fill: #422b29; stroke: #f1aba2; stroke-width: 2; }
+    .warning { fill: #332e21; stroke: #f2cc99; stroke-width: 1.8; }
+    .warning-label { fill: #f2cc99; }
+    .ghost { fill: #25312b; stroke: #b8cbc1; stroke-width: 2; stroke-dasharray: 3 3; }
+    .path { fill: none; stroke: #b3e6c9; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#advance); }
+    .return { fill: none; stroke: #b3e6c9; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 6 5; marker-end: url(#return); }
+    .cover { fill: #b3e6c91e; stroke: #b3e6c9; stroke-width: 1.8; stroke-dasharray: 2 4; stroke-linecap: round; }
+    .threat { fill: url(#hazard); stroke: #f1aba2; stroke-width: 1.5; }
+    .terrain { fill: url(#stone); stroke: #a2b3a9; stroke-width: 1.5; }
+    .cue { fill: none; stroke: #f2cc99; stroke-width: 2; stroke-dasharray: 1 4; stroke-linecap: round; }
+    .reach { fill: none; stroke: #eef3ef; stroke-width: 1.8; stroke-linecap: round; }
+    .seam { fill: none; stroke: #536c5e; stroke-width: 1.2; }
+  </style>
+  <rect x="1" y="1" width="358" height="298" rx="10" fill="#171f1c" stroke="#637d6e" stroke-width="1.5"/>
+  <rect x="12" y="60" width="336" height="199" rx="5" fill="#121916" stroke="#465c50"/>
+  <rect x="13" y="61" width="334" height="197" rx="4" fill="url(#grid)"/>
+  <text class="heading" x="15" y="27">A / Before the heal</text>
+  <text class="sub" x="15" y="49">Follow the withdrawal</text>
+  <path class="terrain" d="M193 79h39v73h-39zm0 109h39v56h-39z"/>
+    <text class="map-label" x="194" y="166">Gate</text>
+    <path class="threat" d="M257 160l50-14 29 42-18 43-51-25z"/>
+    <rect class="enemy" x="293" y="120" width="26" height="22" rx="2"/><text class="central" x="306" y="131">E</text>
+    <path class="return" d="M291 210q-22-31-48-37l-71-4q-30-2-46-38"/>
+    <circle class="ally" cx="105" cy="113" r="12"/><text class="central" x="105" y="113">H</text><circle class="ally" cx="170" cy="184" r="12"/><text class="central" x="170" y="184">I</text><circle class="ally" cx="278" cy="210" r="12"/><text class="central" x="278" y="210">T</text>
+    <text class="map-label" x="27" y="93">Covered side</text>
+    <path class="reach" d="m117 207 37-17"/>
+    <text class="map-label" x="26" y="212">Injured ally</text>
+    <text class="map-label warning-label" x="255" y="246">Tail at risk</text>
+  <text class="foot" x="15" y="285">H healer · I injured ally · T tail · E enemy</text>
+</svg>
